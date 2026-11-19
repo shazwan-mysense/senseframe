@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="SenseFrame">
+  <title>SenseFrame</title>
+  <!-- Four corner brackets: the crop marks you measure a page with. Each takes
+       one hue from the spectrum, so the mark carries the whole palette at any
+       size. The centre square is the thing being measured. -->
+  <g fill="none" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 22V12a4 4 0 0 1 4-4h10"   stroke="#2F5BEA"/>
+    <path d="M42 8h10a4 4 0 0 1 4 4v10"   stroke="#8B3FE0"/>
+    <path d="M56 42v10a4 4 0 0 1-4 4H42"  stroke="#EE4338"/>
+    <path d="M22 56H12a4 4 0 0 1-4-4V42"  stroke="#FFC42E"/>
+  </g>
+  <rect x="24" y="24" width="16" height="16" rx="5" fill="#15C4B0"/>
+</svg>

@@ -1,0 +1,3 @@
+# An internal tool. Not for indexing.
+User-agent: *
+Disallow: /

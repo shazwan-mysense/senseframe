@@ -1,0 +1,129 @@
+:root {
+  --page: #FFFFFF;
+  --text: #1A1A1A;
+  --font: "Manrope", ui-sans-serif, system-ui, sans-serif;
+  --display-size: 88px;
+  --wrap: 1440px;
+  --dur: 700ms;
+  --ease: cubic-bezier(0.22,1,0.36,1);
+  --marquee-speed: 24.0px;
+}
+* { box-sizing: border-box; }
+body { margin:0; background:var(--page); color:var(--text); font-family:var(--font);
+        -webkit-font-smoothing:antialiased; line-height:1.55; }
+img { max-width:100%; height:auto; display:block; }
+.sec { background:var(--secbg, transparent); padding:var(--pt, 0) 0 var(--pb, 0);
+        min-height:var(--minh, 0); }
+.wrap { max-width:var(--wrap); margin:0 auto; width:100%; }
+.row { display:flex; flex-wrap:wrap; width:100%; max-width:100%; align-items:flex-start; }
+body { overflow-x:hidden; }
+.sf-credit { padding:26px 20px; text-align:center; }
+.sf-credit p { margin:0; font-size:12.5px; opacity:.62; }
+.col { display:flex; flex-direction:column; width:100%; }
+.cell, .stack { min-width:0; max-width:100%; }
+.stack { margin-top:var(--mt, 0); width:var(--w, 100%); max-width:100%; }
+/* Measured height as a FLOOR, not a ceiling. Pinning it exactly made copy that
+   wraps taller than the source overflow its box and sit on top of whatever came
+   next — the hero subtext landed across the headline. Height drift is the
+   lesser fault. */
+.pinned { min-height:var(--h); }
+/* Measured placement, one rule set, three widths. Mobile is the base and the
+   wider breakpoints override; a value missing at one width falls back to the
+   next width that has one. */
+.abs-sec { padding:0; height:var(--absh); overflow:hidden; }
+.stage { position:relative; width:390px; height:var(--absh);
+          transform-origin:top left; }
+.pin { position:absolute; left:var(--x); top:var(--y);
+        width:var(--w); min-height:var(--h); }
+.pin-img { height:var(--h); }
+.pin-img > .b, .pin-img .tinted, .pin-img .shot-show { height:100%; }
+.pin-img img { width:100%; height:100%; object-fit:cover; }
+.pin > .b { width:100%; }
+.pin .h, .pin .t { max-width:100%; }
+.no-sm { display:none; }
+
+@media (min-width: 700px) {
+  .abs-sec { height:var(--absh-md, var(--absh)); }
+  .stage { width:810px; height:var(--absh-md, var(--absh)); }
+  .pin { left:var(--x-md, var(--x)); top:var(--y-md, var(--y));
+          width:var(--w-md, var(--w)); min-height:var(--h-md, var(--h)); }
+  .pin-img { height:var(--h-md, var(--h)); }
+  .no-sm { display:block; }
+  .no-md { display:none; }
+}
+
+@media (min-width: 1200px) {
+  .abs-sec { height:var(--absh-lg); }
+  .stage { width:1440px; height:var(--absh-lg); }
+  .pin { left:var(--x-lg); top:var(--y-lg);
+          width:var(--w-lg); min-height:var(--h-lg); }
+  .pin-img { height:var(--h-lg); }
+  .no-md { display:block; }
+}
+
+.pin-panel {
+  background: var(--panel-bg, transparent);
+  border-radius: var(--panel-r, 0);
+  border: var(--panel-bd, 0);
+}
+.tinted { position:relative; display:block; line-height:0; }
+.tinted > i { position:absolute; inset:0; display:block; pointer-events:none;
+               border-radius:6px; }
+.shot-wrap { position:relative; width:100%; overflow:hidden; border-radius:6px; }
+.shot-wrap img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; }
+.shot-wrap .scrim { position:absolute; inset:0; display:block; pointer-events:none; }
+.shot-show { position:relative; width:100%; overflow:hidden; border-radius:6px; }
+.shot-show .slide { position:absolute; inset:0; width:100%; height:100%;
+                     object-fit:cover; opacity:0; transition:opacity .9s ease; }
+.shot-show .slide.on { opacity:1; }
+.card { border:1px solid color-mix(in srgb, var(--text) 12%, transparent);
+         border-radius:12px; padding:18px; }
+.card .img { border-radius:8px; }
+@media (min-width: 900px) {
+  .row { margin-top:var(--mt, 0); }
+  .cell { width:var(--w); margin-left:var(--ml, 0); flex:0 1 auto; }
+}
+.h { font-size:var(--fs); font-weight:var(--fw); color:var(--c); line-height:1.12;
+      letter-spacing:-0.02em; margin:0; max-width:min(100%, var(--mw, 22ch)); }
+.t { font-size:var(--fs); color:var(--c); margin:0; line-height:1.55;
+      max-width:min(100%, var(--mw, 62ch)); }
+.btn { display:inline-block; background:var(--bg, transparent); color:var(--c);
+        border-radius:var(--r); padding:14px 26px; text-decoration:none; font-weight:600;
+        border:1px solid color-mix(in srgb, var(--c) 22%, transparent); }
+.lnk { color:var(--c); text-decoration:none; font-weight:500; }
+.li { font-size:16px; }
+.img { border-radius:6px; width:100%; object-fit:cover; }
+.holder { position:relative; }
+.over { position:absolute; inset:0; }
+.abs { position:absolute; }
+.abs .b { opacity:1; transform:none; }
+
+.nav { position:fixed; top:0; left:0; right:0; z-index:50; height:var(--navh, 80px);
+        background:var(--navbg, transparent); backdrop-filter:saturate(1.1) blur(6px); }
+.nav-wrap { display:flex; height:100%; align-items:center; }
+.ncell { width:var(--w); margin-left:var(--ml, 0); flex:0 0 auto; }
+.nav .b { opacity:1; transform:none; }
+.nav .lnk { font-size:14px; }
+@media (max-width: 899px) { .nav { display:none; } }
+
+.marquee { width:100%; overflow:hidden; mask-image:linear-gradient(90deg,transparent,#000 6%,#000 94%,transparent); }
+.marquee-track { display:flex; gap:44px; width:max-content;
+                  animation:marq calc(var(--marquee-count,18) * 1s * 120 / 24.0) linear infinite; }
+.marquee-track .img { width:auto; height:30px; object-fit:contain; }
+@keyframes marq { to { transform:translateX(-50%); } }
+
+/* entrance, measured from the source's dominant reveal */
+.b { opacity:0; transform:translateY(-70px) scale(1.0);
+      transition:opacity var(--dur) var(--ease), transform var(--dur) var(--ease);
+      transition-delay:var(--d, 0ms); }
+.b.in { opacity:1; transform:none; }
+@media (prefers-reduced-motion: reduce) {
+  .b { opacity:1; transform:none; transition:none; }
+}
+@media (max-width: 899px) {
+  .pinned { min-height:0; }
+  .sec { padding:56px 16px; min-height:0; }
+  .row { flex-direction:column; gap:18px; margin-top:24px; }
+  .cell { width:100%; margin-left:0; }
+  .h { font-size:clamp(28px, 7vw, var(--fs)); }
+}

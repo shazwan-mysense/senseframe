@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" role="img" aria-label="Framey, the SenseFrame mascot">
+  <title>Framey</title>
+  <!-- Flat vector in the reference's language: one body shape, limbs as thick
+       round-capped strokes of the same fill, dot eyes with brows, open smile.
+
+       Two things the geometry has to respect. The body is an arch whose right
+       edge sits near x=209 at y=200, so a resting arm starting inside that
+       reads as a lump rather than a limb — it has to clear the silhouette.
+       And the feet are wider than the legs, so they need daylight between
+       them or they merge into one shape. -->
+
+  <!-- limbs, drawn first so the body covers where they join -->
+  <g stroke="#FFC42E" fill="none" stroke-linecap="round">
+    <path d="M124 240v86" stroke-width="34"/>
+    <path d="M176 240v86" stroke-width="34"/>
+    <path d="M112 212 78 160" stroke-width="26"/>
+    <!-- resting arm: clears the body edge, then falls -->
+    <path d="M198 192c30 12 42 32 38 60" stroke-width="26"/>
+  </g>
+
+  <!-- feet: wider than the leg, toes outward, daylight between them -->
+  <g fill="#FFC42E">
+    <path d="M98 322h46a0 0 0 0 1 0 0v12a10 10 0 0 1-10 10h-36a10 10 0 0 1-10-10v-2a10 10 0 0 1 10-10z"/>
+    <path d="M156 322h46a10 10 0 0 1 10 10v2a10 10 0 0 1-10 10h-36a10 10 0 0 1-10-10z"/>
+  </g>
+
+  <!-- fist with the thumb up -->
+  <g fill="#FFC42E">
+    <rect x="48" y="104" width="58" height="54" rx="22"/>
+    <rect x="58" y="62" width="26" height="66" rx="13"/>
+  </g>
+  <g stroke="#A87400" stroke-width="4.5" stroke-linecap="round" opacity=".5">
+    <path d="M64 122h28"/><path d="M64 134h28"/><path d="M64 146h24"/>
+  </g>
+
+  <!-- body -->
+  <path d="M150 62c12 0 23 7 28 18l54 128a26 26 0 0 1-24 36H92a26 26 0 0 1-24-36L122 80c5-11 16-18 28-18z" fill="#FFC42E"/>
+
+  <!-- face -->
+  <g fill="#15151C">
+    <circle cx="130" cy="158" r="8"/>
+    <circle cx="178" cy="158" r="8"/>
+  </g>
+  <g fill="none" stroke="#15151C" stroke-width="6.5" stroke-linecap="round">
+    <path d="M119 137c5-6 14-7 20-2"/>
+    <path d="M169 135c6-5 16-4 20 2"/>
+  </g>
+  <path d="M126 180h56a28 28 0 0 1-56 0z" fill="#15151C"/>
+  <path d="M143 197h22a11 11 0 0 1-22 0z" fill="#EE4338"/>
+</svg>

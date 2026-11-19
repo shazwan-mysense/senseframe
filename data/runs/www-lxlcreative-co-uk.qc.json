@@ -1,0 +1,458 @@
+{
+ "slug": "www-lxlcreative-co-uk",
+ "page": "data/clones/www-lxlcreative-co-uk/index.html",
+ "rebranded": false,
+ "when": "2026-11-19T15:19:36",
+ "counts": {
+  "pass": 8,
+  "fail": 5,
+  "warn": 3,
+  "skip": 25
+ },
+ "blocking": 5,
+ "checks": [
+  {
+   "group": "Developer QA",
+   "item": "No Lorem ipsum / placeholder text on any page",
+   "state": "pass",
+   "detail": "all 43 text blocks are the client's own words",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "PM QA",
+   "item": "Company name consistent across the page",
+   "state": "skip",
+   "detail": "no client name in the brief yet",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "All images load correctly and are optimized (< 500KB each)",
+   "state": "pass",
+   "detail": "every image is under 500KB",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": "Re-export these under 500KB before the Elementor pack."
+  },
+  {
+   "group": "PM QA",
+   "item": "All images have descriptive alt text",
+   "state": "fail",
+   "detail": "18 of 18 images have no alt text",
+   "items": [
+    "assets/b0daf6130362.avif",
+    "assets/560048f5cc82.avif",
+    "assets/76fbefea8187.avif",
+    "assets/9bee8a41f3be.avif",
+    "assets/c33b632b6eda.avif",
+    "assets/5e81b1527775.avif",
+    "assets/e80c59b66c92.avif",
+    "assets/ee1b8d328fa0.avif",
+    "assets/bbd04a2822bf.avif",
+    "assets/31d6d82d9234.avif",
+    "assets/613127c46d2a.avif",
+    "assets/cdfc8427838e.avif"
+   ],
+   "more": 6,
+   "blocking": true,
+   "fix": "Alt text describes the photo for a screen reader and for Google; it cannot be generated from a stock search term."
+  },
+  {
+   "group": "PM QA",
+   "item": "Client logo and branding assets used correctly",
+   "state": "skip",
+   "detail": "this is the template clone, not a client build",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "All pages load without errors (no 404 or 500 errors)",
+   "state": "pass",
+   "detail": "every stylesheet, script and image on the page resolves",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": "Re-run the rebuild; an asset download failed."
+  },
+  {
+   "group": "Developer QA",
+   "item": "All external links open in a new tab",
+   "state": "pass",
+   "detail": "no external links on this page",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "All internal links work correctly",
+   "state": "warn",
+   "detail": "1 link(s) point at a page that does not exist yet",
+   "items": [
+    "#"
+   ],
+   "more": 0,
+   "blocking": false,
+   "fix": "These become real pages in WordPress. Point them at the right slug when you build the rest of the site."
+  },
+  {
+   "group": "PM QA",
+   "item": "Social media links correct and functional",
+   "state": "pass",
+   "detail": "no social links on this page",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "Contact numbers and email addresses are correct and clickable",
+   "state": "fail",
+   "detail": "the brief has no phone number or email address, so nothing on the page can be checked against the client",
+   "items": [],
+   "more": 0,
+   "blocking": true,
+   "fix": "Add them on the Brand tab; the rebuild then puts them into the page and its links."
+  },
+  {
+   "group": "Developer QA",
+   "item": "WhatsApp / CTA buttons functional and linked to correct number",
+   "state": "skip",
+   "detail": "no number in the brief",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "Footer includes: Copyright \u00a9 [Year] [Brand]. Project by MYSense Marketing",
+   "state": "fail",
+   "detail": "missing: \u00a9 2026, \u201cProject by MYSense Marketing\u201d",
+   "items": [],
+   "more": 0,
+   "blocking": true,
+   "fix": "Add it as the last text block in the footer section of Edit content."
+  },
+  {
+   "group": "PM QA",
+   "item": "Page titles and meta descriptions set correctly",
+   "state": "fail",
+   "detail": "no meta description",
+   "items": [],
+   "more": 0,
+   "blocking": true,
+   "fix": "Both come from the brief: the name and what the business does. Yoast carries them across on import."
+  },
+  {
+   "group": "Developer QA",
+   "item": "Favicon uploaded and displays correctly",
+   "state": "fail",
+   "detail": "no favicon on the page",
+   "items": [],
+   "more": 0,
+   "blocking": true,
+   "fix": ""
+  },
+  {
+   "group": "Developer QA",
+   "item": "Mobile, 402px wide \u2014 nothing cut off at the right edge",
+   "state": "warn",
+   "detail": "8 element(s) run past the right edge and are clipped",
+   "items": [
+    "stage to 418px",
+    "stage to 418px",
+    "pin pin-img to 582px",
+    "stage to 418px",
+    "stage to 418px",
+    "stage to 418px",
+    "pin pin-img to 418px",
+    "tinted to 418px"
+   ],
+   "more": 0,
+   "blocking": false,
+   "fix": "A section is wider than the screen. Usually a fixed width that needs a percentage."
+  },
+  {
+   "group": "Developer QA",
+   "item": "Mobile, 402px wide \u2014 readable type and tappable buttons",
+   "state": "pass",
+   "detail": "type and tap targets are within reach",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": "Checked by measurement, not on a real iOS Safari or Android Chrome device \u2014 do that too."
+  },
+  {
+   "group": "Developer QA",
+   "item": "Tablet, 810px wide \u2014 nothing cut off at the right edge",
+   "state": "warn",
+   "detail": "8 element(s) run past the right edge and are clipped",
+   "items": [
+    "stage to 826px",
+    "stage to 826px",
+    "stage to 826px",
+    "stage to 826px",
+    "stage to 826px",
+    "pin pin-img to 830px",
+    "tinted to 830px",
+    "b img in to 830px"
+   ],
+   "more": 0,
+   "blocking": false,
+   "fix": "A section is wider than the screen. Usually a fixed width that needs a percentage."
+  },
+  {
+   "group": "Developer QA",
+   "item": "Tablet, 810px wide \u2014 readable type and tappable buttons",
+   "state": "pass",
+   "detail": "type and tap targets are within reach",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": "Checked by measurement, not on a real iOS Safari or Android Chrome device \u2014 do that too."
+  },
+  {
+   "group": "Developer QA",
+   "item": "Desktop, 1440px wide \u2014 nothing cut off at the right edge",
+   "state": "pass",
+   "detail": "nothing runs past the right edge",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": "A section is wider than the screen. Usually a fixed width that needs a percentage."
+  },
+  {
+   "group": "After go-live",
+   "item": "PLUGIN: Elementor Pro \u2014 installed and activated",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "PLUGIN: Yoast SEO \u2014 installed and activated",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "PLUGIN: Trustindex.io \u2014 installed and activated",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "PLUGIN: Wordfence (Security) \u2014 installed and activated",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "Unnecessary default plugins and themes removed",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "All installed plugins are up to date",
+   "state": "skip",
+   "detail": "checked on the live site",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "Website SSL certificate is active (https:// confirmed)",
+   "state": "skip",
+   "detail": "needs the WordPress install",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "All forms submit successfully and trigger email confirmation",
+   "state": "skip",
+   "detail": "needs the WordPress install",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "Contact form routes to correct email address",
+   "state": "skip",
+   "detail": "needs the WordPress install",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "404 error page is set up",
+   "state": "skip",
+   "detail": "needs the WordPress install",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "WordPress admin login works with a secure password",
+   "state": "skip",
+   "detail": "needs the WordPress install",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "Page speed \u2014 Desktop score >= 80 (PageSpeed Insights)",
+   "state": "skip",
+   "detail": "needs a public URL",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "After go-live",
+   "item": "Page speed \u2014 Mobile score >= 70 (PageSpeed Insights)",
+   "state": "skip",
+   "detail": "needs a public URL",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "All page content matches the approved Google Sites version",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Staging site matches approved mock design",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "All CTAs present and match the approved brief",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Company address consistent across all pages",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Revision Tracking Sheet up to date with all rounds logged",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Client has provided written final approval",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Developer and PM checklists signed off in Asana",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "Project folder in Google Drive complete",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  },
+  {
+   "group": "Needs a person",
+   "item": "SEO Active Project Masterfile updated with go-live date",
+   "state": "skip",
+   "detail": "a person has to say",
+   "items": [],
+   "more": 0,
+   "blocking": false,
+   "fix": ""
+  }
+ ]
+}

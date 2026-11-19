@@ -1,0 +1,141 @@
+{
+ "slug": "www-leocussen-edu-au-practical-legal-training",
+ "title": "Practical Legal Training (PLT) \u2013 Leo Cussen",
+ "source_url": "https://www.leocussen.edu.au/practical-legal-training/",
+ "stack": "webflow",
+ "captured_at": "2026-11-16T15:14:42+0800",
+ "page_height": 9222,
+ "clone_height": 3828,
+ "height_ratio": 0.415,
+ "mean_score": 73.3,
+ "tracked": 163,
+ "motion_counts": {},
+ "lead_motion": null,
+ "warnings": [],
+ "sections": [
+  {
+   "id": "s00",
+   "name": "How you'll learn\nHow you'll learn",
+   "blocks": 32,
+   "height": 1050,
+   "score": 71.2,
+   "regions": [
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 52.9
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 42.2
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 24.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/www-leocussen-edu-au-practical-legal-training/00-src.jpg",
+    "cln": "data/runs/www-leocussen-edu-au-practical-legal-training/00-cln.jpg"
+   }
+  },
+  {
+   "id": "s01",
+   "name": "Choose your study mode\nChoose your study mode",
+   "blocks": 29,
+   "height": 629,
+   "score": 80.7,
+   "regions": [
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 25.1
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 6.3
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 6.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/www-leocussen-edu-au-practical-legal-training/01-src.jpg",
+    "cln": "data/runs/www-leocussen-edu-au-practical-legal-training/01-cln.jpg"
+   }
+  },
+  {
+   "id": "s02",
+   "name": "What our graduates say\nWhat our graduates say",
+   "blocks": 22,
+   "height": 662,
+   "score": 61.7,
+   "regions": [
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 25.2
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 22.8
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 21.5
+    }
+   ],
+   "shots": {
+    "src": "data/runs/www-leocussen-edu-au-practical-legal-training/02-src.jpg",
+    "cln": "data/runs/www-leocussen-edu-au-practical-legal-training/02-cln.jpg"
+   }
+  },
+  {
+   "id": "s03",
+   "name": "Frequently asked questions\nFrequently asked question",
+   "blocks": 43,
+   "height": 1487,
+   "score": 79.5,
+   "regions": [
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 24.9
+    },
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 8.5
+    },
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 8.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/www-leocussen-edu-au-practical-legal-training/03-src.jpg",
+    "cln": "data/runs/www-leocussen-edu-au-practical-legal-training/03-cln.jpg"
+   }
+  }
+ ]
+}

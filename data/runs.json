@@ -1,0 +1,42 @@
+[
+ {
+  "slug": "angelic-troll-370301-framer-app",
+  "title": "Assay \u2014 Preventive longevity clinic, London",
+  "source_url": "https://angelic-troll-370301.framer.app/",
+  "stack": "framer",
+  "mean_score": 87.3,
+  "captured_at": "2026-11-19T14:22:48+0800"
+ },
+ {
+  "slug": "kairn-framer-website",
+  "title": "Kairn - Architecture, Interiors & Materiality",
+  "source_url": "https://kairn.framer.website/",
+  "stack": "framer",
+  "mean_score": 79.0,
+  "captured_at": "2026-11-19T11:49:30+0800"
+ },
+ {
+  "slug": "kora-framer-media",
+  "title": "Kora \u2014 Growth Consulting & Agency Framer Template",
+  "source_url": "https://kora.framer.media/",
+  "stack": "framer",
+  "mean_score": 82.1,
+  "captured_at": "2026-11-19T11:44:40+0800"
+ },
+ {
+  "slug": "www-leocussen-edu-au-practical-legal-training",
+  "title": "Practical Legal Training (PLT) \u2013 Leo Cussen",
+  "source_url": "https://www.leocussen.edu.au/practical-legal-training/",
+  "stack": "webflow",
+  "mean_score": 73.3,
+  "captured_at": "2026-11-16T15:14:42+0800"
+ },
+ {
+  "slug": "www-lxlcreative-co-uk",
+  "title": "LxL Creative",
+  "source_url": "https://www.lxlcreative.co.uk/",
+  "stack": "webflow",
+  "mean_score": 54.3,
+  "captured_at": "2026-11-19T11:46:25+0800"
+ }
+]

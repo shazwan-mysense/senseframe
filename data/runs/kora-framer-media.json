@@ -1,0 +1,349 @@
+{
+ "slug": "kora-framer-media",
+ "title": "Kora \u2014 Growth Consulting & Agency Framer Template",
+ "source_url": "https://kora.framer.media/",
+ "stack": "framer",
+ "captured_at": "2026-11-19T11:44:40+0800",
+ "page_height": 22503,
+ "clone_height": 21254,
+ "height_ratio": 0.944,
+ "mean_score": 82.1,
+ "tracked": 376,
+ "motion_counts": {
+  "appear": 7,
+  "scroll-scrub": 1,
+  "marquee": 1
+ },
+ "lead_motion": {
+  "properties": [
+   {
+    "from": 0,
+    "name": "opacity",
+    "to": 1.0
+   },
+   {
+    "from_px": 30,
+    "name": "translateY",
+    "to_px": 0
+   }
+  ],
+  "duration_ms": 700,
+  "stagger_ms": 80,
+  "applies_to": 20,
+  "method": "inferred",
+  "confidence": 0.45
+ },
+ "warnings": [],
+ "sections": [
+  {
+   "id": "s00",
+   "name": "Your growth partner for companies ready to scale.",
+   "blocks": 36,
+   "height": 5405,
+   "score": 82.2,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 15.1
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 11.7
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 10.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/00-src.jpg",
+    "cln": "data/runs/kora-framer-media/00-cln.jpg"
+   }
+  },
+  {
+   "id": "s01",
+   "name": "Services.",
+   "blocks": 110,
+   "height": 5021,
+   "score": 81.9,
+   "regions": [
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 19.4
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 16.7
+    },
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 10.6
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/01-src.jpg",
+    "cln": "data/runs/kora-framer-media/01-cln.jpg"
+   }
+  },
+  {
+   "id": "s02",
+   "name": "Most consultancies slow you down with process and ov",
+   "blocks": 33,
+   "height": 2256,
+   "score": 67.5,
+   "regions": [
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 80.4
+    },
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 66.9
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 6.8
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/02-src.jpg",
+    "cln": "data/runs/kora-framer-media/02-cln.jpg"
+   }
+  },
+  {
+   "id": "s03",
+   "name": "Meet the team behind the growth.",
+   "blocks": 30,
+   "height": 1552,
+   "score": 83.8,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 14.8
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 10.9
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 8.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/03-src.jpg",
+    "cln": "data/runs/kora-framer-media/03-cln.jpg"
+   }
+  },
+  {
+   "id": "s04",
+   "name": "Testimonials",
+   "blocks": 41,
+   "height": 1956,
+   "score": 76.9,
+   "regions": [
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 24.7
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 16.5
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 16.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/04-src.jpg",
+    "cln": "data/runs/kora-framer-media/04-cln.jpg"
+   }
+  },
+  {
+   "id": "s05",
+   "name": "How Sitemark broke through an $18M plateau and grew ",
+   "blocks": 26,
+   "height": 870,
+   "score": 94.7,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 11.5
+    },
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 10.7
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 5.3
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/05-src.jpg",
+    "cln": "data/runs/kora-framer-media/05-cln.jpg"
+   }
+  },
+  {
+   "id": "s06",
+   "name": "Pricing for your next stage.",
+   "blocks": 33,
+   "height": 1004,
+   "score": 87.2,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 30.3
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 20.8
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 14.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/06-src.jpg",
+    "cln": "data/runs/kora-framer-media/06-cln.jpg"
+   }
+  },
+  {
+   "id": "s07",
+   "name": "FAQ",
+   "blocks": 21,
+   "height": 1134,
+   "score": 93.2,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 6.4
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 2.5
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 2.5
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/07-src.jpg",
+    "cln": "data/runs/kora-framer-media/07-cln.jpg"
+   }
+  },
+  {
+   "id": "s08",
+   "name": "Insights.",
+   "blocks": 11,
+   "height": 791,
+   "score": 89.6,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 21.4
+    },
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 12.2
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 9.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/08-src.jpg",
+    "cln": "data/runs/kora-framer-media/08-cln.jpg"
+   }
+  },
+  {
+   "id": "s09",
+   "name": "Let's find your next growth lever.",
+   "blocks": 32,
+   "height": 1265,
+   "score": 63.5,
+   "regions": [
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 25.4
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 25.2
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 23.3
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kora-framer-media/09-src.jpg",
+    "cln": "data/runs/kora-framer-media/09-cln.jpg"
+   }
+  }
+ ]
+}

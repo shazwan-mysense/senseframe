@@ -1,0 +1,378 @@
+{
+ "slug": "angelic-troll-370301-framer-app",
+ "title": "Assay \u2014 Preventive longevity clinic, London",
+ "source_url": "https://angelic-troll-370301.framer.app/",
+ "stack": "framer",
+ "captured_at": "2026-11-19T14:22:48+0800",
+ "page_height": 10040,
+ "clone_height": 9263,
+ "height_ratio": 0.923,
+ "mean_score": 87.3,
+ "tracked": 296,
+ "motion_counts": {
+  "appear": 7
+ },
+ "lead_motion": {
+  "properties": [
+   {
+    "from": 0,
+    "name": "opacity",
+    "to": 1.0
+   },
+   {
+    "from_px": 10,
+    "name": "translateY",
+    "to_px": 0
+   }
+  ],
+  "duration_ms": 700,
+  "stagger_ms": 80,
+  "applies_to": 33,
+  "method": "inferred",
+  "confidence": 0.45
+ },
+ "warnings": [],
+ "sections": [
+  {
+   "id": "s00",
+   "name": "41 measurements.\nOne day.",
+   "blocks": 66,
+   "height": 813,
+   "score": 66.5,
+   "regions": [
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 33.5
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 28.3
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 26.2
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/00-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/00-cln.jpg"
+   }
+  },
+  {
+   "id": "s01",
+   "name": "41",
+   "blocks": 11,
+   "height": 377,
+   "score": 93.0,
+   "regions": [
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 9.8
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 8.2
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 8.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/01-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/01-cln.jpg"
+   }
+  },
+  {
+   "id": "s02",
+   "name": "One house, one day, hour by hour.",
+   "blocks": 41,
+   "height": 1071,
+   "score": 90.5,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 12.7
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 11.8
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 8.7
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/02-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/02-cln.jpg"
+   }
+  },
+  {
+   "id": "s03",
+   "name": "Four systems. Forty-one measurements.",
+   "blocks": 37,
+   "height": 1027,
+   "score": 93.1,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 8.6
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 8.6
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 7.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/03-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/03-cln.jpg"
+   }
+  },
+  {
+   "id": "s04",
+   "name": "Pick a number. See where it should sit.",
+   "blocks": 21,
+   "height": 699,
+   "score": 91.1,
+   "regions": [
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 22.6
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 14.8
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 14.7
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/04-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/04-cln.jpg"
+   }
+  },
+  {
+   "id": "s05",
+   "name": "64 pages. Every number with its range.",
+   "blocks": 29,
+   "height": 860,
+   "score": 72.4,
+   "regions": [
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 20.1
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 19.4
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 16.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/05-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/05-cln.jpg"
+   }
+  },
+  {
+   "id": "s06",
+   "name": "\u201cMost of what brings people to a cardiologist has be",
+   "blocks": 18,
+   "height": 1127,
+   "score": 87.8,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 17.1
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 14.8
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 12.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/06-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/06-cln.jpg"
+   }
+  },
+  {
+   "id": "s07",
+   "name": "One day. Or every year.",
+   "blocks": 27,
+   "height": 1034,
+   "score": 91.3,
+   "regions": [
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 14.1
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 12.7
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 9.0
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/07-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/07-cln.jpg"
+   }
+  },
+  {
+   "id": "s08",
+   "name": "CD",
+   "blocks": 10,
+   "height": 415,
+   "score": 97.1,
+   "regions": [
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 10.5
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 8.6
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 8.5
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/08-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/08-cln.jpg"
+   }
+  },
+  {
+   "id": "s09",
+   "name": "Asked before every Assessment.",
+   "blocks": 14,
+   "height": 1080,
+   "score": 92.8,
+   "regions": [
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 9.0
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 6.1
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 5.8
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/09-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/09-cln.jpg"
+   }
+  },
+  {
+   "id": "s10",
+   "name": "See the house first.",
+   "blocks": 6,
+   "height": 760,
+   "score": 68.2,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 47.6
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 47.4
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 45.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/angelic-troll-370301-framer-app/10-src.jpg",
+    "cln": "data/runs/angelic-troll-370301-framer-app/10-cln.jpg"
+   }
+  }
+ ]
+}

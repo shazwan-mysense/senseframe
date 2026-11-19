@@ -1,0 +1,168 @@
+/* SenseFrame tokens.
+
+   The look is bento-dashboard: a quiet canvas carrying vivid, confident cards.
+   Colour is not decoration here — each surface role owns a hue, so a pricing
+   card and a capture card are told apart at a glance rather than by reading.
+
+   The spectrum runs MYSense blue → violet → magenta → red → orange → amber →
+   lime → teal, which gives nine fills that differ in hue AND lightness, so
+   nothing relies on colour alone.
+
+   Type: Righteous carries display (one weight by design, so hierarchy comes
+   from size and colour), Nunito carries everything else across 300–900. */
+
+:root {
+  /* ---- the spectrum: card fills, always with --on-<hue> for text */
+  --blue:      #2F5BEA;  --on-blue:    #FFFFFF;
+  --indigo:    #5B47E8;  --on-indigo:  #FFFFFF;
+  --violet:    #8B3FE0;  --on-violet:  #FFFFFF;
+  --magenta:   #D63D96;  --on-magenta: #FFFFFF;
+  --red:       #EE4338;  --on-red:     #FFFFFF;
+  --orange:    #FF8A2B;  --on-orange:  #2A1400;
+  --amber:     #FFC42E;  --on-amber:   #2E2200;
+  --lime:      #A8DA2E;  --on-lime:    #1E2A00;
+  --teal:      #15C4B0;  --on-teal:    #00241F;
+
+  /* soft washes of the same hues, for tinted panels on a light canvas */
+  --blue-soft:    rgba(47, 91, 234, .10);
+  --violet-soft:  rgba(139, 63, 224, .10);
+  --magenta-soft: rgba(214, 61, 150, .10);
+  --amber-soft:   rgba(255, 196, 46, .16);
+  --lime-soft:    rgba(168, 218, 46, .16);
+  --teal-soft:    rgba(21, 196, 176, .12);
+
+  /* ---- canvas */
+  --bg:          #F2F2F6;
+  --surface:     #FFFFFF;
+  --surface-2:   #F8F8FB;
+  --surface-3:   #ECECF1;
+  --sidebar:     #FFFFFF;
+  --ink-card:    #15151C;   /* the dark card that appears on a light canvas */
+  --on-ink:      #F4F4F7;
+
+  --line:        rgba(16, 16, 28, .08);
+  --line-firm:   rgba(16, 16, 28, .16);
+
+  --text:        #15151C;
+  --text-muted:  #5E5E6B;
+  --text-faint:  #8E8E9C;
+
+  --accent:      var(--blue);
+  --accent-hover:#2449C9;
+  --accent-soft: var(--blue-soft);
+  --accent-text: #FFFFFF;
+
+  --good:        #0F9A6A;
+  --good-soft:   rgba(15, 154, 106, .12);
+  --warn:        #B2741A;
+  --warn-soft:   rgba(255, 196, 46, .20);
+  --bad:         #CC2F26;
+  --bad-soft:    rgba(238, 67, 56, .12);
+
+  --shadow-sm:   0 1px 2px rgba(16, 16, 30, .05);
+  --shadow-md:   0 2px 8px rgba(16, 16, 30, .07), 0 12px 32px rgba(16, 16, 30, .07);
+  --shadow-lg:   0 28px 72px rgba(16, 16, 30, .20);
+  --shadow-pop:  0 10px 28px rgba(47, 91, 234, .26);
+
+  /* generous radii — the references are all heavily rounded */
+  --r-sm: 10px;
+  --r-md: 16px;
+  --r-lg: 22px;
+  --r-xl: 30px;
+  --r-pill: 980px;
+
+  --sidebar-w: 236px;
+  --rail-w: 296px;
+
+  --font:      "Nunito", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  --font-disp: "Righteous", "Nunito", -apple-system, sans-serif;
+
+  --ease: cubic-bezier(.22, .9, .3, 1);
+  --ease-pop: cubic-bezier(.34, 1.56, .64, 1);
+}
+
+/* Dark is the reference look's home: near-black canvas, the spectrum unchanged
+   so a card reads the same in both themes. */
+:root[data-theme="dark"] {
+  --bg:          #0B0B10;
+  --surface:     #16161E;
+  --surface-2:   #1E1E28;
+  --surface-3:   #282833;
+  --sidebar:     #101017;
+  --ink-card:    #F4F4F7;
+  --on-ink:      #15151C;
+
+  --line:        rgba(255, 255, 255, .09);
+  --line-firm:   rgba(255, 255, 255, .20);
+
+  --text:        #F4F4F7;
+  --text-muted:  #A2A2B2;
+  --text-faint:  #71717F;
+
+  --accent:      #5B82FF;
+  --accent-hover:#7B9BFF;
+  --accent-soft: rgba(91, 130, 255, .16);
+  --accent-text: #060C1C;
+
+  --blue-soft:    rgba(91, 130, 255, .16);
+  --violet-soft:  rgba(167, 108, 240, .16);
+  --magenta-soft: rgba(232, 102, 176, .16);
+  --amber-soft:   rgba(255, 196, 46, .18);
+  --lime-soft:    rgba(168, 218, 46, .18);
+  --teal-soft:    rgba(21, 196, 176, .18);
+
+  --good:        #35CE92;
+  --good-soft:   rgba(53, 206, 146, .16);
+  --warn:        #FFC42E;
+  --warn-soft:   rgba(255, 196, 46, .18);
+  --bad:         #FF6B60;
+  --bad-soft:    rgba(255, 107, 96, .16);
+
+  --shadow-sm:   0 1px 2px rgba(0, 0, 0, .5);
+  --shadow-md:   0 2px 8px rgba(0, 0, 0, .45), 0 12px 32px rgba(0, 0, 0, .38);
+  --shadow-lg:   0 28px 72px rgba(0, 0, 0, .65);
+  --shadow-pop:  0 10px 28px rgba(91, 130, 255, .32);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:          #0B0B10;
+    --surface:     #16161E;
+    --surface-2:   #1E1E28;
+    --surface-3:   #282833;
+    --sidebar:     #101017;
+    --ink-card:    #F4F4F7;
+    --on-ink:      #15151C;
+
+    --line:        rgba(255, 255, 255, .09);
+    --line-firm:   rgba(255, 255, 255, .20);
+
+    --text:        #F4F4F7;
+    --text-muted:  #A2A2B2;
+    --text-faint:  #71717F;
+
+    --accent:      #5B82FF;
+    --accent-hover:#7B9BFF;
+    --accent-soft: rgba(91, 130, 255, .16);
+    --accent-text: #060C1C;
+
+    --blue-soft:    rgba(91, 130, 255, .16);
+    --violet-soft:  rgba(167, 108, 240, .16);
+    --magenta-soft: rgba(232, 102, 176, .16);
+    --amber-soft:   rgba(255, 196, 46, .18);
+    --lime-soft:    rgba(168, 218, 46, .18);
+    --teal-soft:    rgba(21, 196, 176, .18);
+
+    --good:        #35CE92;
+    --good-soft:   rgba(53, 206, 146, .16);
+    --warn:        #FFC42E;
+    --warn-soft:   rgba(255, 196, 46, .18);
+    --bad:         #FF6B60;
+    --bad-soft:    rgba(255, 107, 96, .16);
+
+    --shadow-sm:   0 1px 2px rgba(0, 0, 0, .5);
+    --shadow-md:   0 2px 8px rgba(0, 0, 0, .45), 0 12px 32px rgba(0, 0, 0, .38);
+    --shadow-lg:   0 28px 72px rgba(0, 0, 0, .65);
+    --shadow-pop:  0 10px 28px rgba(91, 130, 255, .32);
+  }
+}

@@ -1,0 +1,8523 @@
+[
+  {
+    "slug": "angelic-troll-370301-framer-app",
+    "name": "Assay",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Preventive longevity clinic, London",
+    "title": "Assay \u2014 Preventive longevity clinic, London",
+    "source_url": "https://angelic-troll-370301.framer.app/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#120407",
+    "hero_bg": "#120407",
+    "sections": 11,
+    "page_height": 10040,
+    "palette": [
+      "#120407",
+      "#F4F3EF",
+      "#120407",
+      "#F0CE88",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#F4F3EF",
+      "#F4F3EF",
+      "#120407"
+    ],
+    "fonts": {
+      "display": "Geist",
+      "body": "Geist",
+      "display_px": 390,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "41 measurements.\nOne day.",
+        "height": 813,
+        "imgs": 4
+      },
+      {
+        "heading": "41",
+        "height": 377,
+        "imgs": 0
+      },
+      {
+        "heading": "One house, one day, hour by hour.",
+        "height": 1071,
+        "imgs": 0
+      },
+      {
+        "heading": "Four systems. Forty-one measurements.",
+        "height": 1027,
+        "imgs": 0
+      },
+      {
+        "heading": "Pick a number. See where it should sit.",
+        "height": 699,
+        "imgs": 0
+      },
+      {
+        "heading": "64 pages. Every number with its range.",
+        "height": 860,
+        "imgs": 1
+      },
+      {
+        "heading": "\u201cMost of what brings people to a cardiologist has been measurable for a decade. So we buil",
+        "height": 1127,
+        "imgs": 5
+      },
+      {
+        "heading": "One day. Or every year.",
+        "height": 1034,
+        "imgs": 0
+      },
+      {
+        "heading": "CD",
+        "height": 415,
+        "imgs": 0
+      },
+      {
+        "heading": "Asked before every Assessment.",
+        "height": 1080,
+        "imgs": 0
+      },
+      {
+        "heading": "See the house first.",
+        "height": 760,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/angelic-troll-370301-framer-app.jpg"
+  },
+  {
+    "slug": "kosmetisk-framer-website",
+    "name": "Kosmetisk",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Cosmetic Beauty Clinic",
+    "title": "Kosmetisk \u2014 Cosmetic Beauty Clinic Framer Template",
+    "source_url": "https://kosmetisk.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 8246,
+    "palette": [
+      "#FFFFFF",
+      "#FAFAFA",
+      "#FBF9F5",
+      "#F0F4EF",
+      "#F5F4FD"
+    ],
+    "text_colors": [
+      "#000000",
+      "#3D3D3D",
+      "#666570"
+    ],
+    "fonts": {
+      "display": "Roboto",
+      "body": "Noto Sans",
+      "display_px": 300,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Your glow",
+        "height": 658,
+        "imgs": 5
+      },
+      {
+        "heading": "Modern beauty with tender care",
+        "height": 746,
+        "imgs": 4
+      },
+      {
+        "heading": "Micro-pigmentation",
+        "height": 1713,
+        "imgs": 3
+      },
+      {
+        "heading": "With us, you are seen & heard",
+        "height": 612,
+        "imgs": 18
+      },
+      {
+        "heading": "Dedicated team of experts",
+        "height": 881,
+        "imgs": 3
+      },
+      {
+        "heading": "Have never been happier with the way I look and feel",
+        "height": 614,
+        "imgs": 1
+      },
+      {
+        "heading": "Maria Olsen",
+        "height": 960,
+        "imgs": 16
+      },
+      {
+        "heading": "Contact us",
+        "height": 677,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/kosmetisk-framer-website.jpg"
+  },
+  {
+    "slug": "dentart-framer-website",
+    "name": "DentArt",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Premium Dental Clinic",
+    "title": "DentArt - Premium Dental Clinic Template",
+    "source_url": "https://dentart.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 13,
+    "page_height": 10191,
+    "palette": [
+      "#F9F9F7",
+      "#FFFFFF",
+      "#EAF4EB",
+      "#47625D"
+    ],
+    "text_colors": [
+      "#545454",
+      "#47625D",
+      "#666666"
+    ],
+    "fonts": {
+      "display": "Outfit",
+      "body": "Outfit",
+      "display_px": 48,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Precision dentistry. Natural results.",
+        "height": 797,
+        "imgs": 7
+      },
+      {
+        "heading": "Our most recent work",
+        "height": 886,
+        "imgs": 0
+      },
+      {
+        "heading": "Most popular treatments",
+        "height": 886,
+        "imgs": 1
+      },
+      {
+        "heading": "Your smile, your solution",
+        "height": 508,
+        "imgs": 0
+      },
+      {
+        "heading": "Comprehensive dental care for every need",
+        "height": 563,
+        "imgs": 1
+      },
+      {
+        "heading": "Patient reviews",
+        "height": 1033,
+        "imgs": 4
+      },
+      {
+        "heading": "Our specialists",
+        "height": 728,
+        "imgs": 6
+      },
+      {
+        "heading": "Our mission",
+        "height": 560,
+        "imgs": 1
+      },
+      {
+        "heading": "Our 3-step process",
+        "height": 827,
+        "imgs": 1
+      },
+      {
+        "heading": "Blog",
+        "height": 700,
+        "imgs": 3
+      },
+      {
+        "heading": "Book a free professional consult",
+        "height": 646,
+        "imgs": 1
+      },
+      {
+        "heading": "Questions?",
+        "height": 662,
+        "imgs": 0
+      },
+      {
+        "heading": "Your journey to a perfect smile",
+        "height": 623,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/dentart-framer-website.jpg"
+  },
+  {
+    "slug": "nacre-framer-website",
+    "name": "Nacre",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Led Aesthetic Clinic",
+    "title": "Nacre - Doctor-led Aesthetic Clinic",
+    "source_url": "https://nacre.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7F2EA",
+    "hero_bg": "#F7F2EA",
+    "sections": 9,
+    "page_height": 7942,
+    "palette": [
+      "#F7F2EA",
+      "#EDE3D4",
+      "#2B211B",
+      "#8A5640",
+      "#FFFCF7"
+    ],
+    "text_colors": [
+      "#2B211B",
+      "#6E6158",
+      "#F7F2EA"
+    ],
+    "fonts": {
+      "display": "Gambetta",
+      "body": "Satoshi",
+      "display_px": 76,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Quietly confident skin.",
+        "height": 800,
+        "imgs": 1
+      },
+      {
+        "heading": "Chosen for your face, not the trend cycle.",
+        "height": 965,
+        "imgs": 4
+      },
+      {
+        "heading": "Start with what you\u2019d like to change.",
+        "height": 873,
+        "imgs": 0
+      },
+      {
+        "heading": "Medicine first. Aesthetics second.",
+        "height": 863,
+        "imgs": 1
+      },
+      {
+        "heading": "Subtle changes, seen up close.",
+        "height": 892,
+        "imgs": 6
+      },
+      {
+        "heading": "The people behind your plan.",
+        "height": 795,
+        "imgs": 4
+      },
+      {
+        "heading": "\u201cI came in asking for \u2018a little anti-wrinkle treatment\u2019 and left with an honest plan that ",
+        "height": 484,
+        "imgs": 0
+      },
+      {
+        "heading": "Notes from the clinic.",
+        "height": 815,
+        "imgs": 3
+      },
+      {
+        "heading": "Your first visit is simply a conversation.",
+        "height": 622,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/nacre-framer-website.jpg"
+  },
+  {
+    "slug": "fulcrumphysio-framer-website",
+    "name": "Fulcrumphysio",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Fulcrum Physical Therapy in Boulder, Colorado",
+    "title": "Fulcrum Physical Therapy in Boulder, Colorado",
+    "source_url": "https://fulcrumphysio.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#121110",
+    "hero_bg": "#121110",
+    "sections": 10,
+    "page_height": 18583,
+    "palette": [
+      "#121110",
+      "#F2EADF",
+      "#2E2218",
+      "#FFFFFF",
+      "#D98C4A"
+    ],
+    "text_colors": [
+      "#F2EADF",
+      "#121110",
+      "#121110"
+    ],
+    "fonts": {
+      "display": "Instrument Serif",
+      "body": "Hanken Grotesk",
+      "display_px": 250,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "OUR APPROACH",
+        "height": 1197,
+        "imgs": 1
+      },
+      {
+        "heading": "Treatment by body area",
+        "height": 983,
+        "imgs": 0
+      },
+      {
+        "heading": "Ways we treat",
+        "height": 2394,
+        "imgs": 3
+      },
+      {
+        "heading": "Your first visit, step by step",
+        "height": 903,
+        "imgs": 0
+      },
+      {
+        "heading": "The same face, every visit",
+        "height": 1310,
+        "imgs": 3
+      },
+      {
+        "heading": "PATIENT REVIEWS",
+        "height": 1068,
+        "imgs": 6
+      },
+      {
+        "heading": "What a visit costs",
+        "height": 1134,
+        "imgs": 0
+      },
+      {
+        "heading": "One clinic in downtown Boulder",
+        "height": 1251,
+        "imgs": 1
+      },
+      {
+        "heading": "Before your first visit",
+        "height": 909,
+        "imgs": 0
+      },
+      {
+        "heading": "Notes from the clinic",
+        "height": 1070,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/fulcrumphysio-framer-website.jpg"
+  },
+  {
+    "slug": "epidermis-framer-website",
+    "name": "Epidermis",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Advanced Skincare Solutions",
+    "title": "Epidermis \u2013 Advanced Skincare Solutions",
+    "source_url": "https://epidermis.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FEF5F0",
+    "hero_bg": "#FEF5F0",
+    "sections": 9,
+    "page_height": 12980,
+    "palette": [
+      "#FEF5F0",
+      "#6F3B24",
+      "#9F5434"
+    ],
+    "text_colors": [
+      "#9F5434",
+      "#FEF5F0",
+      "#FEF5F0"
+    ],
+    "fonts": {
+      "display": "Archivo",
+      "body": "Archivo",
+      "display_px": 96,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Because Your Skin Deserves the Best",
+        "height": 1373,
+        "imgs": 10
+      },
+      {
+        "heading": "About Us",
+        "height": 1258,
+        "imgs": 6
+      },
+      {
+        "heading": "Our Most Popular Skin Transformations",
+        "height": 2149,
+        "imgs": 9
+      },
+      {
+        "heading": "Real Patients, Real\u00a0Confidence",
+        "height": 1794,
+        "imgs": 3
+      },
+      {
+        "heading": "Stay Ahead with Skincare Trends",
+        "height": 802,
+        "imgs": 2
+      },
+      {
+        "heading": "Trusted Expertise, Certified Excellence",
+        "height": 1058,
+        "imgs": 0
+      },
+      {
+        "heading": "Join Us for Skincare Tips on Instagram",
+        "height": 1440,
+        "imgs": 8
+      },
+      {
+        "heading": "Got Questions? We\u2019ve Got Answers",
+        "height": 1137,
+        "imgs": 5
+      },
+      {
+        "heading": "Ready to Begin Your Skincare Journey?",
+        "height": 813,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/epidermis-framer-website.jpg"
+  },
+  {
+    "slug": "organiccare-framer-website",
+    "name": "Organiccare",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Organic Skincare & Beauty Clinic",
+    "title": "Organic Skincare & Beauty Clinic Framer Template",
+    "source_url": "https://organiccare.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 11928,
+    "palette": [
+      "#FFFFFF",
+      "#F5F5F5",
+      "#F8F2ED",
+      "#FEF6EF",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#0000EE",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "PP Mori SemiBold",
+      "body": "PP Mori Regular",
+      "display_px": 200,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "CLEAN, CONSCIOUS, PERFORMANCE",
+        "height": 1260,
+        "imgs": 6
+      },
+      {
+        "heading": "EXPLORE",
+        "height": 2021,
+        "imgs": 52
+      },
+      {
+        "heading": "SKIN",
+        "height": 1840,
+        "imgs": 0
+      },
+      {
+        "heading": "SERVICE",
+        "height": 600,
+        "imgs": 0
+      },
+      {
+        "heading": "REVIEWS",
+        "height": 1149,
+        "imgs": 5
+      },
+      {
+        "heading": "PRICING",
+        "height": 1522,
+        "imgs": 0
+      },
+      {
+        "heading": "BLOGS",
+        "height": 1182,
+        "imgs": 0
+      },
+      {
+        "heading": "FOLLOW US",
+        "height": 893,
+        "imgs": 15
+      }
+    ],
+    "thumb": "data/thumbs/organiccare-framer-website.jpg"
+  },
+  {
+    "slug": "oravia-framer-website",
+    "name": "Oravia",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Oravia",
+    "title": "Oravia",
+    "source_url": "https://oravia.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F8F9FD",
+    "hero_bg": "#F8F9FD",
+    "sections": 11,
+    "page_height": 9984,
+    "palette": [
+      "#F8F9FD",
+      "#F0F4FA",
+      "#E4EAF2",
+      "#594A3C",
+      "#0A125C"
+    ],
+    "text_colors": [
+      "#0A125C",
+      "#414170",
+      "#F8F9FD"
+    ],
+    "fonts": {
+      "display": "Asta Sans",
+      "body": "Geist",
+      "display_px": 68,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "4.9",
+        "height": 293,
+        "imgs": 0
+      },
+      {
+        "heading": "\u201cWelcoming Oravia where patients of all ages feel comfortable and cared for better service",
+        "height": 593,
+        "imgs": 9
+      },
+      {
+        "heading": "Comprehensive care, one address.",
+        "height": 1906,
+        "imgs": 16
+      },
+      {
+        "heading": "Thoughtful care, from people who care.",
+        "height": 894,
+        "imgs": 0
+      },
+      {
+        "heading": "Real smiles. Real transformations.",
+        "height": 1143,
+        "imgs": 6
+      },
+      {
+        "heading": "Care that patients come back for.",
+        "height": 710,
+        "imgs": 3
+      },
+      {
+        "heading": "Most insurance accepted. No surprises otherwise.",
+        "height": 650,
+        "imgs": 1
+      },
+      {
+        "heading": "A simpler path to a healthier smile.",
+        "height": 798,
+        "imgs": 3
+      },
+      {
+        "heading": "Medicana Expert Team",
+        "height": 883,
+        "imgs": 3
+      },
+      {
+        "heading": "Let\u2019s get your smile on the schedule.",
+        "height": 498,
+        "imgs": 0
+      },
+      {
+        "heading": "Thoughtful dental care for healthier smiles, comfortable visits, and l",
+        "height": 803,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/oravia-framer-website.jpg"
+  },
+  {
+    "slug": "auradent-framer-website",
+    "name": "AURA Dental Studio",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Aesthetic Dentistry in New York",
+    "title": "AURA Dental Studio \u2014 Aesthetic Dentistry in New York",
+    "source_url": "https://auradent.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#0A1128",
+    "hero_bg": "#0A1128",
+    "sections": 10,
+    "page_height": 9704,
+    "palette": [
+      "#F5F7FB",
+      "#FFFFFF",
+      "#0A1128"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#0A1128",
+      "#0A1128"
+    ],
+    "fonts": {
+      "display": "Satoshi",
+      "body": "Satoshi",
+      "display_px": 141,
+      "body_px": 15
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "YOUR SMILE IS OUR CRAFT",
+        "height": 813,
+        "imgs": 4
+      },
+      {
+        "heading": "14+",
+        "height": 281,
+        "imgs": 0
+      },
+      {
+        "heading": "Dental care, priced clearly",
+        "height": 1128,
+        "imgs": 5
+      },
+      {
+        "heading": "Show the outcome before asking for trust",
+        "height": 793,
+        "imgs": 6
+      },
+      {
+        "heading": "A  quiet studio where studio-like clinic where every detail of your sm",
+        "height": 1951,
+        "imgs": 2
+      },
+      {
+        "heading": "Doctors that whole families trust",
+        "height": 890,
+        "imgs": 6
+      },
+      {
+        "heading": "Loved by 2,400+ New Yorkers",
+        "height": 602,
+        "imgs": 0
+      },
+      {
+        "heading": "4.9",
+        "height": 828,
+        "imgs": 2
+      },
+      {
+        "heading": "Questions patients ask before booking",
+        "height": 848,
+        "imgs": 0
+      },
+      {
+        "heading": "The first step to the smile you deserve",
+        "height": 586,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/auradent-framer-website.jpg"
+  },
+  {
+    "slug": "dentoraclinic-framer-website",
+    "name": "Dentora",
+    "category": "Healthcare & clinics",
+    "page_type": "full",
+    "note": "Modern Dental Clinic",
+    "title": "Dentora - Modern Dental Clinic Framer Template",
+    "source_url": "https://dentoraclinic.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 8514,
+    "palette": [
+      "#FFFFFF",
+      "#718D93",
+      "#F5F5F5",
+      "#000000",
+      "#F7F7F7"
+    ],
+    "text_colors": [
+      "#000000",
+      "#0000EE",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter Display",
+      "display_px": 52,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Confident Smiles Start Here",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": "Delivering exceptional dental care with expertise, compassion and results patients can tru",
+        "height": 312,
+        "imgs": 0
+      },
+      {
+        "heading": "Treatments Designed for Your Smile",
+        "height": 882,
+        "imgs": 8
+      },
+      {
+        "heading": "Why Thousands of Patients Continue to Choose Our Clinic",
+        "height": 798,
+        "imgs": 8
+      },
+      {
+        "heading": "Choose a convenient time online or by phone.",
+        "height": 2439,
+        "imgs": 0
+      },
+      {
+        "heading": "Meet Our Experienced Professionals Behind Every Healthy, Confident Smile",
+        "height": 1030,
+        "imgs": 6
+      },
+      {
+        "heading": "Everything You Need to Know Before Your Visit",
+        "height": 656,
+        "imgs": 0
+      },
+      {
+        "heading": "Your smile is in experienced hands.",
+        "height": 812,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/dentoraclinic-framer-website.jpg"
+  },
+  {
+    "slug": "shelta-framer-website",
+    "name": "SHELTA",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "A Premium Real Estate",
+    "title": "SHELTA - A Premium Real Estate Website Template",
+    "source_url": "https://shelta.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F2EFE9",
+    "hero_bg": "#F2EFE9",
+    "sections": 8,
+    "page_height": 23553,
+    "palette": [
+      "#F2EFE9",
+      "#0A0A0A",
+      "#FFFFFF",
+      "#E8E5DF",
+      "#000000"
+    ],
+    "text_colors": [
+      "#0A0A0A",
+      "#737373",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Aeonik TRIAL Bold",
+      "body": "Aeonik Regular",
+      "display_px": 370,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "WE'VE HELPED \n500+ FAMILIES \nFIND THEIR DREAM HOME",
+        "height": 1259,
+        "imgs": 7
+      },
+      {
+        "heading": "How We Work",
+        "height": 4157,
+        "imgs": 5
+      },
+      {
+        "heading": "Our Service",
+        "height": 2588,
+        "imgs": 5
+      },
+      {
+        "heading": "Shelta in Motion",
+        "height": 3252,
+        "imgs": 1
+      },
+      {
+        "heading": "What Our Customers\nare Saying",
+        "height": 1134,
+        "imgs": 47
+      },
+      {
+        "heading": "FAQs",
+        "height": 904,
+        "imgs": 0
+      },
+      {
+        "heading": "Insights & Trends",
+        "height": 1041,
+        "imgs": 3
+      },
+      {
+        "heading": "Let's Stay Connected",
+        "height": 1240,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/shelta-framer-website.jpg"
+  },
+  {
+    "slug": "logical-goal-348367-framer-app",
+    "name": "Leaseway",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Homes for rent and property management in Portland",
+    "title": "Leaseway \u2013 Homes for rent and property management in Portland",
+    "source_url": "https://logical-goal-348367.framer.app/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 7,
+    "page_height": 4344,
+    "palette": [
+      "#FFFFFF",
+      "#0F1115",
+      "#FFD23A",
+      "#1E3FD9",
+      "#E6E9F2"
+    ],
+    "text_colors": [
+      "#0F1115",
+      "#4A4F5C",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Archivo",
+      "body": "Archivo",
+      "display_px": 88,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Homes",
+        "height": 884,
+        "imgs": 0
+      },
+      {
+        "heading": "RESIDENTS",
+        "height": 191,
+        "imgs": 0
+      },
+      {
+        "heading": "Homes ready to move into.",
+        "height": 819,
+        "imgs": 3
+      },
+      {
+        "heading": "We run your rental.\nYou get paid.",
+        "height": 733,
+        "imgs": 0
+      },
+      {
+        "heading": "Three neighborhoods, one local team.",
+        "height": 834,
+        "imgs": 0
+      },
+      {
+        "heading": "Looking for a home, or someone to look after yours?",
+        "height": 760,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/logical-goal-348367-framer-app.jpg"
+  },
+  {
+    "slug": "quarterboard-framer-website",
+    "name": "Quarterboard",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Quarterboard \u00b7 Vacation homes on 30A, Seagrove Beach",
+    "title": "Quarterboard \u00b7 Vacation homes on 30A, Seagrove Beach",
+    "source_url": "https://quarterboard.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 6,
+    "page_height": 6509,
+    "palette": [
+      "#FFFFFF",
+      "#F1F3F2",
+      "#0B0F0D",
+      "#101513",
+      "#1F6F63"
+    ],
+    "text_colors": [
+      "#101513",
+      "#5E6A66",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Castoro Titling",
+      "body": "Host Grotesk",
+      "display_px": 144,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The homes",
+        "height": 2195,
+        "imgs": 9
+      },
+      {
+        "heading": "The price is the price",
+        "height": 185,
+        "imgs": 0
+      },
+      {
+        "heading": "Three neighborhoods on one stretch of 30A",
+        "height": 871,
+        "imgs": 3
+      },
+      {
+        "heading": "From the guest book",
+        "height": 891,
+        "imgs": 0
+      },
+      {
+        "heading": "Own a house on 30A?",
+        "height": 512,
+        "imgs": 0
+      },
+      {
+        "heading": "Every house here has a name.",
+        "height": 596,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/quarterboard-framer-website.jpg"
+  },
+  {
+    "slug": "realtyr-template-framer-website",
+    "name": "Find Your Next Home",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Realtyr",
+    "title": "Find Your Next Home | Realtyr",
+    "source_url": "https://realtyr-template.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 9,
+    "page_height": 7307,
+    "palette": [
+      "#FFFFFF",
+      "#D9D9D9",
+      "#000000",
+      "#222222",
+      "#D2E3ED"
+    ],
+    "text_colors": [
+      "#000000",
+      "#333333",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Onest",
+      "body": "Onest",
+      "display_px": 58,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Realtyr connects you with the best real estate opportunities.",
+        "height": 1112,
+        "imgs": 1
+      },
+      {
+        "heading": "Featured Properties",
+        "height": 618,
+        "imgs": 3
+      },
+      {
+        "heading": "About us",
+        "height": 947,
+        "imgs": 3
+      },
+      {
+        "heading": "Explore diverse property types",
+        "height": 469,
+        "imgs": 7
+      },
+      {
+        "heading": "Latest Properties",
+        "height": 1360,
+        "imgs": 6
+      },
+      {
+        "heading": "Client Reviews",
+        "height": 680,
+        "imgs": 1
+      },
+      {
+        "heading": "95%",
+        "height": 259,
+        "imgs": 0
+      },
+      {
+        "heading": "Latest Articles",
+        "height": 850,
+        "imgs": 3
+      },
+      {
+        "heading": "Find your dream home today!",
+        "height": 944,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/realtyr-template-framer-website.jpg"
+  },
+  {
+    "slug": "pinevalley-framer-website",
+    "name": "Pine Valley",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "A Modern Escape Into Luxury",
+    "title": "Pine Valley \u2014 A Modern Escape Into Luxury",
+    "source_url": "https://pinevalley.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 11831,
+    "palette": [
+      "#FFFFFF",
+      "#F5F5F5",
+      "#000000",
+      "#9A9A9A",
+      "#EDEFF0"
+    ],
+    "text_colors": [
+      "#000000",
+      "#545454",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "General Sans",
+      "body": "Inter",
+      "display_px": 60,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Your Next Getaway Starts Here",
+        "height": 1727,
+        "imgs": 6
+      },
+      {
+        "heading": "Property Overview",
+        "height": 1224,
+        "imgs": 0
+      },
+      {
+        "heading": "Explore Every Corner",
+        "height": 1404,
+        "imgs": 6
+      },
+      {
+        "heading": "More Than Just a Place to Stay",
+        "height": 895,
+        "imgs": 0
+      },
+      {
+        "heading": "Everything You Need for a Comfortable Stay",
+        "height": 751,
+        "imgs": 0
+      },
+      {
+        "heading": "More Than Just a Place to Stay",
+        "height": 853,
+        "imgs": 5
+      },
+      {
+        "heading": "Loved by Guests Around the World",
+        "height": 824,
+        "imgs": 6
+      },
+      {
+        "heading": "Discover the Surroundings",
+        "height": 1166,
+        "imgs": 0
+      },
+      {
+        "heading": "Ready for Your Next Escape?",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "height": 973,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/pinevalley-framer-website.jpg"
+  },
+  {
+    "slug": "domes-framer-website",
+    "name": "Home",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Home",
+    "title": "Home",
+    "source_url": "https://domes.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F9F7F2",
+    "hero_bg": "#F9F7F2",
+    "sections": 7,
+    "page_height": 5920,
+    "palette": [
+      "#F9F7F2",
+      "#FFFDF9",
+      "#DDE8EB",
+      "#D1E0E3",
+      "#B5563A"
+    ],
+    "text_colors": [
+      "#211F1F",
+      "#5E5955",
+      "#F9F7F2"
+    ],
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "Instrument Sans",
+      "display_px": 80,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Somewhere worth staying a while.",
+        "height": 727,
+        "imgs": 1
+      },
+      {
+        "heading": "Campus Heights",
+        "height": 1128,
+        "imgs": 3
+      },
+      {
+        "heading": "Good homes are the result of small things, done consistently.",
+        "height": 1121,
+        "imgs": 1
+      },
+      {
+        "heading": "Maryland",
+        "height": 805,
+        "imgs": 3
+      },
+      {
+        "heading": "Good Questions",
+        "height": 731,
+        "imgs": 2
+      },
+      {
+        "heading": "Your move.",
+        "height": 718,
+        "imgs": 1
+      },
+      {
+        "heading": "Let's Get in Touch",
+        "height": 616,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/domes-framer-website.jpg"
+  },
+  {
+    "slug": "tropica-framer-website",
+    "name": "Tropica",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Tropica",
+    "title": "Tropica",
+    "source_url": "https://tropica.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#1A1A1A",
+    "hero_bg": "#1A1A1A",
+    "sections": 7,
+    "page_height": 9780,
+    "palette": [
+      "#FFFFFF",
+      "#1A1A1A",
+      "#F7F7F7",
+      "#1E1E1E",
+      "#008200"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#5E5E5E",
+      "#1A1A1A"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter",
+      "display_px": 48,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Live where you feel most alive.",
+        "height": 813,
+        "imgs": 17
+      },
+      {
+        "heading": "ABOUT US",
+        "height": 1459,
+        "imgs": 18
+      },
+      {
+        "heading": "Leave the Noise. \nCome Home to Tropica.",
+        "height": 932,
+        "imgs": 3
+      },
+      {
+        "heading": "Our Expertise",
+        "height": 1743,
+        "imgs": 0
+      },
+      {
+        "heading": "Crafted Through Collaboration",
+        "height": 908,
+        "imgs": 8
+      },
+      {
+        "heading": "What Our Homeowners Say",
+        "height": 896,
+        "imgs": 82
+      },
+      {
+        "heading": "Articles & Guides",
+        "height": 1466,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/tropica-framer-website.jpg"
+  },
+  {
+    "slug": "eunoea-framer-website",
+    "name": "Eunoea",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Eunoea",
+    "title": "Eunoea",
+    "source_url": "https://eunoea.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 14971,
+    "palette": [
+      "#F9F6F3",
+      "#FFFFFF",
+      "#E7E1DA",
+      "#1D1814"
+    ],
+    "text_colors": [
+      "#1D1814",
+      "#CCBEA9",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Playfair Display",
+      "body": "Geist",
+      "display_px": 96,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Live Beautifully In Every Light",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": "EUNOEALivingisasanctuaryofcalmandlight\u2014wheremindfuldesign,naturalbalance,andquietluxurysha",
+        "height": 3234,
+        "imgs": 1
+      },
+      {
+        "heading": "Aspacewheremindfuldesignmeetsmodernliving.",
+        "height": 800,
+        "imgs": 2
+      },
+      {
+        "heading": "AHomeShapedbyLight,Balance,andIntention.",
+        "height": 860,
+        "imgs": 7
+      },
+      {
+        "heading": "Wellness,Connection,andEverydayEase.",
+        "height": 912,
+        "imgs": 7
+      },
+      {
+        "heading": "WhereEveryHourHoldsItsOwnQuietBeauty.",
+        "height": 1127,
+        "imgs": 0
+      },
+      {
+        "heading": "Quiet Renewal",
+        "height": 5929,
+        "imgs": 11
+      },
+      {
+        "heading": "Experience the Art of Living Well Together.",
+        "height": 762,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/eunoea-framer-website.jpg"
+  },
+  {
+    "slug": "dwellspace-framer-website",
+    "name": "DwellSpace",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Home Page",
+    "title": "DwellSpace - Home Page",
+    "source_url": "https://dwellspace.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 11,
+    "page_height": 12655,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#F6F6F6",
+      "#FAFAFA",
+      "#2134F5"
+    ],
+    "text_colors": [
+      "#000000",
+      "#565656",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Manrope",
+      "body": "Manrope",
+      "display_px": 200,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "REAlESTATE",
+        "height": 813,
+        "imgs": 6
+      },
+      {
+        "heading": "02// About Us",
+        "height": 1176,
+        "imgs": 17
+      },
+      {
+        "heading": null,
+        "height": 460,
+        "imgs": 1
+      },
+      {
+        "heading": "Featured Projects",
+        "height": 2016,
+        "imgs": 12
+      },
+      {
+        "heading": "Upcoming Projects",
+        "height": 982,
+        "imgs": 4
+      },
+      {
+        "heading": "Special Agents",
+        "height": 875,
+        "imgs": 6
+      },
+      {
+        "heading": "What Our Clients Say",
+        "height": 831,
+        "imgs": 3
+      },
+      {
+        "heading": "Our 4 Step Process",
+        "height": 1090,
+        "imgs": 5
+      },
+      {
+        "heading": "What Makes  Us Different",
+        "height": 804,
+        "imgs": 0
+      },
+      {
+        "heading": "Our Latest Blog Posts",
+        "height": 1266,
+        "imgs": 5
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "height": 715,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/dwellspace-framer-website.jpg"
+  },
+  {
+    "slug": "surveyridge-framer-ai",
+    "name": "SurveyRidge",
+    "category": "Property & real estate",
+    "page_type": "full",
+    "note": "Property Surveyors",
+    "title": "SurveyRidge \u2013 Property Surveyors Framer Template",
+    "source_url": "https://surveyridge.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 11,
+    "page_height": 9613,
+    "palette": [
+      "#FFFFFF",
+      "#FEFCFB",
+      "#FDF9F7",
+      "#FC5A11",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#1D0900",
+      "#3B302B",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Space Grotesk",
+      "body": "Inter",
+      "display_px": 105,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "DESIGNING YOUR DREAM",
+        "height": 704,
+        "imgs": 5
+      },
+      {
+        "heading": null,
+        "height": 690,
+        "imgs": 1
+      },
+      {
+        "heading": "PRECISION BUILT INTO EVERY PROJECT",
+        "height": 737,
+        "imgs": 4
+      },
+      {
+        "heading": "WHAT WE OFFER",
+        "height": 737,
+        "imgs": 2
+      },
+      {
+        "heading": "THE SURVEYRIDGE WORKING PROCESS",
+        "height": 720,
+        "imgs": 4
+      },
+      {
+        "heading": "WE PROVIDE PROFESSIONAL CONSTRUCTION",
+        "height": 1192,
+        "imgs": 1
+      },
+      {
+        "heading": "MEET THE TEAM THAT GUIDES YOUR PROJECT",
+        "height": 754,
+        "imgs": 4
+      },
+      {
+        "heading": "WHAT OUR CLIENTS SAY",
+        "height": 606,
+        "imgs": 6
+      },
+      {
+        "heading": "EVERYTHING YOU NEED TO KNOW",
+        "height": 840,
+        "imgs": 4
+      },
+      {
+        "heading": "GET IN TOUCH\u2028\u2028 \nWITH US",
+        "height": 839,
+        "imgs": 0
+      },
+      {
+        "heading": "INSIGHTS FROM THE FIELD WITH THE PROFESSIONALS",
+        "height": 1056,
+        "imgs": 7
+      }
+    ],
+    "thumb": "data/thumbs/surveyridge-framer-ai.jpg"
+  },
+  {
+    "slug": "educaare-framer-website",
+    "name": "Educare",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Education & University",
+    "title": "Educare - Education & University Website Template",
+    "source_url": "https://educaare.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 7,
+    "page_height": 8868,
+    "palette": [
+      "#FFFFFF",
+      "#FAF7EF",
+      "#12161A",
+      "#CF102D"
+    ],
+    "text_colors": [
+      "#12161A",
+      "#3B3B3B",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Roboto Condensed",
+      "body": "Roboto",
+      "display_px": 48,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "A Global Campus for Global Students",
+        "height": 667,
+        "imgs": 1
+      },
+      {
+        "heading": "Trending on campus",
+        "height": 2488,
+        "imgs": 3
+      },
+      {
+        "heading": "PROGRAMS & COURSES",
+        "height": 790,
+        "imgs": 0
+      },
+      {
+        "heading": "RESEARCH ROUNDUP",
+        "height": 1216,
+        "imgs": 1
+      },
+      {
+        "heading": "UPCOMING EVENTS",
+        "height": 829,
+        "imgs": 1
+      },
+      {
+        "heading": "FACULTY THAT TRULY CARES",
+        "height": 673,
+        "imgs": 14
+      },
+      {
+        "heading": "CAMPUS LIFE",
+        "height": 945,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/educaare-framer-website.jpg"
+  },
+  {
+    "slug": "beam-template-framer-website",
+    "name": "Beam",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Online Classes Kids Actually Look Forward To",
+    "title": "Beam \u2014 Online Classes Kids Actually Look Forward To",
+    "source_url": "https://beam-template.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 7749,
+    "palette": [
+      "#FFFFFF",
+      "#161616",
+      "#FFD23F",
+      "#4ECDA6",
+      "#5AC8FA"
+    ],
+    "text_colors": [
+      "#161616",
+      "#FFD23F",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Unbounded",
+      "body": "Space Grotesk",
+      "display_px": 36,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Classes kids actually look forward to.",
+        "height": 789,
+        "imgs": 1
+      },
+      {
+        "heading": "Pick a track\n (or a few).",
+        "height": 829,
+        "imgs": 0
+      },
+      {
+        "heading": "Why parents pick\n Beam",
+        "height": 708,
+        "imgs": 0
+      },
+      {
+        "heading": "What kids are building",
+        "height": 813,
+        "imgs": 3
+      },
+      {
+        "heading": "Meet a few\n of our teachers",
+        "height": 648,
+        "imgs": 4
+      },
+      {
+        "heading": "How a term actually works",
+        "height": 923,
+        "imgs": 0
+      },
+      {
+        "heading": "Parents are talking",
+        "height": 558,
+        "imgs": 3
+      },
+      {
+        "heading": "Questions parents ask",
+        "height": 778,
+        "imgs": 0
+      },
+      {
+        "heading": "Simple, per-track \npricing",
+        "height": 955,
+        "imgs": 0
+      },
+      {
+        "heading": "Save your kid's spot before tracks fill up",
+        "height": 462,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/beam-template-framer-website.jpg"
+  },
+  {
+    "slug": "blockacadeemy-framer-website",
+    "name": "Learn Crypto Smarter",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Exclusive Signals & Education",
+    "title": "Learn Crypto Smarter | Exclusive Signals & Education",
+    "source_url": "https://blockacadeemy.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000000",
+    "hero_bg": "#000000",
+    "sections": 8,
+    "page_height": 12714,
+    "palette": [
+      "#000000",
+      "#0D0D0D",
+      "#707070",
+      "#FFFFFF",
+      "#FC6500"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#A3A3A3",
+      "#0D0D0D"
+    ],
+    "fonts": {
+      "display": "Chakra Petch",
+      "body": "HelveticaNeueCyr Roman",
+      "display_px": 208,
+      "body_px": 18
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "( FOR OVER 5 YEARS ) WE\u2019VE BEEN HELPING ENTREPRENEURS, STARTUPS, AND CRYPTO ENTHUSIASTS GA",
+        "height": 1077,
+        "imgs": 0
+      },
+      {
+        "heading": "YEARS IN\nCRYPTO\nEDUCATION",
+        "height": 1323,
+        "imgs": 2
+      },
+      {
+        "heading": "LAW FIRMS ]",
+        "height": 1430,
+        "imgs": 1
+      },
+      {
+        "heading": "DURATION",
+        "height": 3378,
+        "imgs": 0
+      },
+      {
+        "heading": "OUR LECTURERS \nCOMBINE LEGAL \nEXPERTISE WITH REAL \nBLOCKCHAIN PRACTICE.",
+        "height": 963,
+        "imgs": 30
+      },
+      {
+        "heading": "STARTER ]",
+        "height": 850,
+        "imgs": 1
+      },
+      {
+        "heading": "QUESTION",
+        "height": 1413,
+        "imgs": 0
+      },
+      {
+        "heading": "[",
+        "height": 850,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/blockacadeemy-framer-website.jpg"
+  },
+  {
+    "slug": "tutorlin-framer-ai",
+    "name": "Tutorlin",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Learn Skills That Shape Your Future",
+    "title": "Tutorlin | Learn Skills That Shape Your Future",
+    "source_url": "https://tutorlin.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 7,
+    "page_height": 6988,
+    "palette": [
+      "#FAFEF1",
+      "#F5FDE7",
+      "#161715",
+      "#171816",
+      "#BBF451"
+    ],
+    "text_colors": [
+      "#091817",
+      "#171816",
+      "#FBFEF6"
+    ],
+    "fonts": {
+      "display": "Source Sans 3",
+      "body": "Inter",
+      "display_px": 52,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Learn Skills That Shape",
+        "height": 800,
+        "imgs": 9
+      },
+      {
+        "heading": "Shaping The Future Of",
+        "height": 636,
+        "imgs": 6
+      },
+      {
+        "heading": "Explore Our Most",
+        "height": 2027,
+        "imgs": 10
+      },
+      {
+        "heading": "A Journey Designed",
+        "height": 495,
+        "imgs": 1
+      },
+      {
+        "heading": "Learn From",
+        "height": 1389,
+        "imgs": 7
+      },
+      {
+        "heading": "Start Learning With",
+        "height": 464,
+        "imgs": 5
+      },
+      {
+        "heading": "Why Micro-Learning Is Perfect For Busy Learners",
+        "height": 584,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/tutorlin-framer-ai.jpg"
+  },
+  {
+    "slug": "eduon-framer-website",
+    "name": "EduOn",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "EduOn",
+    "title": "EduOn",
+    "source_url": "https://eduon.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 13,
+    "page_height": 11733,
+    "palette": [
+      "#FFFFFF",
+      "#F5F0DE",
+      "#FFDE7B",
+      "#BDEDD9",
+      "#A1DFC5"
+    ],
+    "text_colors": [
+      "#121212",
+      "#484848",
+      "#717171"
+    ],
+    "fonts": {
+      "display": "Bricolage Grotesque",
+      "body": "Bricolage Grotesque",
+      "display_px": 64,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Learn.",
+        "height": 1162,
+        "imgs": 22
+      },
+      {
+        "heading": "What Industry We Serve!",
+        "height": 323,
+        "imgs": 9
+      },
+      {
+        "heading": "Eduon is a continuously evolving online learning platform designed to help you grow with i",
+        "height": 1245,
+        "imgs": 11
+      },
+      {
+        "heading": "Featured Courses",
+        "height": 849,
+        "imgs": 66
+      },
+      {
+        "heading": "Browse All Courses",
+        "height": 1664,
+        "imgs": 21
+      },
+      {
+        "heading": "The Platform",
+        "height": 942,
+        "imgs": 2
+      },
+      {
+        "heading": "Pricing Plans",
+        "height": 1036,
+        "imgs": 7
+      },
+      {
+        "heading": "Learning Benefits We Offer",
+        "height": 531,
+        "imgs": 4
+      },
+      {
+        "heading": "What Our Learners Say",
+        "height": 867,
+        "imgs": 37
+      },
+      {
+        "heading": "Help & Answers Hub",
+        "height": 1096,
+        "imgs": 7
+      },
+      {
+        "heading": "Insights & Resources",
+        "height": 817,
+        "imgs": 10
+      },
+      {
+        "heading": "Take the Next Step in Your Learning Journey",
+        "height": 684,
+        "imgs": 8
+      },
+      {
+        "heading": "Subscribe Newsletter",
+        "height": 518,
+        "imgs": 15
+      }
+    ],
+    "thumb": "data/thumbs/eduon-framer-website.jpg"
+  },
+  {
+    "slug": "kidztar-framer-website",
+    "name": "Kidztar",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Kidztar",
+    "title": "Kidztar",
+    "source_url": "https://kidztar.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 8434,
+    "palette": [
+      "#FFFFFF",
+      "#D7F6FF",
+      "#FFF6F1",
+      "#FFD358",
+      "#222443"
+    ],
+    "text_colors": [
+      "#222443",
+      "#6B6B73",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Nunito",
+      "body": "Poppins",
+      "display_px": 64,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Explore and grow\nwith Kidztar",
+        "height": 834,
+        "imgs": 1
+      },
+      {
+        "heading": "Discover our\nprofessional classes",
+        "height": 982,
+        "imgs": 3
+      },
+      {
+        "heading": "Capturing moments of\njoy and learning",
+        "height": 852,
+        "imgs": 2
+      },
+      {
+        "heading": "100+",
+        "height": 302,
+        "imgs": 0
+      },
+      {
+        "heading": "What we believe\nin Kidztar",
+        "height": 684,
+        "imgs": 4
+      },
+      {
+        "heading": "What parents say\nabout their kids classes",
+        "height": 772,
+        "imgs": 3
+      },
+      {
+        "heading": "Answers for\nQuestions",
+        "height": 732,
+        "imgs": 5
+      },
+      {
+        "heading": "Summer Fun Day",
+        "height": 820,
+        "imgs": 2
+      },
+      {
+        "heading": "From our blog",
+        "height": 642,
+        "imgs": 3
+      },
+      {
+        "heading": "Ready to give your child\na head start?",
+        "height": 476,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/kidztar-framer-website.jpg"
+  },
+  {
+    "slug": "haarbor-framer-website",
+    "name": "Harbor",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "University Website",
+    "title": "Harbor - University Website Framer Template",
+    "source_url": "https://haarbor.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F3F4F4",
+    "hero_bg": "#F3F4F4",
+    "sections": 8,
+    "page_height": 7273,
+    "palette": [
+      "#F3F4F4",
+      "#E3E5E5",
+      "#151515",
+      "#DF072E",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#1E1E1E",
+      "#232F3A",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Kaisei Decol",
+      "body": "Inter",
+      "display_px": 84,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Welcome to Harbor.",
+        "height": 810,
+        "imgs": 1
+      },
+      {
+        "heading": "Campus News.",
+        "height": 974,
+        "imgs": 4
+      },
+      {
+        "heading": "Browse programs by.",
+        "height": 462,
+        "imgs": 0
+      },
+      {
+        "heading": "Where Knowledge Meets Innovation.",
+        "height": 739,
+        "imgs": 1
+      },
+      {
+        "heading": "Upcoming Events.",
+        "height": 815,
+        "imgs": 34
+      },
+      {
+        "heading": null,
+        "height": 720,
+        "imgs": 1
+      },
+      {
+        "heading": "Stories.",
+        "height": 578,
+        "imgs": 74
+      },
+      {
+        "heading": "Research & Innovations.",
+        "height": 792,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/haarbor-framer-website.jpg"
+  },
+  {
+    "slug": "kiddo-framer-wiki",
+    "name": "Kiddo",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Childcare & Early Learning Website",
+    "title": "Kiddo - Childcare & Early Learning Website",
+    "source_url": "https://kiddo.framer.wiki/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7F3F0",
+    "hero_bg": "#F7F3F0",
+    "sections": 9,
+    "page_height": 9768,
+    "palette": [
+      "#F7F3F0",
+      "#FFFFFF",
+      "#DAE6F5",
+      "#E0E7C6",
+      "#ECDEDC"
+    ],
+    "text_colors": [
+      "#512731",
+      "#59454A",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Quicksand",
+      "body": "Quicksand",
+      "display_px": 72,
+      "body_px": 15
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "We open the learning door of your baby",
+        "height": 1316,
+        "imgs": 1
+      },
+      {
+        "heading": "WELCOME TO KIDDO",
+        "height": 422,
+        "imgs": 3
+      },
+      {
+        "heading": "Care that feels like home",
+        "height": 784,
+        "imgs": 2
+      },
+      {
+        "heading": "Every day brings a new adventure",
+        "height": 600,
+        "imgs": 14
+      },
+      {
+        "heading": "Loved by families trusted by parents",
+        "height": 873,
+        "imgs": 26
+      },
+      {
+        "heading": "Explore a day at Kiddo",
+        "height": 1962,
+        "imgs": 0
+      },
+      {
+        "heading": "Simple steps to enroll",
+        "height": 587,
+        "imgs": 4
+      },
+      {
+        "heading": "Now enrolling for 2026-2027!",
+        "height": 774,
+        "imgs": 2
+      },
+      {
+        "heading": "Frequently asked questions",
+        "height": 512,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/kiddo-framer-wiki.jpg"
+  },
+  {
+    "slug": "glooma-framer-website",
+    "name": "Glooma",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Childcare & early learning website",
+    "title": "Glooma - Childcare & early learning website",
+    "source_url": "https://glooma.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 9071,
+    "palette": [
+      "#FFFFFF",
+      "#FFFBF4",
+      "#2A6F38",
+      "#FF6B42",
+      "#FCF6E7"
+    ],
+    "text_colors": [
+      "#180C3D",
+      "#4B4754",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Parkinsans",
+      "body": "Parkinsans",
+      "display_px": 90,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Give your child a place to Shine",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Where",
+        "height": 859,
+        "imgs": 1
+      },
+      {
+        "heading": "Helping young minds grow with confidence",
+        "height": 1164,
+        "imgs": 6
+      },
+      {
+        "heading": "Helping every child reach their potential",
+        "height": 982,
+        "imgs": 2
+      },
+      {
+        "heading": "A day filled with learning and fun",
+        "height": 878,
+        "imgs": 0
+      },
+      {
+        "heading": "Spaces designed for safe learning and happy growth",
+        "height": 1164,
+        "imgs": 5
+      },
+      {
+        "heading": "The foundation for happy childhoods",
+        "height": 1233,
+        "imgs": 6
+      },
+      {
+        "heading": "Frequently asked questions",
+        "height": 1016,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/glooma-framer-website.jpg"
+  },
+  {
+    "slug": "edura-framer-website",
+    "name": "Edura",
+    "category": "Education & training",
+    "page_type": "full",
+    "note": "Ed tech",
+    "title": "Edura | Ed tech",
+    "source_url": "https://edura.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#0C3034",
+    "hero_bg": "#0C3034",
+    "sections": 11,
+    "page_height": 8640,
+    "palette": [
+      "#FFFFFF",
+      "#EBF0F0",
+      "#0C3034",
+      "#0B3033",
+      "#F7FEFF"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#303236",
+      "#292929"
+    ],
+    "fonts": {
+      "display": "Safiro Medium",
+      "body": "Inter",
+      "display_px": 52,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "CREATING PATHWAYS TO SUCCESS THROUGH EDUCATION.",
+        "height": 829,
+        "imgs": 3
+      },
+      {
+        "heading": "Who we work with",
+        "height": 787,
+        "imgs": 4
+      },
+      {
+        "heading": "Our success rate",
+        "height": 844,
+        "imgs": 3
+      },
+      {
+        "heading": "Our services",
+        "height": 979,
+        "imgs": 3
+      },
+      {
+        "heading": "Key stages 1-5",
+        "height": 718,
+        "imgs": 1
+      },
+      {
+        "heading": "Why our method works",
+        "height": 918,
+        "imgs": 1
+      },
+      {
+        "heading": "Forms & enquiry",
+        "height": 1089,
+        "imgs": 4
+      },
+      {
+        "heading": "Our core values and ethos",
+        "height": 936,
+        "imgs": 1
+      },
+      {
+        "heading": "Sign up",
+        "height": 570,
+        "imgs": 2
+      },
+      {
+        "heading": "Frequently asked questions",
+        "height": 716,
+        "imgs": 0
+      },
+      {
+        "heading": "EDURA",
+        "height": 254,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/edura-framer-website.jpg"
+  },
+  {
+    "slug": "axil-wbs-framer-website",
+    "name": "Axil",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Industrial Manufacturing",
+    "title": "Axil - Industrial Manufacturing Website Template",
+    "source_url": "https://axil-wbs.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#131314",
+    "hero_bg": "#131314",
+    "sections": 11,
+    "page_height": 11316,
+    "palette": [
+      "#F1F4FA",
+      "#131314",
+      "#FFFFFF",
+      "#131314",
+      "#E2E2E6"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#535356",
+      "#131314"
+    ],
+    "fonts": {
+      "display": "Geist",
+      "body": "BDO Grotesk Variable",
+      "display_px": 140,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Engineering That Delivers Every Time",
+        "height": 1033,
+        "imgs": 6
+      },
+      {
+        "heading": "Building reliable industrial automation with precision, expertise, and long-term engineeri",
+        "height": 1149,
+        "imgs": 10
+      },
+      {
+        "heading": "Four capabilities, one accountable team",
+        "height": 967,
+        "imgs": 18
+      },
+      {
+        "heading": "Automat|",
+        "height": 877,
+        "imgs": 3
+      },
+      {
+        "heading": "Project success",
+        "height": 912,
+        "imgs": 8
+      },
+      {
+        "heading": "We don\u2019t sell hours or hardware. We own the\u00a0outcome.",
+        "height": 1144,
+        "imgs": 17
+      },
+      {
+        "heading": "We speak the standards of the plants we walk into",
+        "height": 880,
+        "imgs": 7
+      },
+      {
+        "heading": "What \u201cdone\u201d looks like",
+        "height": 1665,
+        "imgs": 14
+      },
+      {
+        "heading": "Our Insights",
+        "height": 947,
+        "imgs": 3
+      },
+      {
+        "heading": "You ask, we answer",
+        "height": 713,
+        "imgs": 0
+      },
+      {
+        "heading": "Tell us what the line needs to do.",
+        "height": 582,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/axil-wbs-framer-website.jpg"
+  },
+  {
+    "slug": "manufact-wbs-framer-website",
+    "name": "Manufact",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Industrial Manufacturing",
+    "title": "Manufact \u2014 Industrial Manufacturing Website Template",
+    "source_url": "https://manufact-wbs.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#ECECEC",
+    "hero_bg": "#ECECEC",
+    "sections": 10,
+    "page_height": 13345,
+    "palette": [
+      "#FFFFFF",
+      "#151515",
+      "#F6F6F6",
+      "#151515",
+      "#191919"
+    ],
+    "text_colors": [
+      "#151515",
+      "#A7A3A2",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Mona Sans",
+      "body": "Geist",
+      "display_px": 72,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "From raw materials to finished products",
+        "height": 582,
+        "imgs": 2
+      },
+      {
+        "heading": null,
+        "height": 1044,
+        "imgs": 2
+      },
+      {
+        "heading": "Driven by technology, backed by experience, focused on manufacturing excellence",
+        "height": 1298,
+        "imgs": 11
+      },
+      {
+        "heading": "Scalable capabilities for every challenge",
+        "height": 2489,
+        "imgs": 37
+      },
+      {
+        "heading": "50,000+",
+        "height": 2390,
+        "imgs": 9
+      },
+      {
+        "heading": "Manufacturing solutions for every industry",
+        "height": 966,
+        "imgs": 10
+      },
+      {
+        "heading": "Real results from real projects",
+        "height": 1029,
+        "imgs": 86
+      },
+      {
+        "heading": "Manufacturing solutions you can count on",
+        "height": 974,
+        "imgs": 23
+      },
+      {
+        "heading": "Trusted by clients, proven by results",
+        "height": 1067,
+        "imgs": 12
+      },
+      {
+        "heading": "Latest from our blog",
+        "height": 757,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/manufact-wbs-framer-website.jpg"
+  },
+  {
+    "slug": "manufacturing-framer-website",
+    "name": "Datum",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Manufacturing for Framer",
+    "title": "Datum: Free Manufacturing Website Template for Framer",
+    "source_url": "https://manufacturing.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#15191B",
+    "hero_bg": "#15191B",
+    "sections": 16,
+    "page_height": 15067,
+    "palette": [
+      "#F2F0EB",
+      "#E6E3DC",
+      "#15191B"
+    ],
+    "text_colors": [
+      "#EEEBE4",
+      "#4A5054",
+      "#15191B"
+    ],
+    "fonts": {
+      "display": "Mona Sans Variable",
+      "body": "Mona Sans Variable",
+      "display_px": 389,
+      "body_px": 15
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Machined parts that fit the first time.",
+        "height": 813,
+        "imgs": 2
+      },
+      {
+        "heading": "A second-generation machine shop with 31 machines, two shifts and one rule: the part match",
+        "height": 921,
+        "imgs": 1
+      },
+      {
+        "heading": "Six ways we turn a drawing into a part",
+        "height": 1113,
+        "imgs": 6
+      },
+      {
+        "heading": "Parts for industries where a bad part costs more than a good one",
+        "height": 1382,
+        "imgs": 6
+      },
+      {
+        "heading": "31 machines, listed with their real work envelopes",
+        "height": 1107,
+        "imgs": 1
+      },
+      {
+        "heading": "Every first article is measured and signed before the run starts.",
+        "height": 933,
+        "imgs": 1
+      },
+      {
+        "heading": "From drawing to dock in five stations",
+        "height": 192,
+        "imgs": 0
+      },
+      {
+        "heading": "Quote",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": null,
+        "height": 1750,
+        "imgs": 0
+      },
+      {
+        "heading": "Parts we are proud of, and what they took",
+        "height": 1059,
+        "imgs": 3
+      },
+      {
+        "heading": "What buyers say after the second order",
+        "height": 735,
+        "imgs": 3
+      },
+      {
+        "heading": "We are hiring machinists",
+        "height": 680,
+        "imgs": 1
+      },
+      {
+        "heading": "From the shop floor",
+        "height": 822,
+        "imgs": 3
+      },
+      {
+        "heading": "Before the first order",
+        "height": 664,
+        "imgs": 0
+      },
+      {
+        "heading": "Send a drawing. Get a quote in 48 hours.",
+        "height": 873,
+        "imgs": 0
+      },
+      {
+        "heading": "Datum",
+        "height": 906,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/manufacturing-framer-website.jpg"
+  },
+  {
+    "slug": "solveex-framer-website",
+    "name": "Solar",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Solar",
+    "title": "Solar",
+    "source_url": "https://solveex.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000000",
+    "hero_bg": "#000000",
+    "sections": 11,
+    "page_height": 12929,
+    "palette": [
+      "#FFFFFF",
+      "#F6F7F9",
+      "#000F0F",
+      "#000000",
+      "#6A8636"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#3B3B3B",
+      "#000000"
+    ],
+    "fonts": {
+      "display": "Geist",
+      "body": "DM Sans",
+      "display_px": 86,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Building A Greener Future Together",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": "Because Every Home Deserves Clean Energy",
+        "height": 976,
+        "imgs": 2
+      },
+      {
+        "heading": "The Benefits Of Choosing Solvex",
+        "height": 1177,
+        "imgs": 4
+      },
+      {
+        "heading": "Real Solar Projects With Measurable Results",
+        "height": 1036,
+        "imgs": 6
+      },
+      {
+        "heading": "Three Simple Steps To Solar Success",
+        "height": 874,
+        "imgs": 1
+      },
+      {
+        "heading": "Delivering Smart Solar Solutions Across The World.",
+        "height": 1317,
+        "imgs": 8
+      },
+      {
+        "heading": "What Customers Say About Solvex",
+        "height": 1060,
+        "imgs": 6
+      },
+      {
+        "heading": "Why Homeowners And Businesses Choose Solvex",
+        "height": 904,
+        "imgs": 5
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "height": 909,
+        "imgs": 0
+      },
+      {
+        "heading": "Solar News & Updates",
+        "height": 971,
+        "imgs": 3
+      },
+      {
+        "heading": "Power Your Future With Solar",
+        "height": 931,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/solveex-framer-website.jpg"
+  },
+  {
+    "slug": "sterling-framer-media",
+    "name": "Sterling",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Business Consulting Agency",
+    "title": "Sterling \u2014 Business Consulting Agency",
+    "source_url": "https://sterling.framer.media/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000B1C",
+    "hero_bg": "#000B1C",
+    "sections": 9,
+    "page_height": 14021,
+    "palette": [
+      "#FFFFFF",
+      "#F5F7F7",
+      "#F0F8FF",
+      "#0E285D",
+      "#183063"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#183063",
+      "#0E285D"
+    ],
+    "fonts": {
+      "display": "Golos Text Variable",
+      "body": "Golos Text",
+      "display_px": 55,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "We bring clarity to challenges & turn ambitious plans into growth.",
+        "height": 910,
+        "imgs": 13
+      },
+      {
+        "heading": "Strategic expertise for what comes next",
+        "height": 2213,
+        "imgs": 3
+      },
+      {
+        "heading": "Where strategy creates real business impact",
+        "height": 952,
+        "imgs": 3
+      },
+      {
+        "heading": "A considered approach to every business challenge.",
+        "height": 798,
+        "imgs": 1
+      },
+      {
+        "heading": "Trusted by leaders building what\u2019s next",
+        "height": 3378,
+        "imgs": 4
+      },
+      {
+        "heading": "Why businesses choose Sterling today",
+        "height": 917,
+        "imgs": 0
+      },
+      {
+        "heading": "Latest industry news & insights",
+        "height": 812,
+        "imgs": 3
+      },
+      {
+        "heading": "Your commonly asked questions",
+        "height": 708,
+        "imgs": 1
+      },
+      {
+        "heading": "Let's help build a stronger business",
+        "height": 1040,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/sterling-framer-media.jpg"
+  },
+  {
+    "slug": "consulting-framer-media",
+    "name": "Consulting",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Business & Agency",
+    "title": "Consulting \u2014 Business & Agency Template",
+    "source_url": "https://consulting.framer.media/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 8650,
+    "palette": [
+      "#FFFFFF",
+      "#136BC2",
+      "#F2F2F2"
+    ],
+    "text_colors": [
+      "#000000",
+      "#333333",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Figtree",
+      "body": "Figtree",
+      "display_px": 80,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Grow your business faster",
+        "height": 813,
+        "imgs": 27
+      },
+      {
+        "heading": "We offer a wide range of services",
+        "height": 1160,
+        "imgs": 3
+      },
+      {
+        "heading": "Need customized services?",
+        "height": 260,
+        "imgs": 0
+      },
+      {
+        "heading": "Innovative approach to consulting",
+        "height": 850,
+        "imgs": 1
+      },
+      {
+        "heading": "Our journey began 20 years ago",
+        "height": 760,
+        "imgs": 1
+      },
+      {
+        "heading": "We strive to deliver value to our clients",
+        "height": 717,
+        "imgs": 0
+      },
+      {
+        "heading": "Our process",
+        "height": 865,
+        "imgs": 0
+      },
+      {
+        "heading": "30%",
+        "height": 825,
+        "imgs": 1
+      },
+      {
+        "heading": "Trusted by 10k+ customers",
+        "height": 870,
+        "imgs": 16
+      },
+      {
+        "heading": "Explore insights and stay ahead",
+        "height": 972,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/consulting-framer-media.jpg"
+  },
+  {
+    "slug": "stratex-framer-website",
+    "name": "Stratex",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Consulting agency",
+    "title": "Stratex - Consulting agency website template",
+    "source_url": "https://stratex.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 9727,
+    "palette": [
+      "#FFFFFF",
+      "#141414",
+      "#1F514C",
+      "#FAFAFA"
+    ],
+    "text_colors": [
+      "#141414",
+      "#636363",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Hedvig Letters Serif",
+      "body": "Inter",
+      "display_px": 56,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Expert consulting tailored to your business success",
+        "height": 814,
+        "imgs": 0
+      },
+      {
+        "heading": "Reliable expertise to drive your greatest success",
+        "height": 771,
+        "imgs": 18
+      },
+      {
+        "heading": "Startex revolutionized our customer understanding, boosting retention like never before.",
+        "height": 415,
+        "imgs": 1
+      },
+      {
+        "heading": "Key benefits that set us apart from other ferms",
+        "height": 828,
+        "imgs": 6
+      },
+      {
+        "heading": "Flexible pricing tailored to your business needs",
+        "height": 901,
+        "imgs": 1
+      },
+      {
+        "heading": "A proven process to achieve your biggest goals",
+        "height": 1516,
+        "imgs": 3
+      },
+      {
+        "heading": "Real results that drive lasting impact for everyone",
+        "height": 942,
+        "imgs": 1
+      },
+      {
+        "heading": "Meet the experts behind your business success",
+        "height": 733,
+        "imgs": 18
+      },
+      {
+        "heading": "Answers to your most common questions",
+        "height": 728,
+        "imgs": 6
+      },
+      {
+        "heading": "Get in touch with our experts team",
+        "height": 768,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/stratex-framer-website.jpg"
+  },
+  {
+    "slug": "www-leocussen-edu-au-practical-legal-training",
+    "name": "Leocussen",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Leo Cussen",
+    "title": "Practical Legal Training (PLT) \u2013 Leo Cussen",
+    "source_url": "https://www.leocussen.edu.au/practical-legal-training/",
+    "stack": "webflow",
+    "mode": "light",
+    "page_bg": "#F8F3EC",
+    "hero_bg": "#F8F3EC",
+    "sections": 4,
+    "page_height": 9222,
+    "palette": [
+      "#F8F3EC",
+      "#FFFFFF",
+      "#000000",
+      "#ABA3D0",
+      "#F8F8F8"
+    ],
+    "text_colors": [
+      "#000000",
+      "#6C6C6C",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Moulin Light",
+      "body": "Oakes Grotesk",
+      "display_px": 58,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "How you'll learn\nHow you'll learn",
+        "height": 1050,
+        "imgs": 5
+      },
+      {
+        "heading": "Choose your study mode\nChoose your study mode",
+        "height": 629,
+        "imgs": 0
+      },
+      {
+        "heading": "What our graduates say\nWhat our graduates say",
+        "height": 662,
+        "imgs": 5
+      },
+      {
+        "heading": "Frequently asked questions\nFrequently asked questions",
+        "height": 1487,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/www-leocussen-edu-au-practical-legal-training.jpg"
+  },
+  {
+    "slug": "lawfirma-wbs-framer-website",
+    "name": "Lawfirma",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Lawyer & Attorney",
+    "title": "Lawfirma - Lawyer & Attorney Website Template",
+    "source_url": "https://lawfirma-wbs.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F8F7F4",
+    "hero_bg": "#F8F7F4",
+    "sections": 10,
+    "page_height": 9268,
+    "palette": [
+      "#FFFFFF",
+      "#F8F7F4",
+      "#F1EEEB",
+      "#EBE3D7",
+      "#000000"
+    ],
+    "text_colors": [
+      "#4D270E",
+      "#4D270E",
+      "#F2994A"
+    ],
+    "fonts": {
+      "display": "Inter",
+      "body": "Inter",
+      "display_px": 100,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Expert legal defense counsel for you",
+        "height": 931,
+        "imgs": 15
+      },
+      {
+        "heading": "Corporate & business law",
+        "height": 527,
+        "imgs": 3
+      },
+      {
+        "heading": "Areas of\u00a0focus",
+        "height": 600,
+        "imgs": 24
+      },
+      {
+        "heading": "You deserve counsel\u2028\u2028that\u00a0fights\u00a0for you",
+        "height": 836,
+        "imgs": 2
+      },
+      {
+        "heading": "Proven success and\u00a0recognition",
+        "height": 770,
+        "imgs": 44
+      },
+      {
+        "heading": "Where strategy meets unwavering advocacy",
+        "height": 1221,
+        "imgs": 5
+      },
+      {
+        "heading": "Fight back. Win with\u00a0confidence",
+        "height": 949,
+        "imgs": 6
+      },
+      {
+        "heading": "Your experienced legal team",
+        "height": 681,
+        "imgs": 24
+      },
+      {
+        "heading": "Book a consultation",
+        "height": 1277,
+        "imgs": 1
+      },
+      {
+        "heading": "Frequently asked questions",
+        "height": 690,
+        "imgs": 6
+      }
+    ],
+    "thumb": "data/thumbs/lawfirma-wbs-framer-website.jpg"
+  },
+  {
+    "slug": "growth18-framer-website",
+    "name": "Growth18",
+    "category": "Corporate & professional services",
+    "page_type": "full",
+    "note": "Business Consultation Website",
+    "title": "Growth18 - Business Consultation Website",
+    "source_url": "https://growth18.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F5F5F5",
+    "hero_bg": "#F5F5F5",
+    "sections": 9,
+    "page_height": 8642,
+    "palette": [
+      "#F5F5F5",
+      "#FFFFFF",
+      "#0A052A",
+      "#F1F1F1",
+      "#FDD742"
+    ],
+    "text_colors": [
+      "#0A052A",
+      "#686763",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Geist",
+      "body": "Manrope",
+      "display_px": 72,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Grow your business with advice that actually works",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": "Trusted by the fastest growing business services.",
+        "height": 252,
+        "imgs": 10
+      },
+      {
+        "heading": "Real strategy and actionable insights from people who've been through it before",
+        "height": 1123,
+        "imgs": 7
+      },
+      {
+        "heading": "Consulting built around your biggest bottleneck",
+        "height": 832,
+        "imgs": 5
+      },
+      {
+        "heading": "Results, not just recommendations",
+        "height": 1024,
+        "imgs": 27
+      },
+      {
+        "heading": "Success stories from our clients",
+        "height": 1174,
+        "imgs": 19
+      },
+      {
+        "heading": "The strategic partner behind sustainable business growth",
+        "height": 1004,
+        "imgs": 2
+      },
+      {
+        "heading": "Still deciding? Here\u2019s what clients usually ask",
+        "height": 694,
+        "imgs": 1
+      },
+      {
+        "heading": "Let\u2019s talk about your business plans",
+        "height": 1188,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/growth18-framer-website.jpg"
+  },
+  {
+    "slug": "all-natural-framer-website",
+    "name": "All Natural\u2122",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Commerce",
+    "title": "All Natural\u2122 \u2014 Framer E-Commerce Template",
+    "source_url": "https://all-natural.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#BFBFBF",
+    "hero_bg": "#BFBFBF",
+    "sections": 14,
+    "page_height": 10764,
+    "palette": [
+      "#FFFFFF",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#FFFFFF",
+      "#E01616"
+    ],
+    "fonts": {
+      "display": "Inter",
+      "body": "Inter",
+      "display_px": 46,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The next wave of natural skincare.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "FEATURED IN",
+        "height": 231,
+        "imgs": 0
+      },
+      {
+        "heading": "Trending",
+        "height": 636,
+        "imgs": 8
+      },
+      {
+        "heading": "Shop by Category",
+        "height": 760,
+        "imgs": 3
+      },
+      {
+        "heading": "Featured",
+        "height": 685,
+        "imgs": 66
+      },
+      {
+        "heading": "Advanced Natural Formulations for all skin types",
+        "height": 782,
+        "imgs": 3
+      },
+      {
+        "heading": "Our Shops",
+        "height": 832,
+        "imgs": 3
+      },
+      {
+        "heading": "From the Journal",
+        "height": 738,
+        "imgs": 3
+      },
+      {
+        "heading": "Save with bundles",
+        "height": 760,
+        "imgs": 2
+      },
+      {
+        "heading": "SHOP SKIN CARE",
+        "height": 813,
+        "imgs": 2
+      },
+      {
+        "heading": "Backed by Science",
+        "height": 882,
+        "imgs": 1
+      },
+      {
+        "heading": "Summer sale",
+        "height": 610,
+        "imgs": 1
+      },
+      {
+        "heading": "Testimonials",
+        "height": 612,
+        "imgs": 14
+      },
+      {
+        "heading": "@AllNaturalSkin",
+        "height": 462,
+        "imgs": 6
+      }
+    ],
+    "thumb": "data/thumbs/all-natural-framer-website.jpg"
+  },
+  {
+    "slug": "essentia-framer-media-about",
+    "name": "Essentia",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Essentia Ecommerce for Framer",
+    "title": "Essentia Ecommerce Template for Framer",
+    "source_url": "https://essentia.framer.media/about/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F8F5F0",
+    "hero_bg": "#F8F5F0",
+    "sections": 5,
+    "page_height": 7039,
+    "palette": [
+      "#D4DCCF",
+      "#F8F5F0",
+      "#000000",
+      "#3A3D38",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#333333",
+      "#3A3D38",
+      "#545454"
+    ],
+    "fonts": {
+      "display": "Geist",
+      "body": "Geist",
+      "display_px": 295,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The Beginning",
+        "height": 1339,
+        "imgs": 1
+      },
+      {
+        "heading": "Our Philosophy",
+        "height": 805,
+        "imgs": 0
+      },
+      {
+        "heading": "Meet the founders behind the product.",
+        "height": 1956,
+        "imgs": 2
+      },
+      {
+        "heading": "Our Process",
+        "height": 1120,
+        "imgs": 1
+      },
+      {
+        "heading": "Our Commitments",
+        "height": 1092,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/essentia-framer-media-about.jpg"
+  },
+  {
+    "slug": "orveli-skin-care-framer-website",
+    "name": "Orv\u00e9li",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Botanical Skincare, Gentle on Skin and Earth",
+    "title": "Orv\u00e9li \u2014 Botanical Skincare, Gentle on Skin and Earth",
+    "source_url": "https://orveli-skin-care.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F1E6D8",
+    "hero_bg": "#F1E6D8",
+    "sections": 6,
+    "page_height": 7832,
+    "palette": [
+      "#F1E6D8",
+      "#2D3622",
+      "#201914",
+      "#D7D1C3",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#000000",
+      "#F1E6D8",
+      "#F1E6D8"
+    ],
+    "fonts": {
+      "display": "Manrope",
+      "body": "Manrope",
+      "display_px": 96,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Quiet New Arrivals Worth Your Attention",
+        "height": 1082,
+        "imgs": 7
+      },
+      {
+        "heading": "At Orv\u00e9li, All-Natural Skincare\nWe are an all-natural brand. A company with a purpose. At ",
+        "height": 1092,
+        "imgs": 2
+      },
+      {
+        "heading": "Four Promises in Every Bottle\nRadical transparency, rooted botanicals, quiet responsibilit",
+        "height": 1897,
+        "imgs": 1
+      },
+      {
+        "heading": "A small collection",
+        "height": 428,
+        "imgs": 3
+      },
+      {
+        "heading": "What our\ncustomers say",
+        "height": 1077,
+        "imgs": 12
+      },
+      {
+        "heading": "The Botanist Fund",
+        "height": 608,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/orveli-skin-care-framer-website.jpg"
+  },
+  {
+    "slug": "furnexa-framer-website",
+    "name": "Furnexa",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Luxury Furniture Store",
+    "title": "Furnexa - Luxury Furniture Store",
+    "source_url": "https://furnexa.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 10116,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#151515",
+      "#F0F0F0",
+      "#2E2E2E"
+    ],
+    "text_colors": [
+      "#151515",
+      "#2E2E2E",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Clash Display",
+      "body": "DM Sans",
+      "display_px": 290,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "FURNEXA",
+        "height": 813,
+        "imgs": 26
+      },
+      {
+        "heading": "Shop by categories",
+        "height": 948,
+        "imgs": 26
+      },
+      {
+        "heading": "Find pieces designed to transform your home one room, one moment, one feeling at a time.",
+        "height": 1254,
+        "imgs": 2
+      },
+      {
+        "heading": "50% Off",
+        "height": 1000,
+        "imgs": 4
+      },
+      {
+        "heading": "Best Sellers",
+        "height": 1688,
+        "imgs": 6
+      },
+      {
+        "heading": "0",
+        "height": 726,
+        "imgs": 0
+      },
+      {
+        "heading": "Trusted by Homeowners",
+        "height": 892,
+        "imgs": 35
+      },
+      {
+        "heading": "Our Blogs",
+        "height": 948,
+        "imgs": 3
+      },
+      {
+        "heading": "Transform your space today",
+        "height": 594,
+        "imgs": 8
+      },
+      {
+        "heading": "Membership",
+        "height": 500,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/furnexa-framer-website.jpg"
+  },
+  {
+    "slug": "wearix-framer-website",
+    "name": "Wearix",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Commerce",
+    "title": "Wearix - Modern Clothing E-commerce Framer Template",
+    "source_url": "https://wearix.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F8F8F8",
+    "hero_bg": "#F8F8F8",
+    "sections": 8,
+    "page_height": 11996,
+    "palette": [
+      "#F8F8F8",
+      "#EEEEEE",
+      "#FFFFFF",
+      "#000000",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#6E6E6E",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Ronzino",
+      "body": "Inter",
+      "display_px": 48,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Fresh fits in our latest drop",
+        "height": 1943,
+        "imgs": 45
+      },
+      {
+        "heading": "Defining modern style",
+        "height": 732,
+        "imgs": 1
+      },
+      {
+        "heading": "Our signature best selling pieces",
+        "height": 1411,
+        "imgs": 30
+      },
+      {
+        "heading": "Modern collections defined by simplicity",
+        "height": 2104,
+        "imgs": 18
+      },
+      {
+        "heading": "The voice of quality",
+        "height": 904,
+        "imgs": 7
+      },
+      {
+        "heading": "Where style meets ease",
+        "height": 1285,
+        "imgs": 12
+      },
+      {
+        "heading": "Elevating your daily style journey",
+        "height": 1094,
+        "imgs": 3
+      },
+      {
+        "heading": "See our community in modern silhouettes",
+        "height": 829,
+        "imgs": 14
+      }
+    ],
+    "thumb": "data/thumbs/wearix-framer-website.jpg"
+  },
+  {
+    "slug": "plumo-framer-website",
+    "name": "Plumo",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Skin, but juicier",
+    "title": "Plumo \u2014 Skin, but juicier",
+    "source_url": "https://plumo.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F4F2EE",
+    "hero_bg": "#F4F2EE",
+    "sections": 10,
+    "page_height": 10830,
+    "palette": [
+      "#F4F2EE",
+      "#141210",
+      "#FBFAF8",
+      "#D7141F",
+      "#4A4541"
+    ],
+    "text_colors": [
+      "#141210",
+      "#D7141F",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Anton",
+      "body": "Familjen Grotesk",
+      "display_px": 440,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "SKIN, BUT",
+        "height": 650,
+        "imgs": 8
+      },
+      {
+        "heading": "THE JUICY ONES",
+        "height": 945,
+        "imgs": 6
+      },
+      {
+        "heading": "WHAT\u2019S YOUR SKIN",
+        "height": 957,
+        "imgs": 5
+      },
+      {
+        "heading": "THE WHOLE ROUTINE",
+        "height": 983,
+        "imgs": 1
+      },
+      {
+        "heading": "4 WEEKS.",
+        "height": 1266,
+        "imgs": 2
+      },
+      {
+        "heading": "ONE SQUISH.",
+        "height": 996,
+        "imgs": 4
+      },
+      {
+        "heading": "BUILD YOUR",
+        "height": 1008,
+        "imgs": 4
+      },
+      {
+        "heading": "WHAT\u2019S IN",
+        "height": 986,
+        "imgs": 4
+      },
+      {
+        "heading": "#SQUISHEDIT",
+        "height": 1160,
+        "imgs": 4
+      },
+      {
+        "heading": "THE JELLY",
+        "height": 899,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/plumo-framer-website.jpg"
+  },
+  {
+    "slug": "energetic-discipline-151934-framer-app",
+    "name": "Energetic",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "EGO",
+    "title": "Modern Lamps & Lighting for Every Space | EGO",
+    "source_url": "https://energetic-discipline-151934.framer.app/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#DEDEDE",
+    "hero_bg": "#DEDEDE",
+    "sections": 5,
+    "page_height": 7651,
+    "palette": [
+      "#DEDEDE",
+      "#0A0A0A",
+      "#000000",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#000000",
+      "#111112",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Switzer",
+      "body": "Inter",
+      "display_px": 64,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Light Shapes Every Space",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Where Form Meets Light\nAnd Light Becomes Art",
+        "height": 1087,
+        "imgs": 3
+      },
+      {
+        "heading": "LIGHT MANIFESTO",
+        "height": 600,
+        "imgs": 1
+      },
+      {
+        "heading": "FROM THE BLOG",
+        "height": 734,
+        "imgs": 3
+      },
+      {
+        "heading": "EGO",
+        "height": 446,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/energetic-discipline-151934-framer-app.jpg"
+  },
+  {
+    "slug": "malasso-framer-ai",
+    "name": "Malasso Furniture",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Malasso Furniture",
+    "title": "Malasso Furniture",
+    "source_url": "https://malasso.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 7,
+    "page_height": 5479,
+    "palette": [
+      "#F5F5F5",
+      "#FFFFFF",
+      "#151515",
+      "#151515",
+      "#DC7609"
+    ],
+    "text_colors": [
+      "#000000",
+      "#151515",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Parkinsans",
+      "body": "Parkinsans",
+      "display_px": 64,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Happiness",
+        "height": 785,
+        "imgs": 23
+      },
+      {
+        "heading": "Our Story:\nWhere Craft Meets Comfort",
+        "height": 648,
+        "imgs": 3
+      },
+      {
+        "heading": "Our Collection Your Story",
+        "height": 1313,
+        "imgs": 6
+      },
+      {
+        "heading": "The Malasso Experience",
+        "height": 1353,
+        "imgs": 4
+      },
+      {
+        "heading": "Frequently asked questions",
+        "height": 622,
+        "imgs": 0
+      },
+      {
+        "heading": "Join our newsletter and get 15% off your first order!",
+        "height": 527,
+        "imgs": 1
+      },
+      {
+        "heading": "Malasso",
+        "height": 231,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/malasso-framer-ai.jpg"
+  },
+  {
+    "slug": "blockhaus-framer-website",
+    "name": "Blockhaus",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Gen Z Clothing Brand",
+    "title": "Blockhaus - Gen Z Clothing Brand",
+    "source_url": "https://blockhaus.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 5644,
+    "palette": [
+      "#FFFFFF",
+      "#F2F2F2",
+      "#F0F0F0",
+      "#0000FF",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#D6D6D6",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Big Shoulders Display",
+      "body": "IBM Plex Mono",
+      "display_px": 180,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "BLOCKHAUS\nSIGNATURES 25% OFF",
+        "height": 715,
+        "imgs": 1
+      },
+      {
+        "heading": "NEW ARRIVAL",
+        "height": 813,
+        "imgs": 6
+      },
+      {
+        "heading": "DESIGNED FOR THE BOLD.",
+        "height": 296,
+        "imgs": 0
+      },
+      {
+        "heading": "WINTER WEAR",
+        "height": 833,
+        "imgs": 6
+      },
+      {
+        "heading": "BEST SELLER",
+        "height": 813,
+        "imgs": 6
+      },
+      {
+        "heading": "WHAT PEOPLE SAY",
+        "height": 560,
+        "imgs": 0
+      },
+      {
+        "heading": "MENS",
+        "height": 839,
+        "imgs": 2
+      },
+      {
+        "heading": "FREE DELIVERY",
+        "height": 213,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/blockhaus-framer-website.jpg"
+  },
+  {
+    "slug": "peakmountaineering-framer-website",
+    "name": "PEAK",
+    "category": "E-commerce & retail",
+    "page_type": "full",
+    "note": "Mountaineering",
+    "title": "PEAK - Mountaineering",
+    "source_url": "https://peakmountaineering.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#EEEEEE",
+    "hero_bg": "#EEEEEE",
+    "sections": 5,
+    "page_height": 7702,
+    "palette": [
+      "#FFFFFF",
+      "#EEEEEE",
+      "#5C5245",
+      "#050505",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#B8D5E6",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "TMT Mini Mochi Variable",
+      "body": "Roboto Mono",
+      "display_px": 387,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Peak is a dedicated mountaineering equipment company, crafting high-performance gear with ",
+        "height": 421,
+        "imgs": 0
+      },
+      {
+        "heading": "LATEST RELEASES",
+        "height": 1797,
+        "imgs": 12
+      },
+      {
+        "heading": "Flasks",
+        "height": 813,
+        "imgs": 5
+      },
+      {
+        "heading": "OUR TEAM",
+        "height": 488,
+        "imgs": 0
+      },
+      {
+        "heading": "Gain access to",
+        "height": 813,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/peakmountaineering-framer-website.jpg"
+  },
+  {
+    "slug": "palazzo-framer-website",
+    "name": "Palazzo",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Tasting Menu Restaurant and Wine Room in Paris",
+    "title": "Palazzo \u2014 Tasting Menu Restaurant and Wine Room in Paris",
+    "source_url": "https://palazzo.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#111214",
+    "hero_bg": "#111214",
+    "sections": 8,
+    "page_height": 7453,
+    "palette": [
+      "#111214",
+      "#1A1B1E",
+      "#1A1410",
+      "#111214",
+      "#111214"
+    ],
+    "text_colors": [
+      "#EEE7DB",
+      "#A9A398",
+      "#111214"
+    ],
+    "fonts": {
+      "display": "Instrument Serif",
+      "body": "Geist",
+      "display_px": 76,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "Scallop, brown butter, hazelnut",
+        "height": 813,
+        "imgs": 10
+      },
+      {
+        "heading": "Visit",
+        "height": 649,
+        "imgs": 0
+      },
+      {
+        "heading": "One table,",
+        "height": 666,
+        "imgs": 3
+      },
+      {
+        "heading": "Tonight",
+        "height": 1174,
+        "imgs": 0
+      },
+      {
+        "heading": "We cook what the market brings in that morning.",
+        "height": 880,
+        "imgs": 2
+      },
+      {
+        "heading": "Wipe the glass to look inside",
+        "height": 1463,
+        "imgs": 1
+      },
+      {
+        "heading": "Private dining",
+        "height": 1066,
+        "imgs": 3
+      },
+      {
+        "heading": "Book a table",
+        "height": 742,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/palazzo-framer-website.jpg"
+  },
+  {
+    "slug": "aveline-framer-ai",
+    "name": "Aveline",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Exquisite Restaurant",
+    "title": "Aveline - Exquisite Restaurant Framer Template",
+    "source_url": "https://aveline.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#EEEEEE",
+    "hero_bg": "#EEEEEE",
+    "sections": 14,
+    "page_height": 16187,
+    "palette": [
+      "#EEEEEE",
+      "#101010",
+      "#000000",
+      "#D4D4D4",
+      "#FAFAFB"
+    ],
+    "text_colors": [
+      "#101010",
+      "#A8A8A8",
+      "#EEEEEE"
+    ],
+    "fonts": {
+      "display": "Cormorant",
+      "body": "Instrument Sans",
+      "display_px": 350,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "A NEW",
+        "height": 959,
+        "imgs": 3
+      },
+      {
+        "heading": "An exquisite",
+        "height": 920,
+        "imgs": 3
+      },
+      {
+        "heading": "AN EXQUISITE",
+        "height": 1088,
+        "imgs": 4
+      },
+      {
+        "heading": "CATERING,\nTHE AVELINE WAY",
+        "height": 1097,
+        "imgs": 3
+      },
+      {
+        "heading": "EXPERIENCESBEYOND THE TABLE",
+        "height": 1016,
+        "imgs": 2
+      },
+      {
+        "heading": null,
+        "height": 750,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 1773,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 545,
+        "imgs": 0
+      },
+      {
+        "heading": "FINE",
+        "height": 1152,
+        "imgs": 1
+      },
+      {
+        "heading": "An exquisite",
+        "height": 1430,
+        "imgs": 3
+      },
+      {
+        "heading": "WHAT",
+        "height": 953,
+        "imgs": 7
+      },
+      {
+        "heading": "STORY FROM",
+        "height": 920,
+        "imgs": 3
+      },
+      {
+        "heading": "A NEW",
+        "height": 1238,
+        "imgs": 2
+      },
+      {
+        "heading": "AVELINE",
+        "height": 878,
+        "imgs": 6
+      }
+    ],
+    "thumb": "data/thumbs/aveline-framer-ai.jpg"
+  },
+  {
+    "slug": "slice-town-wbs-framer-website",
+    "name": "Slice Town",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Restaurant",
+    "title": "Slice Town - Restaurant Website Template",
+    "source_url": "https://slice-town-wbs.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#C56714",
+    "hero_bg": "#C56714",
+    "sections": 8,
+    "page_height": 11416,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#F8F4E0",
+      "#3D2101",
+      "#FAB037"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#3D2101",
+      "#C56714"
+    ],
+    "fonts": {
+      "display": "Calistoga",
+      "body": "Inter Display",
+      "display_px": 240,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "BITE IT. LOVE IT. REPEAT WITHOUT ANY PAUSE.",
+        "height": 1360,
+        "imgs": 4
+      },
+      {
+        "heading": "Where Every Perfect Slice Tells a Story",
+        "height": 1511,
+        "imgs": 15
+      },
+      {
+        "heading": "Pizza Lovers Choice",
+        "height": 1822,
+        "imgs": 2
+      },
+      {
+        "heading": "Delicious Top Picks From Our Oven",
+        "height": 1680,
+        "imgs": 19
+      },
+      {
+        "heading": "Reserve a Table",
+        "height": 1072,
+        "imgs": 36
+      },
+      {
+        "heading": "Truly Loved by People Like You",
+        "height": 1326,
+        "imgs": 11
+      },
+      {
+        "heading": "Where To Find Us",
+        "height": 792,
+        "imgs": 7
+      },
+      {
+        "heading": "Follow the fun @Slicetown",
+        "height": 790,
+        "imgs": 8
+      }
+    ],
+    "thumb": "data/thumbs/slice-town-wbs-framer-website.jpg"
+  },
+  {
+    "slug": "sofra-framer-website",
+    "name": "Sofra",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Sofra Restaurant",
+    "title": "Sofra Restaurant Template",
+    "source_url": "https://sofra.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#131D1C",
+    "hero_bg": "#131D1C",
+    "sections": 9,
+    "page_height": 8720,
+    "palette": [
+      "#131D1C",
+      "#FFFFFF",
+      "#0B1514",
+      "#FFF0E1",
+      "#F37D2F"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#F37D2F",
+      "#131D1C"
+    ],
+    "fonts": {
+      "display": "Gilda Display",
+      "body": "Jost",
+      "display_px": 72,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Savor Every Moment with Every Bite",
+        "height": 813,
+        "imgs": 4
+      },
+      {
+        "heading": "Every Celebration Remarkable",
+        "height": 956,
+        "imgs": 2
+      },
+      {
+        "heading": "Pasta & Noodles",
+        "height": 672,
+        "imgs": 3
+      },
+      {
+        "heading": "More Than Dining It\u2019s Sofra",
+        "height": 994,
+        "imgs": 5
+      },
+      {
+        "heading": "Best Catering Menus",
+        "height": 1615,
+        "imgs": 1
+      },
+      {
+        "heading": "Planning a Party or Special Event?",
+        "height": 815,
+        "imgs": 3
+      },
+      {
+        "heading": "What Our Guests Are Saying",
+        "height": 946,
+        "imgs": 27
+      },
+      {
+        "heading": "Make A Reservation",
+        "height": 874,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 400,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/sofra-framer-website.jpg"
+  },
+  {
+    "slug": "bakehub-framer-website",
+    "name": "BakeHub",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Framer Bakery",
+    "title": "BakeHub - Framer Bakery Template",
+    "source_url": "https://bakehub.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7F5F0",
+    "hero_bg": "#F7F5F0",
+    "sections": 7,
+    "page_height": 6542,
+    "palette": [
+      "#F7F5F0",
+      "#F0EDE4",
+      "#000000",
+      "#EAE4D9",
+      "#311E17"
+    ],
+    "text_colors": [
+      "#311E17",
+      "#5A4D46",
+      "#F7F5F0"
+    ],
+    "fonts": {
+      "display": "Playfair Display",
+      "body": "Roboto",
+      "display_px": 72,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Freshly Baked. Made to Gather",
+        "height": 813,
+        "imgs": 7
+      },
+      {
+        "heading": "Baked Today. Gone Tonight",
+        "height": 1112,
+        "imgs": 8
+      },
+      {
+        "heading": "The Small-Batch Bakery",
+        "height": 650,
+        "imgs": 1
+      },
+      {
+        "heading": "Come Say Hi",
+        "height": 903,
+        "imgs": 0
+      },
+      {
+        "heading": "Let\u2019s Craft Your Event",
+        "height": 711,
+        "imgs": 1
+      },
+      {
+        "heading": "Frequently Asked",
+        "height": 867,
+        "imgs": 1
+      },
+      {
+        "heading": "Loved by the Neighborhood",
+        "height": 724,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/bakehub-framer-website.jpg"
+  },
+  {
+    "slug": "ovena-framer-ai",
+    "name": "Ovena",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Ovena",
+    "title": "Ovena",
+    "source_url": "https://ovena.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F6EBDD",
+    "hero_bg": "#F6EBDD",
+    "sections": 8,
+    "page_height": 9228,
+    "palette": [
+      "#F6EBDD",
+      "#F6F1E9",
+      "#6A4A3A",
+      "#FCFCFA",
+      "#F5AF53"
+    ],
+    "text_colors": [
+      "#2C201B",
+      "#72665D",
+      "#FCFCFA"
+    ],
+    "fonts": {
+      "display": "Bungee",
+      "body": "Instrument Sans",
+      "display_px": 72,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Delicious Moments Baked for You",
+        "height": 800,
+        "imgs": 1
+      },
+      {
+        "heading": "Handcrafted Favorites You'll Love",
+        "height": 1136,
+        "imgs": 4
+      },
+      {
+        "heading": "Our Sweet Menu",
+        "height": 1212,
+        "imgs": 8
+      },
+      {
+        "heading": "Why Choose Us",
+        "height": 746,
+        "imgs": 1
+      },
+      {
+        "heading": "Moments From Our Bakery",
+        "height": 914,
+        "imgs": 10
+      },
+      {
+        "heading": "Why Customers Love Ovena",
+        "height": 1094,
+        "imgs": 15
+      },
+      {
+        "heading": "Book Your Table",
+        "height": 989,
+        "imgs": 1
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "height": 750,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/ovena-framer-ai.jpg"
+  },
+  {
+    "slug": "soif-wine-bar-framer-website",
+    "name": "Soif",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Soif \u00b7 Natural Wine Bar & Kitchen",
+    "title": "Soif \u00b7 Natural Wine Bar & Kitchen",
+    "source_url": "https://soif-wine-bar.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F4EDE2",
+    "hero_bg": "#F4EDE2",
+    "sections": 7,
+    "page_height": 5860,
+    "palette": [
+      "#F4EDE2",
+      "#ECE2D3",
+      "#561220",
+      "#F4EDE2",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#22161A",
+      "#68564F",
+      "#F4EDE2"
+    ],
+    "fonts": {
+      "display": "Instrument Serif",
+      "body": "Instrument Sans",
+      "display_px": 112,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Pour something alive.",
+        "height": 820,
+        "imgs": 2
+      },
+      {
+        "heading": "One long bar, a fridge full of open bottles and someone happy to talk ",
+        "height": 559,
+        "imgs": 0
+      },
+      {
+        "heading": "Start here",
+        "height": 906,
+        "imgs": 5
+      },
+      {
+        "heading": "Around nine on a Friday, when every stool at the bar is taken.",
+        "height": 600,
+        "imgs": 2
+      },
+      {
+        "heading": "Coming up",
+        "height": 662,
+        "imgs": 0
+      },
+      {
+        "heading": "Where to find us",
+        "height": 604,
+        "imgs": 0
+      },
+      {
+        "heading": "Keep me a glass.",
+        "height": 596,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/soif-wine-bar-framer-website.jpg"
+  },
+  {
+    "slug": "tamp-coffee-framer-website",
+    "name": "Tamp",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Tamp \u00b7 Specialty coffee in Chicago",
+    "title": "Tamp \u00b7 Specialty coffee in Chicago",
+    "source_url": "https://tamp-coffee.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 8532,
+    "palette": [
+      "#FFFFFF",
+      "#F4F3F0",
+      "#C3EE80",
+      "#2A2826",
+      "#4A4845"
+    ],
+    "text_colors": [
+      "#2A2826",
+      "#4A4845",
+      "#F4F3F0"
+    ],
+    "fonts": {
+      "display": "Urbanist",
+      "body": "Urbanist",
+      "display_px": 420,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Specialty coffee in Chicago, ready when you are.",
+        "height": 1005,
+        "imgs": 7
+      },
+      {
+        "heading": "Poured at 40+ restaurants, offices and grocers around Chicago",
+        "height": 206,
+        "imgs": 0
+      },
+      {
+        "heading": "On the menu",
+        "height": 1497,
+        "imgs": 6
+      },
+      {
+        "heading": "A day at Tamp",
+        "height": 1224,
+        "imgs": 0
+      },
+      {
+        "heading": "Tamp House, roasted twice a week",
+        "height": 1031,
+        "imgs": 1
+      },
+      {
+        "heading": "Our regulars, in their own words",
+        "height": 1021,
+        "imgs": 0
+      },
+      {
+        "heading": "Every 10th drink is on us",
+        "height": 569,
+        "imgs": 7
+      },
+      {
+        "heading": "Three caf\u00e9s, one roast",
+        "height": 954,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/tamp-coffee-framer-website.jpg"
+  },
+  {
+    "slug": "cova-framer-ai",
+    "name": "COVA",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Specialty Coffee & Caf\u00e9",
+    "title": "COVA \u2014 Specialty Coffee & Caf\u00e9",
+    "source_url": "https://cova.framer.ai/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#0B3A2A",
+    "hero_bg": "#0B3A2A",
+    "sections": 17,
+    "page_height": 16435,
+    "palette": [
+      "#FFFFFF",
+      "#0B3A2A",
+      "#F6FBDD",
+      "#C8F135",
+      "#071A12"
+    ],
+    "text_colors": [
+      "#667066",
+      "#0F1A14",
+      "#0B3A2A"
+    ],
+    "fonts": {
+      "display": "Anton",
+      "body": "Inter",
+      "display_px": 262,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "COFFEE\nFOR SLOW\nMOMENTS.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "THREE CUPS.\nENDLESS WAYS\nTO ENJOY.",
+        "height": 1071,
+        "imgs": 3
+      },
+      {
+        "heading": "WHEN THE DAY\nCALLS FOR\nSOMETHING BETTER.",
+        "height": 860,
+        "imgs": 1
+      },
+      {
+        "heading": "BETTER COFFEE\nSTARTS WITH\nBETTER BEANS.",
+        "height": 976,
+        "imgs": 3
+      },
+      {
+        "heading": "A WORLD\nIN EVERY\nCUP.",
+        "height": 1207,
+        "imgs": 4
+      },
+      {
+        "heading": "YOUR\nDAILY\nRITUAL.",
+        "height": 1419,
+        "imgs": 0
+      },
+      {
+        "heading": "MORE THAN\nJUST COFFEE.",
+        "height": 998,
+        "imgs": 4
+      },
+      {
+        "heading": "WE BELIEVE\nCOFFEE SHOULD\nFEEL GOOD.",
+        "height": 880,
+        "imgs": 2
+      },
+      {
+        "heading": "ROASTED\nWITH INTENTION.",
+        "height": 780,
+        "imgs": 1
+      },
+      {
+        "heading": "MEET YOUR\nNEW FAVORITE\nLATTE.",
+        "height": 940,
+        "imgs": 1
+      },
+      {
+        "heading": "GOOD COFFEE\nDESERVES GOOD\nCOMPANY.",
+        "height": 801,
+        "imgs": 4
+      },
+      {
+        "heading": "REAL COFFEE.\nREAL PEOPLE.",
+        "height": 972,
+        "imgs": 6
+      },
+      {
+        "heading": "COFFEE,\nCULTURE &\nCRAFT.",
+        "height": 978,
+        "imgs": 3
+      },
+      {
+        "heading": "INSIDE\nCOVA.",
+        "height": 857,
+        "imgs": 16
+      },
+      {
+        "heading": "YOUR NEXT\nCUP IS\nCLOSER.",
+        "height": 855,
+        "imgs": 2
+      },
+      {
+        "heading": "START YOUR DAY\nWITH COVA.",
+        "height": 314,
+        "imgs": 0
+      },
+      {
+        "heading": "READY FOR\nYOUR NEXT\nCUP?",
+        "height": 813,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/cova-framer-ai.jpg"
+  },
+  {
+    "slug": "santancafe-framer-website",
+    "name": "SANTAN",
+    "category": "Food & beverage",
+    "page_type": "full",
+    "note": "Coffee & coconut kitchen in Bingin, Uluwatu",
+    "title": "SANTAN \u2014 Coffee & coconut kitchen in Bingin, Uluwatu",
+    "source_url": "https://santancafe.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FBF4DC",
+    "hero_bg": "#FBF4DC",
+    "sections": 8,
+    "page_height": 9075,
+    "palette": [
+      "#FBF4DC",
+      "#0D3D22",
+      "#F3E5BA",
+      "#072615",
+      "#E7ECD4"
+    ],
+    "text_colors": [
+      "#0D3D22",
+      "#E9D9A4",
+      "#FBF4DC"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter",
+      "display_px": 360,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "A few house favourites.",
+        "height": 893,
+        "imgs": 4
+      },
+      {
+        "heading": "Coffee, the island way.",
+        "height": 808,
+        "imgs": 2
+      },
+      {
+        "heading": "Your seat in Bingin.",
+        "height": 813,
+        "imgs": 2
+      },
+      {
+        "heading": "We make everything by hand, a short walk from the waves.",
+        "height": 728,
+        "imgs": 1
+      },
+      {
+        "heading": "A little slower here.",
+        "height": 700,
+        "imgs": 4
+      },
+      {
+        "heading": "They sip.\nThey stay.",
+        "height": 474,
+        "imgs": 10
+      },
+      {
+        "heading": "A few things to know.",
+        "height": 624,
+        "imgs": 0
+      },
+      {
+        "heading": "SANTAN\nBINGIN",
+        "height": 1629,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/santancafe-framer-website.jpg"
+  },
+  {
+    "slug": "lusora-framer-website",
+    "name": "Lusora",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Page for Framer",
+    "title": "Lusora - Spa & Wellness One-Page Template for Framer",
+    "source_url": "https://lusora.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FAF9F6",
+    "hero_bg": "#FAF9F6",
+    "sections": 9,
+    "page_height": 8686,
+    "palette": [
+      "#FAF9F6",
+      "#F1F0ED",
+      "#D8C9B5",
+      "#285C5A",
+      "#E2E2E2"
+    ],
+    "text_colors": [
+      "#2E2E2E",
+      "#6E6E6E",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Abhaya Libre",
+      "body": "Montserrat",
+      "display_px": 48,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Your Sanctuary \nfor Mind & Body Wellness",
+        "height": 948,
+        "imgs": 6
+      },
+      {
+        "heading": "Your Wellness Sanctuary",
+        "height": 579,
+        "imgs": 1
+      },
+      {
+        "heading": "Our Rituals of Renewal",
+        "height": 978,
+        "imgs": 3
+      },
+      {
+        "heading": "The Hands Behind the Harmony",
+        "height": 811,
+        "imgs": 6
+      },
+      {
+        "heading": "Your Wellness Investment",
+        "height": 924,
+        "imgs": 3
+      },
+      {
+        "heading": "Moments Remembered",
+        "height": 854,
+        "imgs": 6
+      },
+      {
+        "heading": "Recenter Your Senses",
+        "height": 322,
+        "imgs": 1
+      },
+      {
+        "heading": "Know Before You Glow",
+        "height": 543,
+        "imgs": 0
+      },
+      {
+        "heading": "Your Journey Begins Here",
+        "height": 927,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/lusora-framer-website.jpg"
+  },
+  {
+    "slug": "sona-template-framer-website",
+    "name": "Sona",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Spa and Wellness",
+    "title": "Sona - Spa and Wellness Template",
+    "source_url": "https://sona-template.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#E9E5E0",
+    "hero_bg": "#E9E5E0",
+    "sections": 7,
+    "page_height": 6150,
+    "palette": [
+      "#E9E5E0",
+      "#F5F5F4",
+      "#000000",
+      "#FFFFFF",
+      "#864211"
+    ],
+    "text_colors": [
+      "#302119",
+      "#655750",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Bricolage Grotesque",
+      "body": "Almarai",
+      "display_px": 90,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Rejuvenate your mind, body, and soul",
+        "height": 719,
+        "imgs": 1
+      },
+      {
+        "heading": "Where tranquility meets wellness",
+        "height": 636,
+        "imgs": 7
+      },
+      {
+        "heading": "Our services",
+        "height": 907,
+        "imgs": 3
+      },
+      {
+        "heading": "Your well-being in trusted hands",
+        "height": 785,
+        "imgs": 6
+      },
+      {
+        "heading": "What our clients are saying",
+        "height": 1101,
+        "imgs": 18
+      },
+      {
+        "heading": "Refresh your spirit with our signature spa rituals",
+        "height": 553,
+        "imgs": 1
+      },
+      {
+        "heading": "Book your next escape today",
+        "height": 514,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/sona-template-framer-website.jpg"
+  },
+  {
+    "slug": "lumiera-framer-website",
+    "name": "Lumiera",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Luxury Spa & Beauty Salon",
+    "title": "Lumiera \u2013 Luxury Spa & Beauty Salon",
+    "source_url": "https://lumiera.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 12,
+    "page_height": 8418,
+    "palette": [
+      "#FFFFFF",
+      "#ECF5F4",
+      "#1A1A1A",
+      "#FAF7F6",
+      "#4C5C68"
+    ],
+    "text_colors": [
+      "#1A1A1A",
+      "#4C5C68",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Fraunces",
+      "body": "Figtree",
+      "display_px": 42,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Step Into Your Sanctuary.",
+        "height": 813,
+        "imgs": 18
+      },
+      {
+        "heading": "A Place Built Around \nOne Thing: You.",
+        "height": 830,
+        "imgs": 2
+      },
+      {
+        "heading": "0+",
+        "height": 186,
+        "imgs": 0
+      },
+      {
+        "heading": "Treatments Crafted for Every Need.",
+        "height": 738,
+        "imgs": 30
+      },
+      {
+        "heading": "The Rest of Your Day Starts Here.",
+        "height": 569,
+        "imgs": 2
+      },
+      {
+        "heading": "Massage Therapies",
+        "height": 759,
+        "imgs": 10
+      },
+      {
+        "heading": "What Leaving Lumiera Feels Like.",
+        "height": 808,
+        "imgs": 1
+      },
+      {
+        "heading": "AS SEEN IN",
+        "height": 204,
+        "imgs": 32
+      },
+      {
+        "heading": "Meet Our Expert Therapists",
+        "height": 684,
+        "imgs": 4
+      },
+      {
+        "heading": "We've Got You Covered.",
+        "height": 948,
+        "imgs": 1
+      },
+      {
+        "heading": "Wellness, Explored.",
+        "height": 695,
+        "imgs": 3
+      },
+      {
+        "heading": "Life at Lumiera",
+        "height": 474,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/lumiera-framer-website.jpg"
+  },
+  {
+    "slug": "serenayoga-framer-website",
+    "name": "Serena",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Wellness & Yoga Studio",
+    "title": "Serena - Wellness & Yoga Studio Website Template | Neueframe",
+    "source_url": "https://serenayoga.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FAF6F0",
+    "hero_bg": "#FAF6F0",
+    "sections": 3,
+    "page_height": 8322,
+    "palette": [
+      "#FAF6F0",
+      "#476B64",
+      "#3D5752",
+      "#FFFFFF",
+      "#E5DFD6"
+    ],
+    "text_colors": [
+      "#4E4946",
+      "#476B64",
+      "#FAF6F0"
+    ],
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body": "DM Sans",
+      "display_px": 108,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Return to\nyourself.",
+        "height": 732,
+        "imgs": 1
+      },
+      {
+        "heading": "Wellness notes.",
+        "height": 1398,
+        "imgs": 3
+      },
+      {
+        "heading": "Book your first class.",
+        "height": 605,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/serenayoga-framer-website.jpg"
+  },
+  {
+    "slug": "dilor-framer-website",
+    "name": "Dilor Skin Atelier",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Facials, Skincare & Time for You",
+    "title": "Dilor Skin Atelier \u2014 Facials, Skincare & Time for You",
+    "source_url": "https://dilor.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#241914",
+    "hero_bg": "#241914",
+    "sections": 14,
+    "page_height": 13323,
+    "palette": [
+      "#241914",
+      "#000000",
+      "#1A1A1A",
+      "#242321"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#FAFAFA",
+      "#F4E8D9"
+    ],
+    "fonts": {
+      "display": "Manrope",
+      "body": "Inter",
+      "display_px": 262,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Dilor Skin\u00a0Atelier",
+        "height": 900,
+        "imgs": 8
+      },
+      {
+        "heading": "Good care starts with you \u2014 from the first conversation to your everyday\u00a0routine.",
+        "height": 904,
+        "imgs": 0
+      },
+      {
+        "heading": "Care shaped around\u00a0you.",
+        "height": 1011,
+        "imgs": 1
+      },
+      {
+        "heading": "ALL",
+        "height": 1496,
+        "imgs": 0
+      },
+      {
+        "heading": "A little time.\nJust for\u00a0you.",
+        "height": 752,
+        "imgs": 0
+      },
+      {
+        "heading": "Small rituals. Time for\u00a0you.",
+        "height": 924,
+        "imgs": 0
+      },
+      {
+        "heading": "Cleansing milk",
+        "height": 880,
+        "imgs": 3
+      },
+      {
+        "heading": "Your skin.\nYour\u00a0moment.",
+        "height": 790,
+        "imgs": 0
+      },
+      {
+        "heading": "Meet the people who\u00a0care.",
+        "height": 909,
+        "imgs": 3
+      },
+      {
+        "heading": "A closer look at\u00a0Dilor.",
+        "height": 1281,
+        "imgs": 34
+      },
+      {
+        "heading": "Time, well\u00a0spent.",
+        "height": 609,
+        "imgs": 0
+      },
+      {
+        "heading": "Good care.\nEvery\u00a0day.",
+        "height": 877,
+        "imgs": 3
+      },
+      {
+        "heading": "Time for your\u00a0skin.\nStarts\u00a0here.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Explore the atelier",
+        "height": 1177,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/dilor-framer-website.jpg"
+  },
+  {
+    "slug": "luneform-framer-website",
+    "name": "Luneform",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Look rested. Not done",
+    "title": "Luneform | Look rested. Not done.",
+    "source_url": "https://luneform.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 16,
+    "page_height": 12443,
+    "palette": [
+      "#FFFFFF",
+      "#F5F3F0",
+      "#2A1D19",
+      "#241813"
+    ],
+    "text_colors": [
+      "#2A1D19",
+      "#87736B",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Poppins",
+      "body": "Poppins",
+      "display_px": 70,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Look rested.\nNot done.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 488,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 488,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 488,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 488,
+        "imgs": 0
+      },
+      {
+        "heading": "Eight treatments, honestly priced.",
+        "height": 904,
+        "imgs": 4
+      },
+      {
+        "heading": "Real people. Real restraint.",
+        "height": 821,
+        "imgs": 1
+      },
+      {
+        "heading": "Your first visit",
+        "height": 738,
+        "imgs": 0
+      },
+      {
+        "heading": "Doctors with a light hand.",
+        "height": 982,
+        "imgs": 4
+      },
+      {
+        "heading": "Glow, on a schedule.",
+        "height": 760,
+        "imgs": 0
+      },
+      {
+        "heading": "Questions, answered plainly.",
+        "height": 759,
+        "imgs": 3
+      },
+      {
+        "heading": "Your face, just rested.",
+        "height": 1075,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/luneform-framer-website.jpg"
+  },
+  {
+    "slug": "kosmetisk-framer-website",
+    "name": "Kosmetisk",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Cosmetic Beauty Clinic",
+    "title": "Kosmetisk \u2014 Cosmetic Beauty Clinic Framer Template",
+    "source_url": "https://kosmetisk.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 8246,
+    "palette": [
+      "#FFFFFF",
+      "#FAFAFA",
+      "#FBF9F5",
+      "#F0F4EF",
+      "#F5F4FD"
+    ],
+    "text_colors": [
+      "#000000",
+      "#3D3D3D",
+      "#666570"
+    ],
+    "fonts": {
+      "display": "Roboto",
+      "body": "Noto Sans",
+      "display_px": 300,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Your glow",
+        "height": 658,
+        "imgs": 5
+      },
+      {
+        "heading": "Modern beauty with tender care",
+        "height": 746,
+        "imgs": 4
+      },
+      {
+        "heading": "Micro-pigmentation",
+        "height": 1713,
+        "imgs": 3
+      },
+      {
+        "heading": "With us, you are seen & heard",
+        "height": 612,
+        "imgs": 18
+      },
+      {
+        "heading": "Dedicated team of experts",
+        "height": 881,
+        "imgs": 3
+      },
+      {
+        "heading": "Have never been happier with the way I look and feel",
+        "height": 614,
+        "imgs": 1
+      },
+      {
+        "heading": "Maria Olsen",
+        "height": 960,
+        "imgs": 16
+      },
+      {
+        "heading": "Contact us",
+        "height": 677,
+        "imgs": 5
+      }
+    ],
+    "thumb": "data/thumbs/kosmetisk-framer-website.jpg"
+  },
+  {
+    "slug": "aurevana-framer-website",
+    "name": "AUREVANA",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Find Your Flow",
+    "title": "AUREVANA \u2014 Find Your Flow",
+    "source_url": "https://aurevana.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F2F2EE",
+    "hero_bg": "#F2F2EE",
+    "sections": 14,
+    "page_height": 11041,
+    "palette": [
+      "#F2F2EE",
+      "#FFFFFF",
+      "#121212",
+      "#1B1B18",
+      "#CFCFC8"
+    ],
+    "text_colors": [
+      "#121212",
+      "#7A7A73",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter Display",
+      "display_px": 240,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Find Your Flow. Feel More Like You.",
+        "height": 792,
+        "imgs": 1
+      },
+      {
+        "heading": "A calmer space for your everyday life.",
+        "height": 912,
+        "imgs": 0
+      },
+      {
+        "heading": "KEY BENEFITS",
+        "height": 707,
+        "imgs": 0
+      },
+      {
+        "heading": "Find the practice that fits you.",
+        "height": 907,
+        "imgs": 3
+      },
+      {
+        "heading": "Thoughtful teaching. Space to be yourself.",
+        "height": 856,
+        "imgs": 1
+      },
+      {
+        "heading": "A little space to reset.",
+        "height": 920,
+        "imgs": 1
+      },
+      {
+        "heading": "Make time for your practice.",
+        "height": 702,
+        "imgs": 0
+      },
+      {
+        "heading": "Meet the people who guide your practice.",
+        "height": 1081,
+        "imgs": 3
+      },
+      {
+        "heading": "Explore beyond your usual practice.",
+        "height": 819,
+        "imgs": 3
+      },
+      {
+        "heading": "Words from our community",
+        "height": 669,
+        "imgs": 0
+      },
+      {
+        "heading": "A practice that works with your life.",
+        "height": 532,
+        "imgs": 0
+      },
+      {
+        "heading": "New to AUREVANA?",
+        "height": 616,
+        "imgs": 0
+      },
+      {
+        "heading": "Your next deep breath starts here.",
+        "height": 652,
+        "imgs": 1
+      },
+      {
+        "heading": "AUREVANA \u00b7 YOGA STUDIO & WELLNESS",
+        "height": 801,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/aurevana-framer-website.jpg"
+  },
+  {
+    "slug": "salonix-framer-website",
+    "name": "Salonix",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Hair & Beauty Salon",
+    "title": "Salonix - Hair & Beauty Salon Framer Template",
+    "source_url": "https://salonix.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F6EFE5",
+    "hero_bg": "#F6EFE5",
+    "sections": 4,
+    "page_height": 12942,
+    "palette": [
+      "#F6EFE5",
+      "#FFFFFF",
+      "#FFFFFF",
+      "#48120E",
+      "#000000"
+    ],
+    "text_colors": [
+      "#48120E",
+      "#453030",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Rethink Sans",
+      "body": "Rethink Sans",
+      "display_px": 120,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "4.9/5 (986+ Reviews)",
+        "height": 1360,
+        "imgs": 7
+      },
+      {
+        "heading": "CLARITY",
+        "height": 1088,
+        "imgs": 5
+      },
+      {
+        "heading": "GALLERY",
+        "height": 981,
+        "imgs": 18
+      },
+      {
+        "heading": "BOOKING",
+        "height": 1075,
+        "imgs": 3
+      }
+    ],
+    "thumb": "data/thumbs/salonix-framer-website.jpg"
+  },
+  {
+    "slug": "scissor-framer-website",
+    "name": "Scissor",
+    "category": "Beauty, spa & wellness",
+    "page_type": "full",
+    "note": "Hair Salon in Brooklyn, Cuts and Colour",
+    "title": "Scissor | Hair Salon in Brooklyn, Cuts and Colour",
+    "source_url": "https://scissor.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7F5F0",
+    "hero_bg": "#F7F5F0",
+    "sections": 11,
+    "page_height": 19194,
+    "palette": [
+      "#F7F5F0",
+      "#1F1C19",
+      "#E5D9CA",
+      "#F0F0F0",
+      "#92745B"
+    ],
+    "text_colors": [
+      "#302C28",
+      "#6B635B",
+      "#F7F5F0"
+    ],
+    "fonts": {
+      "display": "General Sans",
+      "body": "General Sans",
+      "display_px": 112,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The art of great hair.",
+        "height": 900,
+        "imgs": 2
+      },
+      {
+        "heading": "Fades and finger waves, beards and balayage. One studio, one standard, and every head of h",
+        "height": 1194,
+        "imgs": 5
+      },
+      {
+        "heading": "One menu for every head of hair.",
+        "height": 1767,
+        "imgs": 1
+      },
+      {
+        "heading": "Four reasons people stay.",
+        "height": 2502,
+        "imgs": 4
+      },
+      {
+        "heading": "Real results, side by side.",
+        "height": 1178,
+        "imgs": 0
+      },
+      {
+        "heading": "The hands behind every chair.",
+        "height": 1550,
+        "imgs": 4
+      },
+      {
+        "heading": "From first hello to the final mirror.",
+        "height": 2439,
+        "imgs": 4
+      },
+      {
+        "heading": "Daniel Okafor",
+        "height": 1092,
+        "imgs": 5
+      },
+      {
+        "heading": "Fresh from the chair.",
+        "height": 3574,
+        "imgs": 14
+      },
+      {
+        "heading": "Questions, answered.",
+        "height": 968,
+        "imgs": 0
+      },
+      {
+        "heading": "Book your chair.",
+        "height": 903,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/scissor-framer-website.jpg"
+  },
+  {
+    "slug": "veloce2-framer-website",
+    "name": "My Framer Site",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "My Framer Site",
+    "title": "My Framer Site",
+    "source_url": "https://veloce2.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000000",
+    "hero_bg": "#000000",
+    "sections": 16,
+    "page_height": 19603,
+    "palette": [
+      "#000000",
+      "#0D0C0C",
+      "#F5F5F5"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#F5F5F5",
+      "#737373"
+    ],
+    "fonts": {
+      "display": "Oswald",
+      "body": "Inter",
+      "display_px": 100,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": null,
+        "height": 813,
+        "imgs": 6
+      },
+      {
+        "heading": "AN ELITE FLEET OF SUPER CARS AND LUXURY SUVS AVAILABLE FOR SHORT-TERM ",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "CURATED COLLECTION",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Audi RS7 Sportback performance",
+        "height": 1260,
+        "imgs": 9
+      },
+      {
+        "heading": "ABOUT US",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Driven by Passion.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "THE WORLD'S FINEST VEHICLES,",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 560,
+        "imgs": 7
+      },
+      {
+        "heading": "HOW DOES IT WORK ?",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Your Journey, Simplified",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "OUR ELITE CREW",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "WHAT IT FEELS LIKE",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Trusted Worldwide",
+        "height": 813,
+        "imgs": 3
+      },
+      {
+        "heading": "BOOK YOUR EXPERIENCE",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Begin Your Journey",
+        "height": 808,
+        "imgs": 1
+      },
+      {
+        "heading": "\u00a9 2026Veloce.All rights reserved",
+        "height": 592,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/veloce2-framer-website.jpg"
+  },
+  {
+    "slug": "velozdrive-framer-website",
+    "name": "Homepage",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Homepage",
+    "title": "Homepage",
+    "source_url": "https://velozdrive.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 3,
+    "page_height": 10822,
+    "palette": [
+      "#0B0B0C",
+      "#30302F",
+      "#FFFFFF",
+      "#F5F5F5",
+      "#141416"
+    ],
+    "text_colors": [
+      "#999999",
+      "#9A9AA0",
+      "#F2E6CF"
+    ],
+    "fonts": {
+      "display": "Playfair Display",
+      "body": "Inter",
+      "display_px": 32,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Premium car rentals made effortless.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "A Seamless Luxury Experience",
+        "height": 757,
+        "imgs": 0
+      },
+      {
+        "heading": "What drivers say.",
+        "height": 3001,
+        "imgs": 6
+      }
+    ],
+    "thumb": "data/thumbs/velozdrive-framer-website.jpg"
+  },
+  {
+    "slug": "autogear-framer-website",
+    "name": "AutoGear",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Auto Repair",
+    "title": "AutoGear \u2014 Auto Repair Framer Template",
+    "source_url": "https://autogear.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 11,
+    "page_height": 7367,
+    "palette": [
+      "#FFFFFF",
+      "#111111",
+      "#EE292B",
+      "#000000",
+      "#141414"
+    ],
+    "text_colors": [
+      "#111111",
+      "#808080",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Agdasima",
+      "body": "Geist",
+      "display_px": 182,
+      "body_px": 15
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Keep your car running right",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Expert care for every vehicle",
+        "height": 768,
+        "imgs": 0
+      },
+      {
+        "heading": "Everything your car needs, under one roof",
+        "height": 773,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 450,
+        "imgs": 2
+      },
+      {
+        "heading": "From problem to back on the road",
+        "height": 967,
+        "imgs": 0
+      },
+      {
+        "heading": "Not sure what your car needs?",
+        "height": 487,
+        "imgs": 0
+      },
+      {
+        "heading": "More than a repair shop",
+        "height": 680,
+        "imgs": 0
+      },
+      {
+        "heading": "Your questions, answered",
+        "height": 619,
+        "imgs": 1
+      },
+      {
+        "heading": "Trusted by drivers, backed by results",
+        "height": 714,
+        "imgs": 1
+      },
+      {
+        "heading": "Let's get you back on the road",
+        "height": 500,
+        "imgs": 1
+      },
+      {
+        "heading": "Call the shop today",
+        "height": 449,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/autogear-framer-website.jpg"
+  },
+  {
+    "slug": "lime-whoever-593271-framer-app",
+    "name": "DriveNow\u00ae",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "New & Used Cars Dealership",
+    "title": "DriveNow\u00ae | New & Used Cars Dealership \u2013 Buy, Finance & Trade-In",
+    "source_url": "https://lime-whoever-593271.framer.app/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 6438,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#F5F6F7",
+      "#F98F44",
+      "#E8EFFC"
+    ],
+    "text_colors": [
+      "#000000",
+      "#525050",
+      "#FAFAFA"
+    ],
+    "fonts": {
+      "display": "Satoshi",
+      "body": "system-ui",
+      "display_px": 49,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Browse",
+        "height": 564,
+        "imgs": 2
+      },
+      {
+        "heading": "Featured Vehicles",
+        "height": 802,
+        "imgs": 3
+      },
+      {
+        "heading": "Why Choose DriveNow\u00ae",
+        "height": 482,
+        "imgs": 0
+      },
+      {
+        "heading": "What Our Customers Say",
+        "height": 535,
+        "imgs": 2
+      },
+      {
+        "heading": "Trade In Your Car",
+        "height": 728,
+        "imgs": 1
+      },
+      {
+        "heading": "Our Values Lead the Way",
+        "height": 641,
+        "imgs": 0
+      },
+      {
+        "heading": "Ready to Find Your Next Vehicle?",
+        "height": 391,
+        "imgs": 0
+      },
+      {
+        "heading": "Visit Our Dealership",
+        "height": 612,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/lime-whoever-593271-framer-app.jpg"
+  },
+  {
+    "slug": "car-dealership-framer-website",
+    "name": "Car",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "CAR DEALERSHIP\u00a9",
+    "title": "Luxury Car Dealership in Washington | CAR DEALERSHIP\u00a9",
+    "source_url": "https://car-dealership.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F2F2F2",
+    "hero_bg": "#F2F2F2",
+    "sections": 8,
+    "page_height": 6332,
+    "palette": [
+      "#F2F2F2",
+      "#FAFAFA",
+      "#000000",
+      "#000000",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#000000",
+      "#4D4D4D",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Space Grotesk",
+      "body": "Space Grotesk",
+      "display_px": 142,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Washington's Premier Luxury Dealership",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Performance Meets Prestige",
+        "height": 596,
+        "imgs": 3
+      },
+      {
+        "heading": "We're Way More Than a Dealership",
+        "height": 636,
+        "imgs": 12
+      },
+      {
+        "heading": "Great Numbers, Happy Owners.",
+        "height": 774,
+        "imgs": 2
+      },
+      {
+        "heading": "Meet The Experts.",
+        "height": 424,
+        "imgs": 2
+      },
+      {
+        "heading": "Insights & Expertise Now",
+        "height": 384,
+        "imgs": 2
+      },
+      {
+        "heading": "Ready to Experience Your Dream Car?",
+        "height": 496,
+        "imgs": 1
+      },
+      {
+        "heading": "Everything You Need Here",
+        "height": 371,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/car-dealership-framer-website.jpg"
+  },
+  {
+    "slug": "autohaus-framer-website",
+    "name": "AutoHaus\u00ae",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Car Dealership",
+    "title": "AutoHaus\u00ae \u2014 Car Dealership Website Template",
+    "source_url": "https://autohaus.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 12870,
+    "palette": [
+      "#FFFFFF",
+      "#FBFBFB",
+      "#F5F5F5",
+      "#212121",
+      "#1A1A1A"
+    ],
+    "text_colors": [
+      "#212121",
+      "#606060",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter Display",
+      "display_px": 252,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Your trusted car \ndealership in Frankfurt",
+        "height": 1140,
+        "imgs": 1
+      },
+      {
+        "heading": "We offer vehicles from\nthe world\u2019s most iconic brands",
+        "height": 678,
+        "imgs": 0
+      },
+      {
+        "heading": "Featured Vehicles",
+        "height": 1256,
+        "imgs": 6
+      },
+      {
+        "heading": "Why Choose Autohaus\u00ae",
+        "height": 854,
+        "imgs": 3
+      },
+      {
+        "heading": "Since 2004, Autohaus\u00ae has been redefining the car-buying experience",
+        "height": 3293,
+        "imgs": 5
+      },
+      {
+        "heading": "Performance Icons",
+        "height": 830,
+        "imgs": 3
+      },
+      {
+        "heading": "Book a Visit\nin Frankfurt",
+        "height": 964,
+        "imgs": 2
+      },
+      {
+        "heading": "Meet the Team \nBehind Autohaus\u00ae",
+        "height": 1042,
+        "imgs": 3
+      },
+      {
+        "heading": "What Our Clients Say",
+        "height": 954,
+        "imgs": 6
+      },
+      {
+        "heading": "From Our Journal",
+        "height": 911,
+        "imgs": 2
+      }
+    ],
+    "thumb": "data/thumbs/autohaus-framer-website.jpg"
+  },
+  {
+    "slug": "hyperautocare-framer-website",
+    "name": "HyperAuto Care",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Seattle Car Detailing & Vehicle Protection",
+    "title": "HyperAuto Care | Seattle Car Detailing & Vehicle Protection",
+    "source_url": "https://hyperautocare.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#0B0D0F",
+    "hero_bg": "#0B0D0F",
+    "sections": 13,
+    "page_height": 16805,
+    "palette": [
+      "#0B0D0F",
+      "#FFFFFF",
+      "#F4F1EA",
+      "#E8E8E8",
+      "#15181B"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#5F666D",
+      "#0B0D0F"
+    ],
+    "fonts": {
+      "display": "Barlow Condensed",
+      "body": "Inter",
+      "display_px": 76,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Professional Car Care & Auto Detailing Services",
+        "height": 740,
+        "imgs": 2
+      },
+      {
+        "heading": "HyperAuto Care Services",
+        "height": 1899,
+        "imgs": 10
+      },
+      {
+        "heading": "How Our Service Works",
+        "height": 1320,
+        "imgs": 1
+      },
+      {
+        "heading": "Service Packages & Pricing",
+        "height": 1076,
+        "imgs": 1
+      },
+      {
+        "heading": "See the Difference",
+        "height": 1183,
+        "imgs": 26
+      },
+      {
+        "heading": "We regularly share photos and updates from the vehicles we work on acr",
+        "height": 1420,
+        "imgs": 6
+      },
+      {
+        "heading": "Why Drivers Choose HyperAuto Care",
+        "height": 1434,
+        "imgs": 1
+      },
+      {
+        "heading": "Customer Reviews",
+        "height": 1267,
+        "imgs": 4
+      },
+      {
+        "heading": "Training & Skill Development",
+        "height": 1627,
+        "imgs": 1
+      },
+      {
+        "heading": "Latest News from Hyper Auto Care",
+        "height": 1017,
+        "imgs": 3
+      },
+      {
+        "heading": "Frequently Asked Questions",
+        "height": 964,
+        "imgs": 0
+      },
+      {
+        "heading": "Visit HyperAuto Care",
+        "height": 1040,
+        "imgs": 0
+      },
+      {
+        "heading": "Give Your Vehicle the Care It Deserves",
+        "height": 780,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/hyperautocare-framer-website.jpg"
+  },
+  {
+    "slug": "camberauto-framer-website",
+    "name": "Camber",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Auto Repair for Framer",
+    "title": "Camber - Free Auto Repair Website Template for Framer",
+    "source_url": "https://camberauto.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 8915,
+    "palette": [
+      "#FFFFFF",
+      "#F4F6F9",
+      "#10263F",
+      "#EA5A1E",
+      "#141517"
+    ],
+    "text_colors": [
+      "#0B1B2B",
+      "#45566B",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Archivo",
+      "body": "Archivo",
+      "display_px": 66,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Fast auto repair in Columbus, done right the first time.",
+        "height": 678,
+        "imgs": 5
+      },
+      {
+        "heading": "Everything your car needs, under one roof",
+        "height": 1409,
+        "imgs": 6
+      },
+      {
+        "heading": "Deals that make it easy to say yes",
+        "height": 645,
+        "imgs": 0
+      },
+      {
+        "heading": "The shop your neighbors already trust",
+        "height": 2279,
+        "imgs": 1
+      },
+      {
+        "heading": "From drop-off to done in four steps",
+        "height": 531,
+        "imgs": 0
+      },
+      {
+        "heading": "Car trouble right now?",
+        "height": 350,
+        "imgs": 0
+      },
+      {
+        "heading": "What drivers say after the repair",
+        "height": 574,
+        "imgs": 3
+      },
+      {
+        "heading": "Answers before you ask",
+        "height": 603,
+        "imgs": 0
+      },
+      {
+        "heading": "Straight answers from the shop floor",
+        "height": 789,
+        "imgs": 3
+      },
+      {
+        "heading": "Ready to get back on the road?",
+        "height": 487,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/camberauto-framer-website.jpg"
+  },
+  {
+    "slug": "drivio-framer-website",
+    "name": "Drivio",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Car rental and auto dealership for Framer",
+    "title": "Drivio - car rental and auto dealership template for Framer",
+    "source_url": "https://drivio.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 4,
+    "page_height": 7175,
+    "palette": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#F7F7FA",
+      "#FFFFFF",
+      "#FFFFFF"
+    ],
+    "text_colors": [
+      "#000000",
+      "#636982",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Google Sans Flex",
+      "body": "Google Sans Flex",
+      "display_px": 60,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Why you can trust us",
+        "height": 574,
+        "imgs": 3
+      },
+      {
+        "heading": "Reviews from our customers",
+        "height": 674,
+        "imgs": 36
+      },
+      {
+        "heading": "Latest articles about cars",
+        "height": 763,
+        "imgs": 3
+      },
+      {
+        "heading": "Comfort and performance await",
+        "height": 872,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/drivio-framer-website.jpg"
+  },
+  {
+    "slug": "carrepair-wbs-framer-website",
+    "name": "CarRepair",
+    "category": "Automotive",
+    "page_type": "full",
+    "note": "Auto Service",
+    "title": "CarRepair - Auto Service Framer Template",
+    "source_url": "https://carrepair-wbs.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#EEEAE3",
+    "hero_bg": "#EEEAE3",
+    "sections": 11,
+    "page_height": 9973,
+    "palette": [
+      "#EEEAE3",
+      "#000000",
+      "#FFFFFF",
+      "#E6E0D4",
+      "#221E1B"
+    ],
+    "text_colors": [
+      "#000000",
+      "#6B6256",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Archivo",
+      "body": "JetBrains Mono",
+      "display_px": 172,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Honest repairs. Every make",
+        "height": 757,
+        "imgs": 1
+      },
+      {
+        "heading": "What we do",
+        "height": 809,
+        "imgs": 8
+      },
+      {
+        "heading": "12.4k",
+        "height": 942,
+        "imgs": 5
+      },
+      {
+        "heading": "WHY CHOOSE US",
+        "height": 509,
+        "imgs": 3
+      },
+      {
+        "heading": "TRUSTED BY THOUSANDS OF CUSTOMERS",
+        "height": 406,
+        "imgs": 9
+      },
+      {
+        "heading": "Real repairs. Real results.",
+        "height": 1062,
+        "imgs": 1
+      },
+      {
+        "heading": "Trusted by people who hate being ripped off.",
+        "height": 630,
+        "imgs": 7
+      },
+      {
+        "heading": "Dan Whitlock",
+        "height": 757,
+        "imgs": 6
+      },
+      {
+        "heading": "Prices you can see before you call.",
+        "height": 1007,
+        "imgs": 0
+      },
+      {
+        "heading": "If we fix it, we stand behind it.",
+        "height": 995,
+        "imgs": 2
+      },
+      {
+        "heading": "Questions about servicing & repairs?",
+        "height": 625,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/carrepair-wbs-framer-website.jpg"
+  },
+  {
+    "slug": "plat-form-framer-ai",
+    "name": "Platform\u00ae",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "Modular Landing Page",
+    "title": "Platform\u00ae \u2014 Modular Landing Page",
+    "source_url": "https://plat-form.framer.ai/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#040505",
+    "hero_bg": "#040505",
+    "sections": 12,
+    "page_height": 21144,
+    "palette": [
+      "#161719",
+      "#212225",
+      "#FA6E43",
+      "#2C2C2F",
+      "#1D1E21"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#C0C0C0",
+      "#888891"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter Display",
+      "display_px": 100,
+      "body_px": 17
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "We run your infrastructure so you can focus on building great products",
+        "height": 976,
+        "imgs": 4
+      },
+      {
+        "heading": "Our Work",
+        "height": 2460,
+        "imgs": 6
+      },
+      {
+        "heading": "Our Services",
+        "height": 1688,
+        "imgs": 5
+      },
+      {
+        "heading": "Our Process",
+        "height": 1700,
+        "imgs": 3
+      },
+      {
+        "heading": "Smart Analytics",
+        "height": 1980,
+        "imgs": 15
+      },
+      {
+        "heading": "Pricing",
+        "height": 1928,
+        "imgs": 4
+      },
+      {
+        "heading": "Questions & Answers",
+        "height": 1456,
+        "imgs": 2
+      },
+      {
+        "heading": "Meet the Team",
+        "height": 1672,
+        "imgs": 3
+      },
+      {
+        "heading": "What Our Clients Say",
+        "height": 1728,
+        "imgs": 11
+      },
+      {
+        "heading": "Platform Labs\u00ae",
+        "height": 2044,
+        "imgs": 5
+      },
+      {
+        "heading": "Your software business, streamlined for growth.",
+        "height": 813,
+        "imgs": 60
+      },
+      {
+        "heading": "Let's Talk.",
+        "height": 921,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/plat-form-framer-ai.jpg"
+  },
+  {
+    "slug": "forgiving-needs-325167-framer-app",
+    "name": "Forgiving",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "Ondrel \u00b7 The planning tool for teams that ship",
+    "title": "Ondrel \u00b7 The planning tool for teams that ship",
+    "source_url": "https://forgiving-needs-325167.framer.app/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 10,
+    "page_height": 11220,
+    "palette": [
+      "#FFFFFF",
+      "#F4F5F7",
+      "#FFFFFF",
+      "#15171C",
+      "#2B59FF"
+    ],
+    "text_colors": [
+      "#15171C",
+      "#2B59FF",
+      "#6B7382"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter",
+      "display_px": 72,
+      "body_px": 15
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The planning tool for teams that ship.",
+        "height": 1470,
+        "imgs": 1
+      },
+      {
+        "heading": "One workspace for the whole plan. Requests come in, roadmaps take shape and releases go ou",
+        "height": 3331,
+        "imgs": 2
+      },
+      {
+        "heading": "4,000+",
+        "height": 207,
+        "imgs": 0
+      },
+      {
+        "heading": "Your Friday update, already written. Ondrel reads the week and drafts a short note for eve",
+        "height": 673,
+        "imgs": 1
+      },
+      {
+        "heading": "Teams that stopped chasing updates. Here is what changed for them.",
+        "height": 894,
+        "imgs": 3
+      },
+      {
+        "heading": "We used to spend Monday agreeing on what was true. Now the roadmap is true, and Monday is ",
+        "height": 499,
+        "imgs": 0
+      },
+      {
+        "heading": "Free for small teams. Simple per-member pricing when you grow.",
+        "height": 892,
+        "imgs": 0
+      },
+      {
+        "heading": "Answers before you ask.",
+        "height": 672,
+        "imgs": 0
+      },
+      {
+        "heading": "Shipped this month. A new release every week.",
+        "height": 1297,
+        "imgs": 4
+      },
+      {
+        "heading": "Plan less. Ship more.",
+        "height": 514,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/forgiving-needs-325167-framer-app.jpg"
+  },
+  {
+    "slug": "optivio-framer-website",
+    "name": "Optivio",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "Automated SEO Audits That Turn Traffic Into Customers",
+    "title": "Optivio | Automated SEO Audits That Turn Traffic Into Customers",
+    "source_url": "https://optivio.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 12,
+    "page_height": 10980,
+    "palette": [
+      "#FFFFFF",
+      "#F9F7E2",
+      "#EBE9D2",
+      "#F8F8F3",
+      "#000000"
+    ],
+    "text_colors": [
+      "#1A1A1C",
+      "#1A1A1C",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Tight Variable Regular",
+      "body": "Inter Tight Variable Regular",
+      "display_px": 52,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Turn traffic into \ncustomers\n\nautomatically",
+        "height": 1022,
+        "imgs": 13
+      },
+      {
+        "heading": "Results that speak for \nthemselves",
+        "height": 1018,
+        "imgs": 1
+      },
+      {
+        "heading": "Optivio vs. Manual SEO",
+        "height": 1024,
+        "imgs": 2
+      },
+      {
+        "heading": "Everything you need to rank higher, \nin one clinical view.",
+        "height": 951,
+        "imgs": 38
+      },
+      {
+        "heading": "Get your SEO audit in 3 Simple Steps",
+        "height": 1024,
+        "imgs": 3
+      },
+      {
+        "heading": "Engineered for every stage  of search growth",
+        "height": 1052,
+        "imgs": 2
+      },
+      {
+        "heading": "Make SEO your growth engine, not a guess.",
+        "height": 924,
+        "imgs": 7
+      },
+      {
+        "heading": "Real results from real users",
+        "height": 861,
+        "imgs": 8
+      },
+      {
+        "heading": "Simple, transparent pricing",
+        "height": 945,
+        "imgs": 8
+      },
+      {
+        "heading": "All the answers you need to  work smarter",
+        "height": 1033,
+        "imgs": 2
+      },
+      {
+        "heading": "Stop losing traffic to  hidden SEO Issues",
+        "height": 539,
+        "imgs": 3
+      },
+      {
+        "heading": "Delivering strategic legal counsel for corporations, investors, and gl",
+        "height": 547,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/optivio-framer-website.jpg"
+  },
+  {
+    "slug": "nonlinear-framer-website",
+    "name": "Nonlinear Calendar",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "Powered Scheduling and Task Management for Modern Productivity",
+    "title": "Nonlinear Calendar: AI-Powered Scheduling and Task Management for Modern Productivity",
+    "source_url": "https://nonlinear.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000000",
+    "hero_bg": "#000000",
+    "sections": 10,
+    "page_height": 10342,
+    "palette": [
+      "#000000",
+      "#141414",
+      "#232323",
+      "#181818",
+      "#101010"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#F7F8F8",
+      "#E6E6E6"
+    ],
+    "fonts": {
+      "display": "Instrument Sans",
+      "body": "Instrument Sans",
+      "display_px": 88,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The calendar, rebuilt for people who ship.",
+        "height": 1187,
+        "imgs": 1
+      },
+      {
+        "heading": "Time is the only resource you can't earn back. Nonlinear treats it tha",
+        "height": 818,
+        "imgs": 3
+      },
+      {
+        "heading": "Everything you need to ship the week.",
+        "height": 1014,
+        "imgs": 1
+      },
+      {
+        "heading": "Calendar work, back of mind.",
+        "height": 719,
+        "imgs": 3
+      },
+      {
+        "heading": "Wake up to a calmer week.",
+        "height": 1832,
+        "imgs": 3
+      },
+      {
+        "heading": "Every view, one workspace.",
+        "height": 1346,
+        "imgs": 1
+      },
+      {
+        "heading": "What our customers say",
+        "height": 646,
+        "imgs": 32
+      },
+      {
+        "heading": "Latest articles from our blog",
+        "height": 833,
+        "imgs": 6
+      },
+      {
+        "heading": "Frequently asked questions.",
+        "height": 858,
+        "imgs": 0
+      },
+      {
+        "heading": "Built for the time you can't get back.",
+        "height": 555,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/nonlinear-framer-website.jpg"
+  },
+  {
+    "slug": "alytics-framer-website",
+    "name": "Alytics",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "The Perfect Saas",
+    "title": "Alytics - The Perfect Saas Template",
+    "source_url": "https://alytics.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FCFCFC",
+    "hero_bg": "#FCFCFC",
+    "sections": 11,
+    "page_height": 11241,
+    "palette": [
+      "#FCFCFC",
+      "#FFFFFF",
+      "#126DFB",
+      "#E8E8E9",
+      "#E1EAF8"
+    ],
+    "text_colors": [
+      "#121212",
+      "#575757",
+      "#126DFB"
+    ],
+    "fonts": {
+      "display": "Inter",
+      "body": "Inter",
+      "display_px": 64,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Turn Scattered Data Into Smart Decisions",
+        "height": 1535,
+        "imgs": 8
+      },
+      {
+        "heading": "Make Your Platform Work Harder For You",
+        "height": 1348,
+        "imgs": 4
+      },
+      {
+        "heading": "Benefits That Truly Matter To You",
+        "height": 910,
+        "imgs": 0
+      },
+      {
+        "heading": "Get Clear Answers In 3 Simple Steps",
+        "height": 867,
+        "imgs": 3
+      },
+      {
+        "heading": "Seamless Integrations",
+        "height": 750,
+        "imgs": 36
+      },
+      {
+        "heading": "Hear What Others Say About Us",
+        "height": 800,
+        "imgs": 10
+      },
+      {
+        "heading": "Choose The Best Plan That Suites You",
+        "height": 1043,
+        "imgs": 0
+      },
+      {
+        "heading": "A Smarter Way To Grow With Data",
+        "height": 759,
+        "imgs": 0
+      },
+      {
+        "heading": "Common Questions With Clear Answers",
+        "height": 948,
+        "imgs": 0
+      },
+      {
+        "heading": "Helpful Insights To Help You Grow",
+        "height": 1384,
+        "imgs": 4
+      },
+      {
+        "heading": "Subscribe To The Alytics Newsletter!",
+        "height": 570,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/alytics-framer-website.jpg"
+  },
+  {
+    "slug": "virion-framer-ai",
+    "name": "Virion",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "SaaS Startup",
+    "title": "Virion - SaaS Startup Framer Template",
+    "source_url": "https://virion.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 10598,
+    "palette": [
+      "#F3F3FE",
+      "#D9DBF0",
+      "#FFFFFF",
+      "#F5F3FA",
+      "#E2E4F6"
+    ],
+    "text_colors": [
+      "#1E213A",
+      "#3D4052",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter",
+      "display_px": 72,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Take Control on Your Statistic Page",
+        "height": 1205,
+        "imgs": 1
+      },
+      {
+        "heading": "One Platform.  Endless Possibilities.",
+        "height": 1536,
+        "imgs": 5
+      },
+      {
+        "heading": "Powering Data Across the World",
+        "height": 1162,
+        "imgs": 16
+      },
+      {
+        "heading": "Virion turns complex data into clear, actionable insights. From tracking performance to fo",
+        "height": 943,
+        "imgs": 12
+      },
+      {
+        "heading": "Simple, Transparent Pricing",
+        "height": 1086,
+        "imgs": 3
+      },
+      {
+        "heading": "Loved by Teams Worldwide",
+        "height": 916,
+        "imgs": 48
+      },
+      {
+        "heading": "Latest from the Blog",
+        "height": 1169,
+        "imgs": 12
+      },
+      {
+        "heading": "Answers at a Glance",
+        "height": 1180,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/virion-framer-ai.jpg"
+  },
+  {
+    "slug": "verity-template-framer-website",
+    "name": "Verity",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "AI automation for Framer",
+    "title": "Verity \u2014 AI automation Template for Framer",
+    "source_url": "https://verity-template.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#0C0C0E",
+    "hero_bg": "#0C0C0E",
+    "sections": 12,
+    "page_height": 9433,
+    "palette": [
+      "#0D0D0F",
+      "#111113",
+      "#141416",
+      "#FFFFFF",
+      "#0055FF"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#FAFAFA",
+      "#B0B0B0"
+    ],
+    "fonts": {
+      "display": "Onest",
+      "body": "Onest",
+      "display_px": 60,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "Your AI workforce, \nbuilt in minutes.",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Powering automation for modern teams",
+        "height": 369,
+        "imgs": 0
+      },
+      {
+        "heading": "Three ways Verity \nruns your busywork.",
+        "height": 882,
+        "imgs": 3
+      },
+      {
+        "heading": "One platform. \nEvery team it touches.",
+        "height": 832,
+        "imgs": 4
+      },
+      {
+        "heading": "From idea to \nautopilot in minutes.",
+        "height": 749,
+        "imgs": 0
+      },
+      {
+        "heading": "Everything your team \nneeds to automate.",
+        "height": 1056,
+        "imgs": 0
+      },
+      {
+        "heading": "Everything else falls short. Here\u2019s why teams choose us.",
+        "height": 720,
+        "imgs": 0
+      },
+      {
+        "heading": "Less busywork, \nmore breathing room.",
+        "height": 842,
+        "imgs": 9
+      },
+      {
+        "heading": "Works with the tools you already use.",
+        "height": 460,
+        "imgs": 18
+      },
+      {
+        "heading": "Start free, \nscale when ready.",
+        "height": 1077,
+        "imgs": 0
+      },
+      {
+        "heading": "You have questions. \nWe have answers.",
+        "height": 632,
+        "imgs": 0
+      },
+      {
+        "heading": "The work doesn't stop. Neither does Verity.",
+        "height": 592,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/verity-template-framer-website.jpg"
+  },
+  {
+    "slug": "forma-visuvate-framer-website",
+    "name": "Forma",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "The workspace that does the follow",
+    "title": "Forma \u2014 The workspace that does the follow-up for you",
+    "source_url": "https://forma-visuvate.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 8,
+    "page_height": 8401,
+    "palette": [
+      "#FFFFFF",
+      "#EAE6F1",
+      "#F9F7FC",
+      "#6246EA",
+      "#1E1430"
+    ],
+    "text_colors": [
+      "#1B1426",
+      "#5332D6",
+      "#687083"
+    ],
+    "fonts": {
+      "display": "Manrope",
+      "body": "DM Sans",
+      "display_px": 252,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The",
+        "height": 1464,
+        "imgs": 0
+      },
+      {
+        "heading": "Four jobs Forma takes off your plate",
+        "height": 922,
+        "imgs": 0
+      },
+      {
+        "heading": "Three steps to get set up",
+        "height": 1090,
+        "imgs": 0
+      },
+      {
+        "heading": "Works with the tools you already pay for",
+        "height": 805,
+        "imgs": 0
+      },
+      {
+        "heading": "Set up differently for every team",
+        "height": 846,
+        "imgs": 0
+      },
+      {
+        "heading": "Free to start. Paid when your team grows.",
+        "height": 1001,
+        "imgs": 0
+      },
+      {
+        "heading": "Questions people ask before signing up",
+        "height": 743,
+        "imgs": 0
+      },
+      {
+        "heading": "Try",
+        "height": 752,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/forma-visuvate-framer-website.jpg"
+  },
+  {
+    "slug": "rescale-framer-ai",
+    "name": "Rescale",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "Rescale",
+    "title": "Rescale",
+    "source_url": "https://rescale.framer.ai/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7FAFA",
+    "hero_bg": "#F7FAFA",
+    "sections": 10,
+    "page_height": 12413,
+    "palette": [
+      "#F9FAFB",
+      "#FFFFFF",
+      "#7584D6",
+      "#F1F2F9",
+      "#F9FAFB"
+    ],
+    "text_colors": [
+      "#000000",
+      "#465478",
+      "#545C9E"
+    ],
+    "fonts": {
+      "display": "Manrope",
+      "body": "Manrope",
+      "display_px": 80,
+      "body_px": 14
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "mplify",
+        "height": 735,
+        "imgs": 20
+      },
+      {
+        "heading": null,
+        "height": 876,
+        "imgs": 5
+      },
+      {
+        "heading": "Explore Our Simple, Easy Process",
+        "height": 904,
+        "imgs": 8
+      },
+      {
+        "heading": "Powerful Integrations Made Simple",
+        "height": 1109,
+        "imgs": 15
+      },
+      {
+        "heading": "Our Milestones, your Advantage",
+        "height": 745,
+        "imgs": 6
+      },
+      {
+        "heading": "Meet the Founders",
+        "height": 1345,
+        "imgs": 8
+      },
+      {
+        "heading": "What Our Clients Say",
+        "height": 904,
+        "imgs": 65
+      },
+      {
+        "heading": "Explore Our Plans",
+        "height": 1164,
+        "imgs": 24
+      },
+      {
+        "heading": "Burning Questions About Rescale",
+        "height": 883,
+        "imgs": 6
+      },
+      {
+        "heading": "Ready? Let's Talk!",
+        "height": 650,
+        "imgs": 7
+      }
+    ],
+    "thumb": "data/thumbs/rescale-framer-ai.jpg"
+  },
+  {
+    "slug": "xtract-framer-ai",
+    "name": "Xtract",
+    "category": "Technology & SaaS",
+    "page_type": "full",
+    "note": "AI automation agency",
+    "title": "Xtract - AI automation agency framer template",
+    "source_url": "https://xtract.framer.ai/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#000000",
+    "hero_bg": "#000000",
+    "sections": 9,
+    "page_height": 9904,
+    "palette": [
+      "#000000",
+      "#0D0D0D",
+      "#814AC8",
+      "#0D0D0D"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#FFFFFF",
+      "#CCCCCC"
+    ],
+    "fonts": {
+      "display": "Figtree",
+      "body": "Figtree",
+      "display_px": 70,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "Intelligent Automation for Modern Businesses.",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Over 50+ business trust us",
+        "height": 192,
+        "imgs": 0
+      },
+      {
+        "heading": "AI Solutions That Take Your Business to the Next Level",
+        "height": 2197,
+        "imgs": 2
+      },
+      {
+        "heading": "Our Simple, Smart, and Scalable Process",
+        "height": 1230,
+        "imgs": 4
+      },
+      {
+        "heading": "See How Smart AI Automation Transforms Businesses",
+        "height": 1000,
+        "imgs": 34
+      },
+      {
+        "heading": "The Key Benefits of AI for Your Business Growth",
+        "height": 896,
+        "imgs": 0
+      },
+      {
+        "heading": "The Best AI Automation, at the Right Price",
+        "height": 1009,
+        "imgs": 0
+      },
+      {
+        "heading": "Why Businesses Love Our AI Solutions",
+        "height": 914,
+        "imgs": 4
+      },
+      {
+        "heading": "We\u2019ve Got the Answers You\u2019re Looking For",
+        "height": 1253,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/xtract-framer-ai.jpg"
+  },
+  {
+    "slug": "mariq-framer-website",
+    "name": "Mariq",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Marketing Agency",
+    "title": "Mariq - Marketing Agency Framer Template",
+    "source_url": "https://mariq.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#070515",
+    "hero_bg": "#070515",
+    "sections": 9,
+    "page_height": 11314,
+    "palette": [
+      "#FDF070",
+      "#FFFFFF",
+      "#F8F8F8",
+      "#000000",
+      "#070515"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#636363",
+      "#070515"
+    ],
+    "fonts": {
+      "display": "Anton",
+      "body": "Geist",
+      "display_px": 82,
+      "body_px": 16
+    },
+    "smooth_scroll": null,
+    "warnings": [
+      "Canvas element present \u2014 some motion is not capturable"
+    ],
+    "outline": [
+      {
+        "heading": "TRANSFORMING",
+        "height": 869,
+        "imgs": 3
+      },
+      {
+        "heading": "Collaborating with global industry leaders",
+        "height": 321,
+        "imgs": 24
+      },
+      {
+        "heading": "EVERYTHING YOUR BRAND NEEDS ONLINE",
+        "height": 1042,
+        "imgs": 0
+      },
+      {
+        "heading": "+",
+        "height": 861,
+        "imgs": 2
+      },
+      {
+        "heading": "SHOWCASING WORK\nTHAT DRIVES RESULTS",
+        "height": 2250,
+        "imgs": 3
+      },
+      {
+        "heading": "TRUSTED BY BRANDS, BACKED BY PROVEN RESULTS",
+        "height": 1308,
+        "imgs": 12
+      },
+      {
+        "heading": "TRANSPARENT PRICING FOR EVERY BUSINESS",
+        "height": 1177,
+        "imgs": 10
+      },
+      {
+        "heading": "EVERYTHING YOU NEED TO KNOW",
+        "height": 781,
+        "imgs": 0
+      },
+      {
+        "heading": "STRATEGY-FIRST",
+        "height": 2020,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/mariq-framer-website.jpg"
+  },
+  {
+    "slug": "formix-framer-ai",
+    "name": "Formix Co",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Portfolio & Creative Agency",
+    "title": "Formix Co \u2014 Portfolio & Creative Agency Framer Template",
+    "source_url": "https://formix.framer.ai/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#171B1A",
+    "hero_bg": "#171B1A",
+    "sections": 23,
+    "page_height": 14106,
+    "palette": [
+      "#FFFFFF",
+      "#171B1A",
+      "#2B2F2E",
+      "#F4F8F7",
+      "#F26626"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#454747",
+      "#171B1A"
+    ],
+    "fonts": {
+      "display": "Inter Tight Regular",
+      "body": "Inter Tight Regular",
+      "display_px": 160,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "FORMIX",
+        "height": 829,
+        "imgs": 0
+      },
+      {
+        "heading": "Our Story",
+        "height": 798,
+        "imgs": 0
+      },
+      {
+        "heading": "Best Digital Agency Best Digital Agency",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 600,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 557,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 600,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 556,
+        "imgs": 0
+      },
+      {
+        "heading": "Design Aesthetica",
+        "height": 675,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 240,
+        "imgs": 0
+      },
+      {
+        "heading": "Axis Bag",
+        "height": 675,
+        "imgs": 1
+      },
+      {
+        "heading": null,
+        "height": 873,
+        "imgs": 0
+      },
+      {
+        "heading": "Morph Design",
+        "height": 675,
+        "imgs": 1
+      },
+      {
+        "heading": "Our best services",
+        "height": 1582,
+        "imgs": 0
+      },
+      {
+        "heading": "TRUSTED BY",
+        "height": 343,
+        "imgs": 5
+      },
+      {
+        "heading": "Testimonials",
+        "height": 862,
+        "imgs": 4
+      },
+      {
+        "heading": null,
+        "height": 300,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 300,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 300,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 300,
+        "imgs": 0
+      },
+      {
+        "heading": "Fresh ideas and design insights to grow your agency.",
+        "height": 945,
+        "imgs": 4
+      },
+      {
+        "heading": "Find the Right Plan",
+        "height": 861,
+        "imgs": 0
+      },
+      {
+        "heading": "FAQ",
+        "height": 561,
+        "imgs": 0
+      },
+      {
+        "heading": "LET\u2019S STAY IN CONTACT FOR A LONG TIME -",
+        "height": 891,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/formix-framer-ai.jpg"
+  },
+  {
+    "slug": "nestudio-framer-website",
+    "name": "Home",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Nestudio",
+    "title": "Home - Nestudio Template",
+    "source_url": "https://nestudio.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F7F3EC",
+    "hero_bg": "#F7F3EC",
+    "sections": 10,
+    "page_height": 10235,
+    "palette": [
+      "#F7F3EC",
+      "#0F0F0F",
+      "#FFFCF7",
+      "#C8441A",
+      "#1A1A1A"
+    ],
+    "text_colors": [
+      "#0F0F0F",
+      "#1C1C1C",
+      "#F7F7F7"
+    ],
+    "fonts": {
+      "display": "BDO Grotesk Variable",
+      "body": "BDO Grotesk Variable",
+      "display_px": 100,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "The",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Recent",
+        "height": 3149,
+        "imgs": 4
+      },
+      {
+        "heading": "TRUSTED BY INDUSTRY LEADERS",
+        "height": 280,
+        "imgs": 0
+      },
+      {
+        "heading": "Meaningful",
+        "height": 911,
+        "imgs": 0
+      },
+      {
+        "heading": "The",
+        "height": 689,
+        "imgs": 0
+      },
+      {
+        "heading": "Services &",
+        "height": 922,
+        "imgs": 0
+      },
+      {
+        "heading": "Case",
+        "height": 1439,
+        "imgs": 4
+      },
+      {
+        "heading": "What Clients",
+        "height": 1189,
+        "imgs": 0
+      },
+      {
+        "heading": "Common",
+        "height": 473,
+        "imgs": 0
+      },
+      {
+        "heading": "TWITTER / X",
+        "height": 242,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/nestudio-framer-website.jpg"
+  },
+  {
+    "slug": "www-lxlcreative-co-uk",
+    "name": "LxL Creative",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "LxL Creative",
+    "title": "LxL Creative",
+    "source_url": "https://www.lxlcreative.co.uk/",
+    "stack": "webflow",
+    "mode": "dark",
+    "page_bg": "#27201D",
+    "hero_bg": "#27201D",
+    "sections": 8,
+    "page_height": 14321,
+    "palette": [
+      "#27201D",
+      "#000000"
+    ],
+    "text_colors": [
+      "#FCF2BD",
+      "#FF5121",
+      "#27201D"
+    ],
+    "fonts": {
+      "display": "Scribo",
+      "body": "Owners Wide",
+      "display_px": 102,
+      "body_px": 15
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "REAL CRAFT.\n\u200dReal people.\u200d",
+        "height": 813,
+        "imgs": 6
+      },
+      {
+        "heading": "Sound",
+        "height": 3241,
+        "imgs": 2
+      },
+      {
+        "heading": "Our SERVICES",
+        "height": 4878,
+        "imgs": 6
+      },
+      {
+        "heading": "From a garden shed to a creative hub in Soho, LxL is a nimble 360\u00b0 age",
+        "height": 891,
+        "imgs": 2
+      },
+      {
+        "heading": "Discover some of our favourite projects",
+        "height": 894,
+        "imgs": 8
+      },
+      {
+        "heading": "WHY LXL",
+        "height": 1021,
+        "imgs": 5
+      },
+      {
+        "heading": "\"THROUGH EVERY TWIST, TURN",
+        "height": 658,
+        "imgs": 4
+      },
+      {
+        "heading": "Studios",
+        "height": 1035,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/www-lxlcreative-co-uk.jpg"
+  },
+  {
+    "slug": "tustel-framer-website",
+    "name": "Tustel",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Personal Portfolio for Photographer and Creative Design",
+    "title": "Tustel - Personal Portfolio for Photographer and Creative Design",
+    "source_url": "https://tustel.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#BBDDFF",
+    "hero_bg": "#BBDDFF",
+    "sections": 9,
+    "page_height": 8421,
+    "palette": [
+      "#F5F4F2",
+      "#000000",
+      "#BBDDFF",
+      "#FFFFFF",
+      "#000000"
+    ],
+    "text_colors": [
+      "#000000",
+      "#434343",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter",
+      "display_px": 42,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Alex Carter",
+        "height": 813,
+        "imgs": 15
+      },
+      {
+        "heading": "Trusted by creative brands worldwide",
+        "height": 184,
+        "imgs": 7
+      },
+      {
+        "heading": "Creating visuals with clarity, purpose, and personality.",
+        "height": 1127,
+        "imgs": 2
+      },
+      {
+        "heading": "Selected work from recent projects.",
+        "height": 1994,
+        "imgs": 12
+      },
+      {
+        "heading": "Creating Visual Stories That Inspire",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "Creative work, shaped around your story.",
+        "height": 768,
+        "imgs": 1
+      },
+      {
+        "heading": "What clients say",
+        "height": 674,
+        "imgs": 14
+      },
+      {
+        "heading": "Thoughts, stories & inspiration.",
+        "height": 843,
+        "imgs": 3
+      },
+      {
+        "heading": "Have a project in mind? I\u2019d love to hear about it.",
+        "height": 1087,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/tustel-framer-website.jpg"
+  },
+  {
+    "slug": "kuvat-framer-website",
+    "name": "Kuvat",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Digital Agency and Creative Portfolio",
+    "title": "Kuvat - Digital Agency and Creative Portfolio",
+    "source_url": "https://kuvat.framer.website/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#010101",
+    "hero_bg": "#010101",
+    "sections": 10,
+    "page_height": 10712,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#151515",
+      "#1A1A1A"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#696969",
+      "#000000"
+    ],
+    "fonts": {
+      "display": "Inter",
+      "body": "Inter",
+      "display_px": 64,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "We build brands that matter",
+        "height": 813,
+        "imgs": 2
+      },
+      {
+        "heading": "We craft bold and elegant brand identities infused with a modern flair, drawing inspiratio",
+        "height": 509,
+        "imgs": 0
+      },
+      {
+        "heading": "Client Retention",
+        "height": 600,
+        "imgs": 1
+      },
+      {
+        "heading": "Trusted by forward-thinking brands",
+        "height": 189,
+        "imgs": 6
+      },
+      {
+        "heading": "Explore Our Portfolio Showcase",
+        "height": 1668,
+        "imgs": 6
+      },
+      {
+        "heading": "We Build Brands That Compete",
+        "height": 1069,
+        "imgs": 1
+      },
+      {
+        "heading": "Unlock Your Digital Potential",
+        "height": 2385,
+        "imgs": 5
+      },
+      {
+        "heading": "From Strategy to Execution",
+        "height": 1066,
+        "imgs": 4
+      },
+      {
+        "heading": "Insights & Perspectives",
+        "height": 1204,
+        "imgs": 6
+      },
+      {
+        "heading": "Ready to Build a Brand That Leads?",
+        "height": 732,
+        "imgs": 1
+      }
+    ],
+    "thumb": "data/thumbs/kuvat-framer-website.jpg"
+  },
+  {
+    "slug": "www-awwwards-com-sites-lxl-creative",
+    "name": "LxL Creative",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Awwwards SOTD",
+    "title": "LxL Creative - Awwwards SOTD",
+    "source_url": "https://www.awwwards.com/sites/lxl-creative/",
+    "stack": "static",
+    "mode": "light",
+    "page_bg": "#E9E9E9",
+    "hero_bg": "#E9E9E9",
+    "sections": 10,
+    "page_height": 9746,
+    "palette": [
+      "#E9E9E9",
+      "#000000",
+      "#222222",
+      "#F8F8F8",
+      "#FF5121"
+    ],
+    "text_colors": [
+      "#222222",
+      "#FFFFFF",
+      "#DEDEDE"
+    ],
+    "fonts": {
+      "display": "Inter Tight",
+      "body": "Inter Tight",
+      "display_px": 127,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": null,
+        "height": 1626,
+        "imgs": 0
+      },
+      {
+        "heading": null,
+        "height": 450,
+        "imgs": 0
+      },
+      {
+        "heading": "Site of the Day - Sep 17, 2026",
+        "height": 1477,
+        "imgs": 2
+      },
+      {
+        "heading": "video",
+        "height": 1805,
+        "imgs": 6
+      },
+      {
+        "heading": "Color Palette",
+        "height": 792,
+        "imgs": 0
+      },
+      {
+        "heading": "Technologies & Tools",
+        "height": 508,
+        "imgs": 0
+      },
+      {
+        "heading": "SOTD / SCORE\n\u2192 7.37/ 10",
+        "height": 1227,
+        "imgs": 19
+      },
+      {
+        "heading": "DEV AWARD\n\u2192 7.46/ 10",
+        "height": 1227,
+        "imgs": 5
+      },
+      {
+        "heading": "Collections",
+        "height": 718,
+        "imgs": 32
+      },
+      {
+        "heading": "Websites",
+        "height": 407,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/www-awwwards-com-sites-lxl-creative.jpg"
+  },
+  {
+    "slug": "taylordesigner-framer-website",
+    "name": "Taylor",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Thoughtful Digital Design & Creative Experiences",
+    "title": "Taylor \u2014 Thoughtful Digital Design & Creative Experiences",
+    "source_url": "https://taylordesigner.framer.website/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#FFFFFF",
+    "hero_bg": "#FFFFFF",
+    "sections": 13,
+    "page_height": 10028,
+    "palette": [
+      "#FFFFFF",
+      "#000000",
+      "#121212",
+      "#696969"
+    ],
+    "text_colors": [
+      "#000000",
+      "#F7F7F7",
+      "#FFFFFF"
+    ],
+    "fonts": {
+      "display": "Inter Display",
+      "body": "Inter Display",
+      "display_px": 160,
+      "body_px": 16
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Brand Design",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "I create thoughtful, high-impact visuals and structured digital experiences built to leave",
+        "height": 945,
+        "imgs": 1
+      },
+      {
+        "heading": "BRAVEN",
+        "height": 468,
+        "imgs": 2
+      },
+      {
+        "heading": "GOLDIE",
+        "height": 468,
+        "imgs": 1
+      },
+      {
+        "heading": "SOPHIA",
+        "height": 468,
+        "imgs": 2
+      },
+      {
+        "heading": "FLORA",
+        "height": 468,
+        "imgs": 1
+      },
+      {
+        "heading": "Thoughtful, high-impact visuals and structured digital experiences built for your brand",
+        "height": 1596,
+        "imgs": 3
+      },
+      {
+        "heading": "05",
+        "height": 750,
+        "imgs": 0
+      },
+      {
+        "heading": "\u201cWorking with them was seamless from start to finish. They understood our vision, elevated",
+        "height": 914,
+        "imgs": 1
+      },
+      {
+        "heading": "07",
+        "height": 391,
+        "imgs": 0
+      },
+      {
+        "heading": "08",
+        "height": 658,
+        "imgs": 4
+      },
+      {
+        "heading": "LET\u2019S MAKE SOMETHING",
+        "height": 800,
+        "imgs": 1
+      },
+      {
+        "heading": "Taylor \u00ae",
+        "height": 400,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/taylordesigner-framer-website.jpg"
+  },
+  {
+    "slug": "vertical-framer-media",
+    "name": "Vertical",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Style Portfolio",
+    "title": "Vertical \u2014 Editorial-Style Portfolio",
+    "source_url": "https://vertical.framer.media/",
+    "stack": "framer",
+    "mode": "dark",
+    "page_bg": "#050609",
+    "hero_bg": "#050609",
+    "sections": 12,
+    "page_height": 15439,
+    "palette": [
+      "#050609",
+      "#81FF28",
+      "#D9D9D9",
+      "#FFFFFF",
+      "#F2F2F2"
+    ],
+    "text_colors": [
+      "#FFFFFF",
+      "#D9D9D9",
+      "#050609"
+    ],
+    "fonts": {
+      "display": "Inter",
+      "body": "Inter",
+      "display_px": 409,
+      "body_px": 40
+    },
+    "smooth_scroll": "lenis",
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "ADAM KNOXVILLE",
+        "height": 813,
+        "imgs": 0
+      },
+      {
+        "heading": "Release without restraint",
+        "height": 1396,
+        "imgs": 0
+      },
+      {
+        "heading": "A pause between departures",
+        "height": 1373,
+        "imgs": 0
+      },
+      {
+        "heading": "INDX",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "SOME PIECES SETTLE.\nSOME DON\u2019T.",
+        "height": 813,
+        "imgs": 1
+      },
+      {
+        "heading": "MODERN RITUALS",
+        "height": 813,
+        "imgs": 3
+      },
+      {
+        "heading": "VERTICAL",
+        "height": 2574,
+        "imgs": 0
+      },
+      {
+        "heading": "UNKNOWN",
+        "height": 1626,
+        "imgs": 0
+      },
+      {
+        "heading": "I FOLLOW IDEAS INTO PLACES THAT SHIFT AS I STEP INTO THEM. PATHS APPEA",
+        "height": 1108,
+        "imgs": 1
+      },
+      {
+        "heading": "\u201cWHETHER ON PAPER OR PIXELS, THE GOAL IS CONSTANT \u2014 DESIGN THAT DISAPP",
+        "height": 941,
+        "imgs": 0
+      },
+      {
+        "heading": "MODUS VIVENDI",
+        "height": 1545,
+        "imgs": 1
+      },
+      {
+        "heading": "I\u2019AM",
+        "height": 813,
+        "imgs": 4
+      }
+    ],
+    "thumb": "data/thumbs/vertical-framer-media.jpg"
+  },
+  {
+    "slug": "ilse-moreno-framer-website-work",
+    "name": "Work \u00b7 Ilse Moreno",
+    "category": "Creative, studio & personal",
+    "page_type": "full",
+    "note": "Work \u00b7 Ilse Moreno",
+    "title": "Work \u00b7 Ilse Moreno",
+    "source_url": "https://ilse-moreno.framer.website/work/",
+    "stack": "framer",
+    "mode": "light",
+    "page_bg": "#F1F1EF",
+    "hero_bg": "#F1F1EF",
+    "sections": 4,
+    "page_height": 3112,
+    "palette": [
+      "#F1F1EF",
+      "#FFFFFF",
+      "#121212",
+      "#F1F1EF",
+      "#E2E2DF"
+    ],
+    "text_colors": [
+      "#121212",
+      "#6B6B68",
+      "#A3A3A0"
+    ],
+    "fonts": {
+      "display": "Spline Sans",
+      "body": "Spline Sans Mono",
+      "display_px": 72,
+      "body_px": 14
+    },
+    "smooth_scroll": null,
+    "warnings": [],
+    "outline": [
+      {
+        "heading": "Work",
+        "height": 362,
+        "imgs": 0
+      },
+      {
+        "heading": "Waymark \u00b7 Website",
+        "height": 880,
+        "imgs": 9
+      },
+      {
+        "heading": "All projects",
+        "height": 1370,
+        "imgs": 6
+      },
+      {
+        "heading": "ilse moreno",
+        "height": 412,
+        "imgs": 0
+      }
+    ],
+    "thumb": "data/thumbs/ilse-moreno-framer-website-work.jpg"
+  }
+]

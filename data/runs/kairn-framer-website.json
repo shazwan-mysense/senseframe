@@ -1,0 +1,375 @@
+{
+ "slug": "kairn-framer-website",
+ "title": "Kairn - Architecture, Interiors & Materiality",
+ "source_url": "https://kairn.framer.website/",
+ "stack": "framer",
+ "captured_at": "2026-11-19T11:49:30+0800",
+ "page_height": 15865,
+ "clone_height": 15393,
+ "height_ratio": 0.97,
+ "mean_score": 79.0,
+ "tracked": 265,
+ "motion_counts": {
+  "appear": 5,
+  "marquee": 1,
+  "slideshow": 1
+ },
+ "lead_motion": {
+  "properties": [
+   {
+    "from_px": -70,
+    "name": "translateY",
+    "to_px": 20
+   }
+  ],
+  "duration_ms": 700,
+  "stagger_ms": 0,
+  "applies_to": 1,
+  "method": "inferred",
+  "confidence": 0.45
+ },
+ "warnings": [],
+ "sections": [
+  {
+   "id": "s00",
+   "name": "Articulating Space, Light, and Permanence",
+   "blocks": 8,
+   "height": 813,
+   "score": 65.6,
+   "regions": [
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 23.9
+    },
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 23.1
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 22.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/00-src.jpg",
+    "cln": "data/runs/kairn-framer-website/00-cln.jpg"
+   }
+  },
+  {
+   "id": "s01",
+   "name": "Uncompromising \nStructural Discipline",
+   "blocks": 8,
+   "height": 3429,
+   "score": 90.6,
+   "regions": [
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 14.9
+    },
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 8.2
+    },
+    {
+     "col": 2,
+     "row": 1,
+     "where": "centre-right middle",
+     "diff": 5.2
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/01-src.jpg",
+    "cln": "data/runs/kairn-framer-website/01-cln.jpg"
+   }
+  },
+  {
+   "id": "s02",
+   "name": "Where Life Meets Form",
+   "blocks": 11,
+   "height": 3288,
+   "score": 73.5,
+   "regions": [
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 29.9
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 28.8
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 28.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/02-src.jpg",
+    "cln": "data/runs/kairn-framer-website/02-cln.jpg"
+   }
+  },
+  {
+   "id": "s03",
+   "name": "Disciplines",
+   "blocks": 17,
+   "height": 1012,
+   "score": 76.5,
+   "regions": [
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 30.4
+    },
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 29.0
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 7.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/03-src.jpg",
+    "cln": "data/runs/kairn-framer-website/03-cln.jpg"
+   }
+  },
+  {
+   "id": "s04",
+   "name": "A Guided \nApproach",
+   "blocks": 19,
+   "height": 1612,
+   "score": 96.4,
+   "regions": [
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 5.9
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 5.8
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 5.2
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/04-src.jpg",
+    "cln": "data/runs/kairn-framer-website/04-cln.jpg"
+   }
+  },
+  {
+   "id": "s05",
+   "name": "Rooted in Materiality",
+   "blocks": 11,
+   "height": 918,
+   "score": 83.7,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 22.7
+    },
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 16.8
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 15.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/05-src.jpg",
+    "cln": "data/runs/kairn-framer-website/05-cln.jpg"
+   }
+  },
+  {
+   "id": "s06",
+   "name": "Measured \nImpact",
+   "blocks": 17,
+   "height": 948,
+   "score": 72.9,
+   "regions": [
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 19.6
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 16.9
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 16.8
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/06-src.jpg",
+    "cln": "data/runs/kairn-framer-website/06-cln.jpg"
+   }
+  },
+  {
+   "id": "s07",
+   "name": "Words from Our",
+   "blocks": 26,
+   "height": 1064,
+   "score": 80.9,
+   "regions": [
+    {
+     "col": 1,
+     "row": 1,
+     "where": "centre-left middle",
+     "diff": 27.5
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 19.9
+    },
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 19.5
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/07-src.jpg",
+    "cln": "data/runs/kairn-framer-website/07-cln.jpg"
+   }
+  },
+  {
+   "id": "s08",
+   "name": "Your Inquiries Answered",
+   "blocks": 17,
+   "height": 889,
+   "score": 89.9,
+   "regions": [
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 14.2
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 14.1
+    },
+    {
+     "col": 0,
+     "row": 1,
+     "where": "left middle",
+     "diff": 7.9
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/08-src.jpg",
+    "cln": "data/runs/kairn-framer-website/08-cln.jpg"
+   }
+  },
+  {
+   "id": "s09",
+   "name": "Selected Editions",
+   "blocks": 11,
+   "height": 835,
+   "score": 81.2,
+   "regions": [
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 22.2
+    },
+    {
+     "col": 2,
+     "row": 0,
+     "where": "centre-right top",
+     "diff": 21.3
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 16.2
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/09-src.jpg",
+    "cln": "data/runs/kairn-framer-website/09-cln.jpg"
+   }
+  },
+  {
+   "id": "s10",
+   "name": "Begin the Dialogue",
+   "blocks": 4,
+   "height": 585,
+   "score": 49.0,
+   "regions": [
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 57.0
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 48.1
+    },
+    {
+     "col": 3,
+     "row": 1,
+     "where": "right middle",
+     "diff": 43.8
+    }
+   ],
+   "shots": {
+    "src": "data/runs/kairn-framer-website/10-src.jpg",
+    "cln": "data/runs/kairn-framer-website/10-cln.jpg"
+   }
+  }
+ ]
+}
