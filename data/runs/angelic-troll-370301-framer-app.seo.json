@@ -1,0 +1,210 @@
+{
+ "slug": "angelic-troll-370301-framer-app",
+ "rebranded": true,
+ "page": "data/clones/angelic-troll-370301-framer-app-rebrand/index.html",
+ "when": "2026-11-19T16:35:50",
+ "terms": [
+  "aesthetic",
+  "skin",
+  "clinic",
+  "johor",
+  "bahru",
+  "women",
+  "looking",
+  "treatments"
+ ],
+ "words": 861,
+ "counts": {
+  "good": 12,
+  "improve": 7,
+  "missing": 1
+ },
+ "findings": [
+  {
+   "group": "Structure",
+   "item": "One H1",
+   "state": "good",
+   "detail": "\u201cmeasurements.\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Structure",
+   "item": "H1 says what the page is about",
+   "state": "improve",
+   "detail": "the headline is split across 4 blocks, so no single one can carry it",
+   "items": [],
+   "more": 0,
+   "fix": "The template animates this headline a word at a time, so it was measured as separate blocks. Write the whole headline into the first of them in Edit content and clear the rest."
+  },
+  {
+   "group": "Structure",
+   "item": "Heading order runs in sequence",
+   "state": "good",
+   "detail": "no levels skipped across 43 headings",
+   "items": [],
+   "more": 0,
+   "fix": "A jump from H2 to H4 reads to a crawler as a missing section. Demote or promote so each level follows the one above."
+  },
+  {
+   "group": "Structure",
+   "item": "Sections carry their own headings",
+   "state": "good",
+   "detail": "25 H2s",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Title tag",
+   "state": "good",
+   "detail": "56 characters, on topic",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Meta description",
+   "state": "good",
+   "detail": "118 characters, on topic",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Enough on the page to rank",
+   "state": "good",
+   "detail": "861 words",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "The subject appears early",
+   "state": "good",
+   "detail": "the first screen mentions 6 of the brief's words",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "The copy is the client's",
+   "state": "improve",
+   "detail": "259 blocks are still the template's words",
+   "items": [],
+   "more": 0,
+   "fix": "Template copy describes a different business. It is the single biggest thing holding this page back, ranking and conversion both."
+  },
+  {
+   "group": "Links and images",
+   "item": "Link text describes the destination",
+   "state": "good",
+   "detail": "all 14 links carry descriptive text",
+   "items": [],
+   "more": 0,
+   "fix": "\u201cRead more\u201d tells a crawler nothing about what it points at. Name the destination: \u201cSee our skin treatments\u201d."
+  },
+  {
+   "group": "Links and images",
+   "item": "Internal links to the rest of the site",
+   "state": "good",
+   "detail": "14 internal links",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Links and images",
+   "item": "Every image has alt text",
+   "state": "improve",
+   "detail": "2 of 11 images have none",
+   "items": [
+    "assets/2db08c4c.jpg",
+    "assets/caf3275f.jpg"
+   ],
+   "more": 0,
+   "fix": "Alt text is the only thing a crawler reads of a photo. Describe it plainly; do not list keywords."
+  },
+  {
+   "group": "Links and images",
+   "item": "Image filenames read as words",
+   "state": "improve",
+   "detail": "2 image(s) are named after a hash",
+   "items": [
+    "2db08c4c.jpg",
+    "caf3275f.jpg"
+   ],
+   "more": 0,
+   "fix": "Rename them before upload: \u201cskin-clinic-johor-bahru-treatment-room.jpg\u201d. It is most of image search."
+  },
+  {
+   "group": "Markup",
+   "item": "Canonical URL",
+   "state": "missing",
+   "detail": "no canonical link on the page",
+   "items": [],
+   "more": 0,
+   "fix": "Set it in Yoast once the page has a real URL. It is what stops a duplicate at ?utm= splitting the page's own signals."
+  },
+  {
+   "group": "Markup",
+   "item": "Share preview (Open Graph)",
+   "state": "good",
+   "detail": "4 Open Graph tags",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Markup",
+   "item": "Structured data",
+   "state": "good",
+   "detail": "JSON-LD is on the page",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Markup",
+   "item": "Language and region",
+   "state": "good",
+   "detail": "lang=\u201cen-MY\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "AI search",
+   "item": "Headings phrased as questions",
+   "state": "improve",
+   "detail": "0 of 43 headings are questions",
+   "items": [],
+   "more": 0,
+   "fix": "An assistant answering \u201cwhere can I get X in Y\u201d lifts the passage under a heading that asks it. Two or three per page is enough."
+  },
+  {
+   "group": "AI search",
+   "item": "Name, address and phone all on the page",
+   "state": "improve",
+   "detail": "missing from the page: address",
+   "items": [],
+   "more": 0,
+   "fix": "A model deciding whether two mentions are the same business matches on these three together. One missing and the page stops confirming the entity."
+  },
+  {
+   "group": "AI search",
+   "item": "A question and answer block",
+   "state": "improve",
+   "detail": "no FAQ section",
+   "items": [],
+   "more": 0,
+   "fix": "Five real questions with short, direct answers. It is the most-quoted block on a page in AI answers and it earns FAQ schema at the same time."
+  }
+ ]
+}

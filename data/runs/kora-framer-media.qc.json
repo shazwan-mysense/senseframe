@@ -2,14 +2,14 @@
  "slug": "kora-framer-media",
  "page": "data/clones/kora-framer-media-rebrand/index.html",
  "rebranded": true,
- "when": "2026-11-19T15:19:18",
+ "when": "2026-11-19T16:36:09",
  "counts": {
-  "pass": 5,
-  "fail": 7,
+  "pass": 8,
+  "fail": 4,
   "warn": 7,
   "skip": 23
  },
- "blocking": 7,
+ "blocking": 4,
  "checks": [
   {
    "group": "Developer QA",
@@ -47,35 +47,33 @@
   {
    "group": "Developer QA",
    "item": "All images load correctly and are optimized (< 500KB each)",
-   "state": "fail",
-   "detail": "1 image(s) over 500KB",
-   "items": [
-    "7f03f6ebcec1.jpg  0.6 MB"
-   ],
+   "state": "pass",
+   "detail": "every image is under 500KB",
+   "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": "Re-export these under 500KB before the Elementor pack."
   },
   {
    "group": "PM QA",
    "item": "All images have descriptive alt text",
    "state": "fail",
-   "detail": "46 of 46 images have no alt text",
+   "detail": "31 of 46 images have no alt text",
    "items": [
-    "assets/9d6ca4ef7c43.jpg",
-    "assets/ce5be45d3228.jpg",
-    "assets/7f03f6ebcec1.jpg",
-    "assets/017a4c7f02d5.jpg",
-    "assets/beefd5f41a45.jpg",
-    "assets/1b5fbcb6782b.jpg",
-    "assets/8e73782366e8.jpg",
-    "assets/f6c756990cba.jpg",
-    "assets/49db92fa2b39.jpg",
-    "assets/698b0c6c2eae.jpg",
-    "assets/f3d26f9d4725.jpg",
-    "assets/cad5f906d801.jpg"
+    "assets/00350a3f.jpg",
+    "assets/f373d434.jpg",
+    "assets/b73b4c4f.jpg",
+    "assets/8a6af4eb.jpg",
+    "assets/aeea4ed8.jpg",
+    "assets/a94063fd.jpg",
+    "assets/c8212f26.jpg",
+    "assets/d4f2dcac.jpg",
+    "assets/3662c9ca.jpg",
+    "assets/a58e28a5.jpg",
+    "assets/22e316ee.jpg",
+    "assets/660ad2ed.jpg"
    ],
-   "more": 34,
+   "more": 19,
    "blocking": true,
    "fix": "Alt text describes the photo for a screen reader and for Google; it cannot be generated from a stock search term."
   },
@@ -170,18 +168,18 @@
   {
    "group": "Developer QA",
    "item": "Footer includes: Copyright \u00a9 [Year] [Brand]. Project by MYSense Marketing",
-   "state": "fail",
-   "detail": "missing: \u00a9 2026, \u201cProject by MYSense Marketing\u201d",
+   "state": "pass",
+   "detail": "the footer line is present",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": "Add it as the last text block in the footer section of Edit content."
   },
   {
    "group": "PM QA",
    "item": "Page titles and meta descriptions set correctly",
    "state": "fail",
-   "detail": "title is 64 characters, over the 60 Google shows; no meta description",
+   "detail": "title is 64 characters, over the 60 Google shows",
    "items": [],
    "more": 0,
    "blocking": true,
@@ -190,11 +188,11 @@
   {
    "group": "Developer QA",
    "item": "Favicon uploaded and displays correctly",
-   "state": "fail",
-   "detail": "no favicon on the page",
+   "state": "pass",
+   "detail": "the client's initial in their accent colour",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": ""
   },
   {

@@ -2,7 +2,7 @@
  "slug": "angelic-troll-370301-framer-app",
  "page": "data/clones/angelic-troll-370301-framer-app-rebrand/index.html",
  "rebranded": true,
- "when": "2026-11-19T15:19:49",
+ "when": "2026-11-19T16:35:50",
  "counts": {
   "pass": 12,
   "fail": 3,
@@ -60,8 +60,8 @@
    "state": "fail",
    "detail": "2 of 11 images have no alt text",
    "items": [
-    "assets/2db08c4cc363.jpg",
-    "assets/caf3275fc724.jpg"
+    "assets/2db08c4c.jpg",
+    "assets/caf3275f.jpg"
    ],
    "more": 0,
    "blocking": true,
@@ -170,7 +170,7 @@
    "group": "PM QA",
    "item": "Page titles and meta descriptions set correctly",
    "state": "pass",
-   "detail": "title 56 chars, description 74 chars",
+   "detail": "title 56 chars, description 118 chars",
    "items": [],
    "more": 0,
    "blocking": false,

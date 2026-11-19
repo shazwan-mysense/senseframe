@@ -1,0 +1,180 @@
+{
+ "slug": "www-leocussen-edu-au-practical-legal-training",
+ "rebranded": false,
+ "page": "data/clones/www-leocussen-edu-au-practical-legal-training/index.html",
+ "when": "2026-11-19T16:36:24",
+ "terms": [],
+ "words": 1135,
+ "counts": {
+  "good": 12,
+  "improve": 3,
+  "missing": 3
+ },
+ "findings": [
+  {
+   "group": "Structure",
+   "item": "One H1",
+   "state": "good",
+   "detail": "\u201c01\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Structure",
+   "item": "H1 says what the page is about",
+   "state": "improve",
+   "detail": "the headline is split across 5 blocks, so no single one can carry it",
+   "items": [],
+   "more": 0,
+   "fix": "The template animates this headline a word at a time, so it was measured as separate blocks. Write the whole headline into the first of them in Edit content and clear the rest."
+  },
+  {
+   "group": "Structure",
+   "item": "Heading order runs in sequence",
+   "state": "good",
+   "detail": "no levels skipped across 27 headings",
+   "items": [],
+   "more": 0,
+   "fix": "A jump from H2 to H4 reads to a crawler as a missing section. Demote or promote so each level follows the one above."
+  },
+  {
+   "group": "Structure",
+   "item": "Sections carry their own headings",
+   "state": "good",
+   "detail": "10 H2s",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Title tag",
+   "state": "good",
+   "detail": "43 characters, on topic",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Meta description",
+   "state": "improve",
+   "detail": "no meta description",
+   "items": [],
+   "more": 0,
+   "fix": "It does not rank the page, it decides whether anyone clicks it. One sentence on what the business does, one on what to do next."
+  },
+  {
+   "group": "Words",
+   "item": "Enough on the page to rank",
+   "state": "good",
+   "detail": "1135 words",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Links and images",
+   "item": "Link text describes the destination",
+   "state": "good",
+   "detail": "all 10 links carry descriptive text",
+   "items": [],
+   "more": 0,
+   "fix": "\u201cRead more\u201d tells a crawler nothing about what it points at. Name the destination: \u201cSee our skin treatments\u201d."
+  },
+  {
+   "group": "Links and images",
+   "item": "Internal links to the rest of the site",
+   "state": "good",
+   "detail": "8 internal links",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Links and images",
+   "item": "Every image has alt text",
+   "state": "good",
+   "detail": "all 0 images carry alt text",
+   "items": [],
+   "more": 0,
+   "fix": "Alt text is the only thing a crawler reads of a photo. Describe it plainly; do not list keywords."
+  },
+  {
+   "group": "Links and images",
+   "item": "Image filenames read as words",
+   "state": "good",
+   "detail": "filenames are readable",
+   "items": [],
+   "more": 0,
+   "fix": "Rename them before upload: \u201cskin-clinic-johor-bahru-treatment-room.jpg\u201d. It is most of image search."
+  },
+  {
+   "group": "Markup",
+   "item": "Canonical URL",
+   "state": "missing",
+   "detail": "no canonical link on the page",
+   "items": [],
+   "more": 0,
+   "fix": "Set it in Yoast once the page has a real URL. It is what stops a duplicate at ?utm= splitting the page's own signals."
+  },
+  {
+   "group": "Markup",
+   "item": "Share preview (Open Graph)",
+   "state": "missing",
+   "detail": "2 Open Graph tags",
+   "items": [],
+   "more": 0,
+   "fix": "Without og:title, og:description and og:image, a link pasted into WhatsApp shows a bare URL. For a clinic that is most of how the page travels."
+  },
+  {
+   "group": "Markup",
+   "item": "Structured data",
+   "state": "missing",
+   "detail": "no structured data",
+   "items": [],
+   "more": 0,
+   "fix": "Add LocalBusiness schema with the name, address, phone and opening hours. It is what puts the map pack details and the rating stars in the result."
+  },
+  {
+   "group": "Markup",
+   "item": "Language and region",
+   "state": "good",
+   "detail": "lang=\u201cen\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "AI search",
+   "item": "Headings phrased as questions",
+   "state": "good",
+   "detail": "2 of 27 headings are questions",
+   "items": [
+    "How you'll learn",
+    "What our graduates say"
+   ],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "AI search",
+   "item": "Name, address and phone all on the page",
+   "state": "improve",
+   "detail": "missing from the page: name, address, phone",
+   "items": [],
+   "more": 0,
+   "fix": "A model deciding whether two mentions are the same business matches on these three together. One missing and the page stops confirming the entity."
+  },
+  {
+   "group": "AI search",
+   "item": "A question and answer block",
+   "state": "good",
+   "detail": "there is an FAQ section",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  }
+ ]
+}

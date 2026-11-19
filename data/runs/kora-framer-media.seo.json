@@ -1,0 +1,232 @@
+{
+ "slug": "kora-framer-media",
+ "rebranded": true,
+ "page": "data/clones/kora-framer-media-rebrand/index.html",
+ "when": "2026-11-19T16:36:09",
+ "terms": [
+  "aesthetic",
+  "skin",
+  "clinic",
+  "bangsar",
+  "kuala",
+  "lumpur",
+  "women",
+  "aged",
+  "klang",
+  "valley"
+ ],
+ "words": 1384,
+ "counts": {
+  "good": 12,
+  "improve": 7,
+  "missing": 1
+ },
+ "findings": [
+  {
+   "group": "Structure",
+   "item": "One H1",
+   "state": "good",
+   "detail": "\u201cTestimonials\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Structure",
+   "item": "H1 says what the page is about",
+   "state": "improve",
+   "detail": "only 12 characters; none of the brief's words appear in it",
+   "items": [],
+   "more": 0,
+   "fix": "An H1 should name the service and the place: \u201cTestimonials\u201d reads as a slogan, not a subject."
+  },
+  {
+   "group": "Structure",
+   "item": "Heading order runs in sequence",
+   "state": "good",
+   "detail": "no levels skipped across 50 headings",
+   "items": [],
+   "more": 0,
+   "fix": "A jump from H2 to H4 reads to a crawler as a missing section. Demote or promote so each level follows the one above."
+  },
+  {
+   "group": "Structure",
+   "item": "Sections carry their own headings",
+   "state": "good",
+   "detail": "24 H2s",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Title tag",
+   "state": "improve",
+   "detail": "64 characters, outside the 30-60 Google shows",
+   "items": [],
+   "more": 0,
+   "fix": "Service, then place, then brand: \u201cAesthetic Clinic in Johor Bahru | Klinik Suzana\u201d. Set it in Yoast on import."
+  },
+  {
+   "group": "Words",
+   "item": "Meta description",
+   "state": "good",
+   "detail": "121 characters, on topic",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "Enough on the page to rank",
+   "state": "good",
+   "detail": "1384 words",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Words",
+   "item": "The subject appears early",
+   "state": "improve",
+   "detail": "the first screen mentions 1 of the brief's words",
+   "items": [],
+   "more": 0,
+   "fix": "Say what the business is and where, in the first paragraph, in the words people search for."
+  },
+  {
+   "group": "Words",
+   "item": "The copy is the client's",
+   "state": "improve",
+   "detail": "267 blocks are still the template's words",
+   "items": [],
+   "more": 0,
+   "fix": "Template copy describes a different business. It is the single biggest thing holding this page back, ranking and conversion both."
+  },
+  {
+   "group": "Links and images",
+   "item": "Link text describes the destination",
+   "state": "good",
+   "detail": "all 11 links carry descriptive text",
+   "items": [],
+   "more": 0,
+   "fix": "\u201cRead more\u201d tells a crawler nothing about what it points at. Name the destination: \u201cSee our skin treatments\u201d."
+  },
+  {
+   "group": "Links and images",
+   "item": "Internal links to the rest of the site",
+   "state": "good",
+   "detail": "11 internal links",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Links and images",
+   "item": "Every image has alt text",
+   "state": "improve",
+   "detail": "31 of 46 images have none",
+   "items": [
+    "assets/00350a3f.jpg",
+    "assets/f373d434.jpg",
+    "assets/b73b4c4f.jpg",
+    "assets/8a6af4eb.jpg",
+    "assets/aeea4ed8.jpg",
+    "assets/a94063fd.jpg",
+    "assets/c8212f26.jpg",
+    "assets/d4f2dcac.jpg",
+    "assets/3662c9ca.jpg",
+    "assets/a58e28a5.jpg"
+   ],
+   "more": 21,
+   "fix": "Alt text is the only thing a crawler reads of a photo. Describe it plainly; do not list keywords."
+  },
+  {
+   "group": "Links and images",
+   "item": "Image filenames read as words",
+   "state": "improve",
+   "detail": "31 image(s) are named after a hash",
+   "items": [
+    "00350a3f.jpg",
+    "f373d434.jpg",
+    "b73b4c4f.jpg",
+    "8a6af4eb.jpg",
+    "aeea4ed8.jpg",
+    "a94063fd.jpg",
+    "c8212f26.jpg",
+    "d4f2dcac.jpg",
+    "3662c9ca.jpg",
+    "a58e28a5.jpg"
+   ],
+   "more": 21,
+   "fix": "Rename them before upload: \u201cskin-clinic-johor-bahru-treatment-room.jpg\u201d. It is most of image search."
+  },
+  {
+   "group": "Markup",
+   "item": "Canonical URL",
+   "state": "missing",
+   "detail": "no canonical link on the page",
+   "items": [],
+   "more": 0,
+   "fix": "Set it in Yoast once the page has a real URL. It is what stops a duplicate at ?utm= splitting the page's own signals."
+  },
+  {
+   "group": "Markup",
+   "item": "Share preview (Open Graph)",
+   "state": "good",
+   "detail": "4 Open Graph tags",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Markup",
+   "item": "Structured data",
+   "state": "good",
+   "detail": "JSON-LD is on the page",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "Markup",
+   "item": "Language and region",
+   "state": "good",
+   "detail": "lang=\u201cen-MY\u201d",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "AI search",
+   "item": "Headings phrased as questions",
+   "state": "good",
+   "detail": "3 of 50 headings are questions",
+   "items": [
+    "What changes",
+    "How we work",
+    "How Sitemark broke through an $18M plateau and grew 47% in six months."
+   ],
+   "more": 0,
+   "fix": ""
+  },
+  {
+   "group": "AI search",
+   "item": "Name, address and phone all on the page",
+   "state": "improve",
+   "detail": "missing from the page: address, phone",
+   "items": [],
+   "more": 0,
+   "fix": "A model deciding whether two mentions are the same business matches on these three together. One missing and the page stops confirming the entity."
+  },
+  {
+   "group": "AI search",
+   "item": "A question and answer block",
+   "state": "good",
+   "detail": "there is an FAQ section",
+   "items": [],
+   "more": 0,
+   "fix": ""
+  }
+ ]
+}

@@ -13,7 +13,7 @@
 <link rel="icon" href="assets/logo.svg">
 <meta name="robots" content="noindex, nofollow">
 <script>window.SF_VIEWER = {
- "built": "19 Nov 2026, 16:08",
+ "built": "19 Nov 2026, 16:36",
  "clones": [
   "angelic-troll-370301-framer-app-rebrand",
   "kairn-framer-website-rebrand",
@@ -182,6 +182,7 @@
         <div class="spacer"></div>
         <button class="btn btn-sm" id="act-edit">Edit content</button>
         <button class="btn btn-sm" id="act-open">Preview</button>
+        <button class="btn btn-sm" id="act-seo">SEO</button>
         <button class="btn btn-sm" id="act-qc">Checklist</button>
         <button class="btn btn-sm btn-primary" id="act-elementor">Generate Elementor pack</button>
       </div>
@@ -427,6 +428,21 @@
   </div>
 </div>
 
+<!-- =============================================================== SEO -->
+<div class="modal" id="seo" hidden>
+  <div class="qc-card">
+    <img class="qc-buddy" src="assets/mascot/blueprint.png" alt="">
+    <div class="job-head">
+      <h3>SEO read</h3>
+      <div class="spacer"></div>
+      <span class="chip" id="seo-tally"></span>
+      <button class="btn btn-sm" id="seo-close">Close</button>
+    </div>
+    <p class="qc-sub" id="seo-sub"></p>
+    <div class="qc-list" id="seo-list"></div>
+  </div>
+</div>
+
 <!-- ============================================================ JOB -->
 <div class="modal" id="job" hidden>
   <div class="job-card">
@@ -443,7 +459,7 @@
 </div>
 
 <script src="js/text-entry.js?v=1795054242"></script>
-<script src="js/app.js?v=1795075497"></script>
+<script src="js/app.js?v=1795077312"></script>
 <script src="js/rise.js?v=1795056075"></script>
 </body>
 </html>

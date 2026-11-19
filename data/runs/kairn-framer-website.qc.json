@@ -2,14 +2,14 @@
  "slug": "kairn-framer-website",
  "page": "data/clones/kairn-framer-website-rebrand/index.html",
  "rebranded": true,
- "when": "2026-11-19T15:19:27",
+ "when": "2026-11-19T16:35:59",
  "counts": {
-  "pass": 7,
-  "fail": 7,
+  "pass": 11,
+  "fail": 3,
   "warn": 5,
   "skip": 23
  },
- "blocking": 7,
+ "blocking": 3,
  "checks": [
   {
    "group": "Developer QA",
@@ -47,38 +47,33 @@
   {
    "group": "Developer QA",
    "item": "All images load correctly and are optimized (< 500KB each)",
-   "state": "fail",
-   "detail": "4 image(s) over 500KB",
-   "items": [
-    "0c5abda1204e.png  0.8 MB",
-    "28c5dce67179.jpg  6.3 MB",
-    "52234d8260f7.png  0.7 MB",
-    "874dfa585f5b.jpg  0.7 MB"
-   ],
+   "state": "pass",
+   "detail": "every image is under 500KB",
+   "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": "Re-export these under 500KB before the Elementor pack."
   },
   {
    "group": "PM QA",
    "item": "All images have descriptive alt text",
    "state": "fail",
-   "detail": "40 of 40 images have no alt text",
+   "detail": "17 of 40 images have no alt text",
    "items": [
-    "assets/0c5abda1204e.png",
-    "assets/52234d8260f7.png",
-    "assets/c8c8f28b1011.jpg",
-    "assets/4b3a11ab0b91.jpg",
-    "assets/6a16eabc3734.jpg",
-    "assets/0a4ab3a6ea5c.jpg",
-    "assets/d7530ab5e119.jpg",
-    "assets/f08eb0b41bb8.jpg",
-    "assets/dcc97e96f941.jpg",
-    "assets/28c5dce67179.jpg",
-    "assets/b3a77de794b8.jpg",
-    "assets/82666aa8d5ed.jpg"
+    "assets/0c5abda1.png",
+    "assets/52234d82.png",
+    "assets/0a4ab3a6.jpg",
+    "assets/1b90a140.jpg",
+    "assets/903a018b.jpg",
+    "assets/991d5215.jpg",
+    "assets/ca66727f.jpg",
+    "assets/bdb4cdf4.jpg",
+    "assets/8af4e556.jpg",
+    "assets/dfcc25f9.jpg",
+    "assets/f4bce895.jpg",
+    "assets/ab832d17.jpg"
    ],
-   "more": 28,
+   "more": 5,
    "blocking": true,
    "fix": "Alt text describes the photo for a screen reader and for Google; it cannot be generated from a stock search term."
   },
@@ -169,31 +164,31 @@
   {
    "group": "Developer QA",
    "item": "Footer includes: Copyright \u00a9 [Year] [Brand]. Project by MYSense Marketing",
-   "state": "fail",
-   "detail": "missing: \u00a9 2026, \u201cProject by MYSense Marketing\u201d",
+   "state": "pass",
+   "detail": "the footer line is present",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": "Add it as the last text block in the footer section of Edit content."
   },
   {
    "group": "PM QA",
    "item": "Page titles and meta descriptions set correctly",
-   "state": "fail",
-   "detail": "no meta description",
+   "state": "pass",
+   "detail": "title 56 chars, description 115 chars",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": "Both come from the brief: the name and what the business does. Yoast carries them across on import."
   },
   {
    "group": "Developer QA",
    "item": "Favicon uploaded and displays correctly",
-   "state": "fail",
-   "detail": "no favicon on the page",
+   "state": "pass",
+   "detail": "the client's initial in their accent colour",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": ""
   },
   {

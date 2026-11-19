@@ -2,14 +2,14 @@
  "slug": "www-lxlcreative-co-uk",
  "page": "data/clones/www-lxlcreative-co-uk/index.html",
  "rebranded": false,
- "when": "2026-11-19T15:19:36",
+ "when": "2026-11-19T16:36:18",
  "counts": {
-  "pass": 8,
-  "fail": 5,
+  "pass": 9,
+  "fail": 4,
   "warn": 3,
   "skip": 25
  },
- "blocking": 5,
+ "blocking": 4,
  "checks": [
   {
    "group": "Developer QA",
@@ -47,18 +47,18 @@
    "state": "fail",
    "detail": "18 of 18 images have no alt text",
    "items": [
-    "assets/b0daf6130362.avif",
-    "assets/560048f5cc82.avif",
-    "assets/76fbefea8187.avif",
-    "assets/9bee8a41f3be.avif",
-    "assets/c33b632b6eda.avif",
-    "assets/5e81b1527775.avif",
-    "assets/e80c59b66c92.avif",
-    "assets/ee1b8d328fa0.avif",
-    "assets/bbd04a2822bf.avif",
-    "assets/31d6d82d9234.avif",
-    "assets/613127c46d2a.avif",
-    "assets/cdfc8427838e.avif"
+    "assets/b0daf613.avif",
+    "assets/560048f5.avif",
+    "assets/76fbefea.avif",
+    "assets/9bee8a41.avif",
+    "assets/c33b632b.avif",
+    "assets/5e81b152.avif",
+    "assets/e80c59b6.avif",
+    "assets/ee1b8d32.avif",
+    "assets/bbd04a28.avif",
+    "assets/31d6d82d.avif",
+    "assets/613127c4.avif",
+    "assets/cdfc8427.avif"
    ],
    "more": 6,
    "blocking": true,
@@ -159,11 +159,11 @@
   {
    "group": "Developer QA",
    "item": "Favicon uploaded and displays correctly",
-   "state": "fail",
-   "detail": "no favicon on the page",
+   "state": "pass",
+   "detail": "the client's initial in their accent colour",
    "items": [],
    "more": 0,
-   "blocking": true,
+   "blocking": false,
    "fix": ""
   },
   {

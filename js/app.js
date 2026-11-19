@@ -437,7 +437,11 @@ $('#tpl-modal').addEventListener('click', e => {
   if (e.target.id === 'tpl-modal') $('#tpl-modal').hidden = true;
 });
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') $('#tpl-modal').hidden = true;
+  if (e.key !== 'Escape') return;
+  ['#tpl-modal', '#qc', '#seo', '#editor'].forEach(id => {
+    const m = $(id);
+    if (m) m.hidden = true;
+  });
 });
 $$('#b-copy button').forEach(b => b.addEventListener('click', () => {
   $$('#b-copy button').forEach(x => x.classList.remove('is-on'));
@@ -685,6 +689,87 @@ $('#act-qc')?.addEventListener('click', () => runQC($('#act-qc')));
 $('#qc-close').addEventListener('click', () => { $('#qc').hidden = true; });
 $('#qc-again').addEventListener('click', () => runQC($('#qc-again')));
 $('#qc').addEventListener('click', e => { if (e.target.id === 'qc') $('#qc').hidden = true; });
+
+/* ---------------------------------------------------------- the SEO read */
+
+// What a crawler reads of the page, judged against the brief rather than
+// against a generic list — so "does the H1 say what this business does" is a
+// real question here. Advice only: it never blocks the export.
+
+const SEO_GROUPS = ['Structure', 'Words', 'Links and images', 'Markup', 'AI search'];
+const SEO_WORD = { good: 'Good', improve: 'Could be better', missing: 'Not there' };
+const SEO_CLASS = { good: 'pass', improve: 'warn', missing: 'fail' };
+
+function renderSEO(rep) {
+  const c = rep.counts;
+  $('#seo-tally').textContent = `${c.good} good · ${c.improve + c.missing} to work on`;
+  $('#seo-tally').className = 'chip chip-'
+    + (c.missing ? 'bad' : c.improve ? 'warn' : 'good');
+  $('#seo-sub').textContent = rep.terms && rep.terms.length
+    ? `${rep.words} words on the page, read against the brief: `
+      + `${rep.terms.slice(0, 6).join(', ')}.`
+    : `${rep.words} words on the page. With no brief there is nothing to judge `
+      + `the wording against, so only the structure was read.`;
+
+  const host = $('#seo-list');
+  host.innerHTML = '';
+  SEO_GROUPS.forEach(g => {
+    const rows = rep.findings.filter(x => x.group === g);
+    if (!rows.length) return;
+    const sec = document.createElement('section');
+    sec.className = 'qc-sec';
+    const head = document.createElement('button');
+    head.className = 'qc-sec-head';
+    const work = rows.filter(r => r.state !== 'good').length;
+    head.innerHTML = `<h4>${g}</h4><span>${work ? work + ' to work on' : 'all good'}</span>`;
+    head.addEventListener('click', () => sec.classList.toggle('is-shut'));
+    sec.appendChild(head);
+
+    rows.forEach(r => {
+      const el = document.createElement('div');
+      el.className = 'qc-row qc-' + SEO_CLASS[r.state];
+      const list = r.items && r.items.length
+        ? `<ul class="qc-items">${r.items.map(i =>
+            `<li>${String(i).replace(/</g, '&lt;')}</li>`).join('')}${
+            r.more ? `<li class="qc-more">and ${r.more} more</li>` : ''}</ul>`
+        : '';
+      el.innerHTML =
+        `<span class="qc-mark">${r.state === 'good' ? '&#10003;'
+          : r.state === 'missing' ? '&#33;' : '&#8226;'}</span>
+         <div class="qc-body">
+           <strong>${r.item}</strong>
+           <span class="qc-state">${SEO_WORD[r.state]}</span>
+           <p>${r.detail}</p>
+           ${list}
+           ${r.fix ? `<p class="qc-fix">${r.fix}</p>` : ''}
+         </div>`;
+      sec.appendChild(el);
+    });
+    host.appendChild(sec);
+  });
+  $('#seo').hidden = false;
+}
+
+async function runSEO(btn) {
+  const was = btn && btn.textContent;
+  if (btn) { btn.disabled = true; btn.textContent = 'Reading…'; }
+  try {
+    const rep = VIEWER
+      ? await fetch(`data/runs/${RUN.slug}.seo.json?t=${Date.now()}`)
+          .then(r => (r.ok ? r.json() : Promise.reject(
+            new Error('This run has not had an SEO read.'))))
+      : await post('/api/seo', { slug: RUN.slug });
+    renderSEO(rep);
+  } catch (e) {
+    alert('Could not read the page: ' + e.message);
+  } finally {
+    if (btn) { btn.disabled = false; btn.textContent = was; }
+  }
+}
+
+$('#act-seo')?.addEventListener('click', () => runSEO($('#act-seo')));
+$('#seo-close').addEventListener('click', () => { $('#seo').hidden = true; });
+$('#seo').addEventListener('click', e => { if (e.target.id === 'seo') $('#seo').hidden = true; });
 
 async function emitPack(override) {
   const btn = $('#act-elementor');
