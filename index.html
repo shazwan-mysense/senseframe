@@ -9,11 +9,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Righteous&family=Nunito:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/tokens.css?v=1795054296">
 <link rel="stylesheet" href="css/text-entry.css?v=1795054242">
-<link rel="stylesheet" href="css/app.css?v=1795075421">
+<link rel="stylesheet" href="css/app.css?v=1795077702">
 <link rel="icon" href="assets/logo.svg">
 <meta name="robots" content="noindex, nofollow">
 <script>window.SF_VIEWER = {
- "built": "19 Nov 2026, 16:36",
+ "built": "19 Nov 2026, 16:47",
  "clones": [
   "angelic-troll-370301-framer-app-rebrand",
   "kairn-framer-website-rebrand",
@@ -43,13 +43,14 @@
       <p>SenseFrame is for the MYSense web team. Accounts are created by hand.</p>
       <div class="field">
         <label for="email">Email</label>
-        <input class="input" id="email" type="email" value="shazwan@mysense.com.my">
+        <input class="input" id="email" type="email" value="shazwan@mysense.com.my" autocomplete="username">
       </div>
       <div class="field">
         <label for="pw">Password</label>
-        <input class="input" id="pw" type="password" value="............">
+        <input class="input" id="pw" type="password" placeholder="three words and a number" autocomplete="current-password">
       </div>
       <button class="btn btn-primary btn-block" id="do-login" style="margin-top:10px">Sign in</button>
+      <p class="login-err" id="login-err" hidden></p>
       <p class="login-note">Four seats. No signup, no billing, no password reset — ask Shazwan.</p>
     </div>
   </div>
@@ -459,7 +460,7 @@
 </div>
 
 <script src="js/text-entry.js?v=1795054242"></script>
-<script src="js/app.js?v=1795077312"></script>
+<script src="js/app.js?v=1795077702"></script>
 <script src="js/rise.js?v=1795056075"></script>
 </body>
 </html>

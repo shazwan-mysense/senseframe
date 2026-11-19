@@ -1,0 +1,141 @@
+{
+ "slug": "ilse-moreno-framer-website-work",
+ "title": "Work \u00b7 Ilse Moreno",
+ "source_url": "https://ilse-moreno.framer.website/work/",
+ "stack": "framer",
+ "captured_at": "2026-11-19T16:45:03+0800",
+ "page_height": 3112,
+ "clone_height": 3024,
+ "height_ratio": 0.972,
+ "mean_score": 82.1,
+ "tracked": 44,
+ "motion_counts": {},
+ "lead_motion": null,
+ "warnings": [],
+ "sections": [
+  {
+   "id": "s00",
+   "name": "Work",
+   "blocks": 4,
+   "height": 362,
+   "score": 81.8,
+   "regions": [
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 24.5
+    },
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 10.7
+    },
+    {
+     "col": 3,
+     "row": 2,
+     "where": "right bottom",
+     "diff": 9.6
+    }
+   ],
+   "shots": {
+    "src": "data/runs/ilse-moreno-framer-website-work/00-src.jpg",
+    "cln": "data/runs/ilse-moreno-framer-website-work/00-cln.jpg"
+   }
+  },
+  {
+   "id": "s01",
+   "name": "Waymark \u00b7 Website",
+   "blocks": 27,
+   "height": 880,
+   "score": 65.1,
+   "regions": [
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 61.1
+    },
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 42.7
+    },
+    {
+     "col": 0,
+     "row": 2,
+     "where": "left bottom",
+     "diff": 27.3
+    }
+   ],
+   "shots": {
+    "src": "data/runs/ilse-moreno-framer-website-work/01-src.jpg",
+    "cln": "data/runs/ilse-moreno-framer-website-work/01-cln.jpg"
+   }
+  },
+  {
+   "id": "s02",
+   "name": "All projects",
+   "blocks": 32,
+   "height": 1370,
+   "score": 93.0,
+   "regions": [
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 8.9
+    },
+    {
+     "col": 1,
+     "row": 2,
+     "where": "centre-left bottom",
+     "diff": 8.6
+    },
+    {
+     "col": 3,
+     "row": 0,
+     "where": "right top",
+     "diff": 5.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/ilse-moreno-framer-website-work/02-src.jpg",
+    "cln": "data/runs/ilse-moreno-framer-website-work/02-cln.jpg"
+   }
+  },
+  {
+   "id": "s03",
+   "name": "ilse moreno",
+   "blocks": 14,
+   "height": 412,
+   "score": 88.6,
+   "regions": [
+    {
+     "col": 1,
+     "row": 0,
+     "where": "centre-left top",
+     "diff": 25.0
+    },
+    {
+     "col": 0,
+     "row": 0,
+     "where": "left top",
+     "diff": 19.4
+    },
+    {
+     "col": 2,
+     "row": 2,
+     "where": "centre-right bottom",
+     "diff": 18.1
+    }
+   ],
+   "shots": {
+    "src": "data/runs/ilse-moreno-framer-website-work/03-src.jpg",
+    "cln": "data/runs/ilse-moreno-framer-website-work/03-cln.jpg"
+   }
+  }
+ ]
+}

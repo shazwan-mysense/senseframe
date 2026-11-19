@@ -1368,3 +1368,8 @@ img.avatar {
 }
 .viewer-foot a { color: var(--accent); }
 .is-viewer .tpl-sec-head h3 { cursor: default; }
+
+.login-err {
+  margin: 10px 0 0; padding: 8px 11px; border-radius: var(--r-sm);
+  background: var(--bad-soft); color: var(--bad); font-size: 12.5px;
+}

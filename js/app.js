@@ -38,10 +38,51 @@ function goto(pane) {
     b.classList.toggle('is-active', b.dataset.goto === lit));
 }
 
-$('#do-login').addEventListener('click', () => {
+// The sign-in used to hide a panel. With the app on a tunnel it has to be a
+// real one: the server holds a password and hands back a session cookie, and
+// without it every route but the shell answers 401.
+function enterApp() {
   $('#view-login').hidden = true;
   $('#view-app').hidden = false;
+  loadRuns();
+  loadTemplates();
+}
+
+async function signIn() {
+  const btn = $('#do-login');
+  const err = $('#login-err');
+  const pw = $('#pw').value;
+  err.hidden = true;
+  btn.disabled = true;
+  const was = btn.textContent;
+  btn.textContent = 'Signing in…';
+  try {
+    await post('/api/login', { password: pw });
+    enterApp();
+  } catch (e) {
+    err.textContent = e.message === 'wrong password'
+      ? 'That is not the password.' : e.message;
+    err.hidden = false;
+    $('#pw').select();
+  } finally {
+    btn.disabled = false;
+    btn.textContent = was;
+  }
+}
+
+$('#do-login').addEventListener('click', () => {
+  // The published viewer has no server to sign in to.
+  if (window.SF_VIEWER) return enterApp();
+  signIn();
 });
+$('#pw').addEventListener('keydown', e => { if (e.key === 'Enter') signIn(); });
+
+// A session cookie survives a reload, so going straight in beats asking again.
+if (!window.SF_VIEWER) {
+  fetch('data/runs.json', { method: 'HEAD' })
+    .then(r => { if (r.ok) enterApp(); })
+    .catch(() => {});
+}
 
 $$('[data-goto]').forEach(b => b.addEventListener('click', () => goto(b.dataset.goto)));
 
@@ -236,7 +277,6 @@ function loadRuns() {
 }
 
 $('#runs-new')?.addEventListener('click', () => goto('empty'));
-loadRuns();
 
 /* --------------------------------------------------- template library */
 
@@ -449,10 +489,12 @@ $$('#b-copy button').forEach(b => b.addEventListener('click', () => {
 }));
 
 
-fetch('data/templates.json')
-  .then(r => r.json())
-  .then(t => { TEMPLATES = t; renderTemplates(); })
-  .catch(() => { $('#tpl-count').textContent = 'template library not built yet'; });
+function loadTemplates() {
+  return fetch('data/templates.json?t=' + Date.now())
+    .then(r => r.json())
+    .then(t => { TEMPLATES = t; renderTemplates(); })
+    .catch(() => { $('#tpl-count').textContent = 'template library not built yet'; });
+}
 
 
 /* ---------------------------------------------------------- viewer mode */
